@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-28T22:35:35.881433+00:00","dump_mode":"light","endpoints_ok":8,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/me","status":403},{"path":"/competitions/1/ranking","status":403},{"path":"/leagues/3364599/me/budget","status":403},{"path":"/leagues/3364599/ranking","status":403}]}
+{"fetched_at":"2026-08-28T23:05:28.329487+00:00","dump_mode":"light","endpoints_ok":10,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/me/budget","status":403},{"path":"/competitions/1/matchdays","status":403}]}
