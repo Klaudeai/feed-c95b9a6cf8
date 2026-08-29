@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-29T00:35:29.664045+00:00","dump_mode":"light","endpoints_ok":10,"endpoints_total":12,"failed":[{"path":"/competitions/1/ranking","status":403},{"path":"/leagues/3364599/squad","status":403}]}
+{"fetched_at":"2026-08-29T01:05:16.737740+00:00","dump_mode":"light","endpoints_ok":9,"endpoints_total":12,"failed":[{"path":"/competitions/1/ranking","status":403},{"path":"/leagues/3364599/lineup","status":403},{"path":"/competitions/1/matchdays","status":403}]}
