@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-29T03:22:38.760100+00:00","dump_mode":"light","endpoints_ok":10,"endpoints_total":12,"failed":[{"path":"/competitions/1/players","status":403},{"path":"/leagues/3364599/market","status":403}]}
+{"fetched_at":"2026-08-29T03:35:46.362047+00:00","dump_mode":"light","endpoints_ok":11,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/market","status":403}]}
