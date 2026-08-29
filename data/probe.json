@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-29T01:35:28.999444+00:00","dump_mode":"light","endpoints_ok":9,"endpoints_total":12,"failed":[{"path":"/competitions/1/ranking","status":403},{"path":"/leagues/3364599/me/budget","status":403},{"path":"/leagues/3364599/squad","status":403}]}
+{"fetched_at":"2026-08-29T02:23:09.373659+00:00","dump_mode":"light","endpoints_ok":11,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/me","status":403}]}
