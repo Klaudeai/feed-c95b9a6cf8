@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-29T03:35:46.362047+00:00","dump_mode":"light","endpoints_ok":11,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/market","status":403}]}
+{"fetched_at":"2026-08-29T04:05:29.925112+00:00","dump_mode":"light","endpoints_ok":11,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/ranking","status":403}]}
