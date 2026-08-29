@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-29T02:23:09.373659+00:00","dump_mode":"light","endpoints_ok":11,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/me","status":403}]}
+{"fetched_at":"2026-08-29T02:35:23.228507+00:00","dump_mode":"light","endpoints_ok":10,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/activitiesFeed?start=0&max=200","status":403},{"path":"/competitions/1/matchdays","status":403}]}
