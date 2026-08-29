@@ -1,1 +1,1 @@
-{"fetched_at":"2026-08-28T23:35:31.270314+00:00","dump_mode":"light","endpoints_ok":10,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/me/budget","status":403},{"path":"/competitions/1/players","status":403}]}
+{"fetched_at":"2026-08-29T00:05:36.636876+00:00","dump_mode":"light","endpoints_ok":11,"endpoints_total":12,"failed":[{"path":"/leagues/3364599/lineup","status":403}]}
