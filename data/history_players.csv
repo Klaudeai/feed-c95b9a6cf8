@@ -1,0 +1,13 @@
+nr,archived_at,player_id,player,position,team,market_value,season_points,matchday_points,matchday_points_per_mio,prob,status,acquired,purchase_price
+1,2026-09-02T08:49:13+02:00,3102,Rothe,ABW,Union Berlin,10185766,78,78,7.7,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,1580,Schwäbe,TW,Köln,15508005,176,176,11.3,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,4199,García,MF,Leverkusen,39229816,98,98,2.5,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,2522,Raum,ABW,Leipzig,34711284,149,149,4.3,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,608,Füllkrug,ST,Bremen,12898160,-46,-46,-3.6,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,2560,Sander,MF,M'gladbach,12378696,12,12,1.0,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,3470,Caci,ABW,Mainz,11884378,124,124,10.4,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,3183,Kade,ST,Augsburg,13644123,273,273,20.0,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,4596,Gruda,MF,Leipzig,21422819,128,128,6.0,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,10106,Ljubicic,ST,Union Berlin,5351590,23,23,4.3,3,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,11958,Castro-Montes,MF,Köln,9738863,63,63,6.5,1,fit,zugelost_oder_uebernommen,
+1,2026-09-02T08:49:13+02:00,2302,Jeong,MF,Union Berlin,4785021,61,61,12.7,3,fit,zugelost_oder_uebernommen,
