@@ -1,0 +1,406 @@
+event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transfer,overpay,overpay_pct,mv_source
+12256375045,2026-08-13T06:21:49Z,verkauf,Ljubičić,3029,Schalke,,Aaron,8228110,,,,unbekannt
+12256394275,2026-08-13T06:24:49Z,verkauf,Baur,7235,Paderborn,,Aaron,9449327,,,,unbekannt
+12256395151,2026-08-13T06:25:11Z,verkauf,Sauer,7781,Stuttgart,,Aaron,7075183,,,,unbekannt
+12256395340,2026-08-13T06:25:16Z,kauf,Klaus,3364,Union Berlin,Jonnhji,,1855999,,,,unbekannt
+12256823485,2026-08-13T07:34:35Z,kauf,Leopold,3516,M'gladbach,MicheleFerra,,15784523,,,,unbekannt
+12256864123,2026-08-13T07:41:14Z,verkauf,Banks,8355,Augsburg,,Jonnhji,6939464,,,,unbekannt
+12257489851,2026-08-13T09:32:52Z,kauf,Medina,14241,Leverkusen,Jonnhji,,17719999,,,,unbekannt
+12257618125,2026-08-13T09:56:07Z,kauf,Batista Meier,2301,Paderborn,Aaron,,6400001,,,,unbekannt
+12257699134,2026-08-13T10:10:56Z,kauf,Lemke,13433,Hamburg,Paul Block,,1109999,,,,unbekannt
+12260559919,2026-08-13T19:18:58Z,kauf,Petkov,2928,Elversberg,nico,,13500060,,,,unbekannt
+12260734597,2026-08-13T19:49:51Z,kauf,Onyedika,16369,Frankfurt,MicheleFerra,,14531247,,,,unbekannt
+12263576860,2026-08-14T04:11:30Z,verkauf,Lehmann,6149,Elversberg,,schwungzent,2447246,,,,unbekannt
+12263577667,2026-08-14T04:11:49Z,verkauf,Aséko,7417,Frankfurt,,schwungzent,9955476,,,,unbekannt
+12263582959,2026-08-14T04:12:31Z,verkauf,Damjanovic,14893,Leverkusen,,schwungzent,7916327,,,,unbekannt
+12264361930,2026-08-14T06:03:46Z,kauf,Noll,2977,Paderborn,MicheleFerra,,14213573,,,,unbekannt
+12265311679,2026-08-14T08:29:07Z,verkauf,Covic,9996,Bremen,,Kai,5399556,,,,unbekannt
+12265311790,2026-08-14T08:29:11Z,verkauf,Malatini,7469,Bremen,,Kai,4667693,,,,unbekannt
+12266517751,2026-08-14T11:49:02Z,kauf,Karaman,670,Schalke,Aaron,,16800001,,,,unbekannt
+12266992804,2026-08-14T13:11:41Z,kauf,Okon-Engstler,14300,Köln,Felix,,3888889,,,,unbekannt
+12268608352,2026-08-14T17:47:46Z,kauf,Grüll,7721,Bremen,nico,,5342000,,,,unbekannt
+12268614976,2026-08-14T17:49:14Z,verkauf,Lidberg,9540,M'gladbach,,Kai,11202688,,,,unbekannt
+12269302732,2026-08-14T19:43:44Z,kauf,Porath,1691,Schalke,Paul Block,,5756999,,,,unbekannt
+12269433835,2026-08-14T20:05:57Z,verkauf,Zieler,417,Köln,,nico,2968117,,,,unbekannt
+12269444701,2026-08-14T20:07:04Z,verkauf,Schallenberg,2876,Schalke,,nico,8162377,,,,unbekannt
+12269445826,2026-08-14T20:07:14Z,verkauf,Sylla,8222,Schalke,,nico,8880125,,,,unbekannt
+12270137323,2026-08-14T21:52:00Z,kauf,Diks,11010,M'gladbach,Felix,,16777999,,,,unbekannt
+12270163891,2026-08-14T21:57:14Z,kauf,Pieper,2294,Bremen,Paul Block,Aaron,10000000,,,,unbekannt
+12270262459,2026-08-14T22:05:13Z,kauf,Heuer Fernandes,1863,Hamburg,Aaron,Jonnhji,14800000,,,,unbekannt
+12270297187,2026-08-14T22:08:05Z,verkauf,Wójcik,15256,Bremen,,Aaron,6821948,,,,unbekannt
+12270310267,2026-08-14T22:09:17Z,verkauf,Kramarić,1815,Hoffenheim,,1. FC Infantino,21525162,,,,unbekannt
+12270456973,2026-08-14T22:23:49Z,kauf,Daghim,11959,Hoffenheim,Felix,,8777999,,,,unbekannt
+12270609319,2026-08-14T22:41:54Z,verkauf,Millgramm,12262,Paderborn,,Kai,6644793,,,,unbekannt
+12271785799,2026-08-15T02:18:17Z,kauf,Marino,3336,Paderborn,nico,,9120000,,,,unbekannt
+12272484301,2026-08-15T04:42:36Z,kauf,Poreba,7278,Elversberg,Kai,,9634002,,,,unbekannt
+12273347083,2026-08-15T06:58:22Z,kauf,Zeitler,9283,Paderborn,Kai,,670069,,,,unbekannt
+12274716751,2026-08-15T10:34:08Z,kauf,Nicolas,1883,M'gladbach,1. FC Infantino,,20046466,,,,unbekannt
+12274984987,2026-08-15T11:19:45Z,kauf,Seiwald,6176,Leipzig,Kai,,18100650,,,,unbekannt
+12275412673,2026-08-15T12:32:13Z,kauf,Posch,2006,Mainz,nico,,13120009,,,,unbekannt
+12275453377,2026-08-15T12:39:51Z,verkauf,Tanaka,12297,Schalke,,Paul Block,7083257,,,,unbekannt
+12275527948,2026-08-15T12:52:30Z,kauf,Führich,2172,Stuttgart,1. FC Infantino,,26568644,,,,unbekannt
+12275585872,2026-08-15T13:03:06Z,kauf,Kemlein,4446,Union Berlin,Aaron,nico,8000000,,,,unbekannt
+12277073431,2026-08-15T17:31:04Z,kauf,Undav,7158,Stuttgart,Aaron,,44200000,,,,unbekannt
+12277204408,2026-08-15T17:36:36Z,verkauf,Bülter,2552,Köln,,Aaron,5844672,,,,unbekannt
+12277210339,2026-08-15T17:37:40Z,verkauf,Ibrahimović,3176,Bayern,,Aaron,4521935,,,,unbekannt
+12278545090,2026-08-15T20:45:25Z,verkauf,Heskey,15373,Köln,,nico,10143875,,,,unbekannt
+12278774821,2026-08-15T21:11:29Z,verkauf,Honorat,6319,M'gladbach,,schwungzent,9895758,,,,unbekannt
+12278817718,2026-08-15T21:18:43Z,kauf,Hajdari,7673,Hoffenheim,schwungzent,,20600000,,,,unbekannt
+12279331435,2026-08-15T22:14:02Z,verkauf,Palacios,2766,Leverkusen,,Jonnhji,22167337,,,,unbekannt
+12279393274,2026-08-15T22:20:22Z,kauf,Olise,8329,Bayern,nico,,66854600,,,,unbekannt
+12279763180,2026-08-15T22:59:23Z,kauf,García,4199,Leverkusen,Kai,,42680003,,,,unbekannt
+12279962113,2026-08-15T23:21:41Z,kauf,Gregoritsch,493,Augsburg,Clainsman,,10500000,,,,unbekannt
+12281909641,2026-08-16T04:19:59Z,kauf,Matanović,3304,Freiburg,Maurice,,18200000,,,,unbekannt
+12286813738,2026-08-16T14:58:33Z,kauf,Raum,2522,Leipzig,Kai,,33850002,,,,unbekannt
+12287646724,2026-08-16T16:49:54Z,kauf,Schick,2746,Leverkusen,Paul Block,,29689999,,,,unbekannt
+12287858590,2026-08-16T17:21:58Z,verkauf,Osterhage,2722,Freiburg,,Jonnhji,5529854,,,,unbekannt
+12287858647,2026-08-16T17:22:01Z,verkauf,Schubert,2471,Paderborn,,Jonnhji,5374763,,,,unbekannt
+12287945290,2026-08-16T17:32:20Z,verkauf,Funk,2445,Stuttgart,,Jonnhji,4430263,,,,unbekannt
+12287945893,2026-08-16T17:32:32Z,verkauf,Gyamerah,859,Elversberg,,Jonnhji,6035187,,,,unbekannt
+12287946367,2026-08-16T17:32:51Z,verkauf,Musah,11262,Bremen,,Jonnhji,6229870,,,,unbekannt
+12288033481,2026-08-16T17:42:33Z,verkauf,Baku,2141,Leipzig,,Paul Block,19145475,,,,unbekannt
+12288381478,2026-08-16T18:31:50Z,kauf,Kimmich,1685,Bayern,Jonnhji,,61540000,,,,unbekannt
+12288526684,2026-08-16T18:48:45Z,kauf,Backhaus,3218,Freiburg,Paul Block,,18259999,,,,unbekannt
+12289093318,2026-08-16T20:03:31Z,kauf,Stange,7350,Hamburg,1. FC Infantino,,3000803,,,,unbekannt
+12289136623,2026-08-16T20:07:48Z,verkauf,Moerstedt,7543,Hoffenheim,,Felix,6724423,,,,unbekannt
+12289145254,2026-08-16T20:08:22Z,verkauf,Hollerbach,6111,Mainz,,nico,5256064,,,,unbekannt
+12289891096,2026-08-16T21:37:27Z,verkauf,Irié,11007,Freiburg,,MicheleFerra,4536918,,,,unbekannt
+12290092612,2026-08-16T22:01:00Z,verkauf,Porath,1691,Schalke,,Paul Block,5584116,,,,unbekannt
+12290711800,2026-08-16T23:07:57Z,verkauf,Sebulonsen,11570,Köln,,Maurice,4281647,,,,unbekannt
+12290728960,2026-08-16T23:10:14Z,verkauf,Soylu,14926,Bremen,,Maurice,3695800,,,,unbekannt
+12292856464,2026-08-17T04:20:36Z,verkauf,Marino,3336,Paderborn,,nico,9366993,,,,unbekannt
+12293170375,2026-08-17T04:53:18Z,kauf,Ullrich,4333,M'gladbach,nico,,7100000,,,,unbekannt
+12294469600,2026-08-17T07:19:24Z,verkauf,Boss,2495,Elversberg,,Kai,5610571,,,,unbekannt
+12294864520,2026-08-17T08:05:40Z,verkauf,Batista Meier,2301,Paderborn,,Aaron,5192952,,,,unbekannt
+12295505512,2026-08-17T09:29:33Z,kauf,Khedira,51,Union Berlin,schwungzent,,6650000,,,,unbekannt
+12296974231,2026-08-17T12:43:29Z,kauf,Kömür,4654,Augsburg,nico,,3721000,,,,unbekannt
+12297618715,2026-08-17T14:13:28Z,kauf,Pejčinović,4296,Stuttgart,nico,,9654500,,,,unbekannt
+12300940639,2026-08-17T20:14:15Z,kauf,Binder,15502,Bayern,Felix,,2222229,,,,unbekannt
+12301231354,2026-08-17T20:44:35Z,verkauf,Castañeda,8292,Paderborn,,nico,10198046,,,,unbekannt
+12303100765,2026-08-18T00:30:02Z,kauf,Lienhart,2084,Freiburg,1. FC Infantino,,12695558,,,,unbekannt
+12303991942,2026-08-18T02:45:22Z,verkauf,Estève,15376,Leipzig,,1. FC Infantino,17266919,,,,unbekannt
+12305417767,2026-08-18T05:30:17Z,verkauf,Ansah,6750,Union Berlin,,Aaron,10182048,,,,unbekannt
+12306594196,2026-08-18T07:42:00Z,verkauf,Da Costa,1540,Mainz,,Paul Block,9297581,,,,unbekannt
+12307865980,2026-08-18T10:20:46Z,kauf,El Khannouss,11955,Stuttgart,Aaron,,24000001,,,,unbekannt
+12309432697,2026-08-18T13:50:11Z,kauf,Vázquez,3754,Leverkusen,Jonnhji,,2769950,,,,unbekannt
+12311604415,2026-08-18T18:44:43Z,kauf,Ulrich,3559,Paderborn,Paul Block,,5109999,,,,unbekannt
+12312614368,2026-08-18T20:44:25Z,verkauf,Muheim,3277,Hamburg,,Kai,9586179,,,,unbekannt
+12312845176,2026-08-18T21:12:05Z,kauf,Maina,2201,Köln,MicheleFerra,,5121423,,,,unbekannt
+12313965106,2026-08-18T23:18:19Z,kauf,Kane,7226,Bayern,Paul Block,,69696969,,,,unbekannt
+12314941942,2026-08-19T01:39:55Z,kauf,Lemperle,2803,Hoffenheim,nico,,12500009,10185425,2314584,22.7,mv_history_exakt
+12315718762,2026-08-19T03:31:34Z,kauf,Dinkçi,2939,Bremen,1. FC Infantino,,5099899,,,,unbekannt
+12317602924,2026-08-19T06:53:50Z,verkauf,Rohr,3284,Elversberg,,Aaron,10554725,10212071,342654,3.4,mv_history_exakt
+12318637684,2026-08-19T08:58:08Z,verkauf,Batshuayi,2190,Dortmund,,nico,4231958,,,,unbekannt
+12319275247,2026-08-19T10:18:51Z,kauf,Schäfer,3187,Union Berlin,Kai,,3200400,,,,unbekannt
+12320106244,2026-08-19T12:05:23Z,verkauf,Andrés,9746,Stuttgart,,MicheleFerra,8930218,,,,unbekannt
+12321483880,2026-08-19T15:08:33Z,kauf,Topp,3166,Bremen,Kai,,500050,,,,unbekannt
+12322884043,2026-08-19T18:17:43Z,kauf,Reis,3281,Bremen,Paul Block,,4956999,,,,unbekannt
+12323113498,2026-08-19T18:46:47Z,kauf,Stage,3481,Bremen,MicheleFerra,,20572863,19337953,1234910,6.4,mv_history_exakt
+12323956867,2026-08-19T20:27:25Z,verkauf,Petkov,2928,Elversberg,,nico,11918461,11918461,0,0.0,mv_history_exakt
+12324269917,2026-08-19T21:03:41Z,verkauf,Sakar,9965,Augsburg,,nico,6440507,6440507,0,0.0,mv_history_exakt
+12325212916,2026-08-19T22:45:50Z,kauf,Krauß,2358,Köln,nico,,9321300,,,,unbekannt
+12326508886,2026-08-20T01:46:05Z,verkauf,Lemperle,2803,Hoffenheim,,nico,10185425,9929106,256319,2.6,mv_history_exakt
+12327140557,2026-08-20T03:17:21Z,kauf,Maza,6061,Leverkusen,Felix,,31888999,29666576,2222423,7.5,mv_history_exakt
+12327725584,2026-08-20T04:25:54Z,kauf,Avdullahu,11162,Hoffenheim,1. FC Infantino,,16776500,15944648,831852,5.2,mv_history_exakt
+12327819850,2026-08-20T04:35:03Z,kauf,Coufal,7745,Hoffenheim,schwungzent,,27123456,25682835,1440621,5.6,mv_history_exakt
+12328047235,2026-08-20T04:57:39Z,verkauf,Jovanovic,11258,Stuttgart,,schwungzent,6137990,,,,unbekannt
+12328482208,2026-08-20T05:41:11Z,verkauf,Schick,2746,Leverkusen,,Paul Block,29338907,29346070,-7163,-0.0,mv_history_exakt
+12329427856,2026-08-20T07:24:55Z,kauf,Vidović,3081,Paderborn,Paul Block,,4710099,,,,unbekannt
+12329695444,2026-08-20T07:56:22Z,verkauf,El Khannouss,11955,Stuttgart,,Aaron,23364675,23057946,306729,1.3,mv_history_exakt
+12330078595,2026-08-20T08:43:23Z,kauf,Kofane,11513,Leverkusen,Paul Block,,10484989,,,,unbekannt
+12330302800,2026-08-20T09:10:45Z,verkauf,Sirch,8301,Elversberg,,MicheleFerra,5707193,,,,unbekannt
+12330964285,2026-08-20T10:34:40Z,kauf,Bakayoko,8061,Leipzig,nico,,14798040,,,,unbekannt
+12331846084,2026-08-20T12:28:36Z,kauf,Füllkrug,608,Bremen,Kai,,12120030,10472568,1647462,15.7,mv_history_exakt
+12332919226,2026-08-20T14:52:37Z,verkauf,Curda,6197,Paderborn,,Kai,11420922,11038550,382372,3.5,mv_history_exakt
+12333027541,2026-08-20T15:05:11Z,verkauf,Andrich,663,Leverkusen,,Maurice,7663646,,,,unbekannt
+12333803818,2026-08-20T16:47:55Z,kauf,Dallinga,16945,Köln,Jonnhji,,5055999,,,,unbekannt
+12333988486,2026-08-20T17:13:23Z,kauf,Guirassy,1920,Dortmund,MicheleFerra,,32154578,29310952,2843626,9.7,mv_history_exakt
+12335570110,2026-08-20T20:29:50Z,verkauf,Vermeeren,7493,Leipzig,,nico,6822610,,,,unbekannt
+12335918959,2026-08-20T21:09:00Z,verkauf,Hansen,6292,Paderborn,,Felix,5398517,5398517,0,0.0,mv_history_exakt
+12335925013,2026-08-20T21:09:04Z,verkauf,Kohr,60,Mainz,,Felix,9706301,9706301,0,0.0,mv_history_exakt
+12336168877,2026-08-20T21:40:03Z,kauf,Sander,2560,M'gladbach,Kai,,13750200,,,,unbekannt
+12336177337,2026-08-20T21:41:09Z,verkauf,Hendriks,8247,Stuttgart,,Kai,13101042,13101042,0,0.0,mv_history_exakt
+12336312973,2026-08-20T21:59:25Z,kauf,Amiri,1639,Mainz,Felix,,34779999,33354414,1425585,4.3,mv_history_exakt
+12336989452,2026-08-20T23:02:03Z,kauf,Vozar,12158,Schalke,nico,,2456500,,,,unbekannt
+12339224017,2026-08-21T04:07:26Z,kauf,Konstantelias,16948,Dortmund,Aaron,,17700001,17868552,-168551,-0.9,mv_history_exakt
+12341286439,2026-08-21T07:43:59Z,verkauf,Nusa,9507,Leipzig,,Felix,25557570,25630760,-73190,-0.3,mv_history_exakt
+12343004413,2026-08-21T11:14:17Z,verkauf,Drewes,75,Dortmund,,Clainsman,500000,,,,unbekannt
+12343012108,2026-08-21T11:15:09Z,verkauf,Vogt,14890,Hoffenheim,,Clainsman,1386057,,,,unbekannt
+12343460314,2026-08-21T12:13:01Z,verkauf,Boey,7498,Bayern,,nico,3233383,,,,unbekannt
+12344885380,2026-08-21T15:15:20Z,verkauf,Leopold,3516,M'gladbach,,MicheleFerra,12223552,11664221,559331,4.8,mv_history_exakt
+12344887348,2026-08-21T15:16:00Z,verkauf,Ayhan,10916,Schalke,,MicheleFerra,8896122,8580892,315230,3.7,mv_history_exakt
+12345079906,2026-08-21T15:39:32Z,kauf,Hack,2074,M'gladbach,Clainsman,,11000000,,,,unbekannt
+12345369673,2026-08-21T16:17:17Z,kauf,Tangvik,12368,Hamburg,nico,,789000,,,,unbekannt
+12346403269,2026-08-21T18:31:00Z,kauf,Lynen,7167,Bremen,schwungzent,,10920000,,,,unbekannt
+12346419589,2026-08-21T18:32:15Z,verkauf,Becker,8277,Schalke,,schwungzent,8456923,8400378,56545,0.7,mv_history_exakt
+12347279947,2026-08-21T20:11:59Z,verkauf,Pedersen,2651,Augsburg,,schwungzent,6038878,,,,unbekannt
+12347295715,2026-08-21T20:13:02Z,verkauf,Waldschmidt,737,Köln,,Kai,6043808,6043808,0,0.0,mv_history_exakt
+12348733405,2026-08-21T22:27:11Z,kauf,Aebischer,7684,Union Berlin,Felix,,5777999,,,,unbekannt
+12352480777,2026-08-22T06:09:48Z,kauf,Juranović,4598,Union Berlin,nico,,6865400,6443857,421543,6.5,mv_history_exakt
+12352904491,2026-08-22T06:54:10Z,kauf,Harder,10530,Leipzig,Paul Block,,3256999,,,,unbekannt
+12354107512,2026-08-22T09:06:15Z,kauf,Assignon,11043,Stuttgart,nico,,3432006,,,,unbekannt
+12356428984,2026-08-22T13:54:11Z,kauf,Gayret,14914,Paderborn,nico,,777777,,,,unbekannt
+12356580052,2026-08-22T14:13:02Z,verkauf,Kofane,11513,Leverkusen,,Paul Block,9887033,,,,unbekannt
+12357879403,2026-08-22T17:02:54Z,verkauf,Poreba,7278,Elversberg,,Kai,10365919,,,,unbekannt
+12357884932,2026-08-22T17:03:12Z,verkauf,Schmahl,8296,Elversberg,,Kai,5746902,5375529,371373,6.9,mv_history_exakt
+12359292475,2026-08-22T20:00:34Z,verkauf,Nartey,2120,Stuttgart,,schwungzent,8922534,,,,unbekannt
+12359377645,2026-08-22T20:07:35Z,verkauf,Götze,513,Frankfurt,,Felix,6293275,,,,unbekannt
+12360173218,2026-08-22T21:24:29Z,kauf,Schlotterbeck,2274,Augsburg,Kai,,10270003,,,,unbekannt
+12361265809,2026-08-22T23:04:30Z,kauf,Prömel,1671,Stuttgart,Paul Block,,14423699,13100408,1323291,10.1,mv_history_exakt
+12361672180,2026-08-22T23:50:31Z,kauf,Darvich,9384,Elversberg,Paul Block,,6236999,,,,unbekannt
+12361681222,2026-08-22T23:51:56Z,verkauf,Schwolow,620,Mainz,,Jonnhji,5817322,,,,unbekannt
+12362521660,2026-08-23T01:41:18Z,verkauf,Ben Seghir,11957,Leverkusen,,1. FC Infantino,1106176,,,,unbekannt
+12365159740,2026-08-23T07:12:06Z,verkauf,Grüll,7721,Bremen,,nico,6933587,,,,unbekannt
+12365711374,2026-08-23T08:09:08Z,kauf,Querfeld,7723,Union Berlin,Maurice,,15100000,14234428,865572,6.1,mv_history_exakt
+12365955748,2026-08-23T08:35:35Z,kauf,Caci,3470,Mainz,Kai,,10620000,10554888,65112,0.6,mv_history_exakt
+12366152491,2026-08-23T08:56:45Z,kauf,Kade,3183,Augsburg,Kai,,14100685,12413668,1687017,13.6,mv_history_exakt
+12366513895,2026-08-23T09:37:10Z,kauf,Itakura,3129,M'gladbach,Aaron,,10200001,,,,unbekannt
+12367598344,2026-08-23T11:44:15Z,verkauf,Sticker,8872,Paderborn,,Kai,6132677,,,,unbekannt
+12369386707,2026-08-23T15:26:45Z,verkauf,Hoffmeier,3492,Paderborn,,1. FC Infantino,8352355,,,,unbekannt
+12370214476,2026-08-23T17:09:14Z,verkauf,Yilmaz,8363,Freiburg,,Paul Block,7020413,,,,unbekannt
+12370420237,2026-08-23T17:34:53Z,verkauf,Pinckert,6148,Elversberg,,Felix,9433935,,,,unbekannt
+12371475934,2026-08-23T19:42:13Z,kauf,Güther,13629,Union Berlin,Jonnhji,,3055999,,,,unbekannt
+12371616982,2026-08-23T19:59:13Z,kauf,Bellingham,11099,Dortmund,Maurice,,22100000,18517672,3582328,19.3,mv_history_exakt
+12372075892,2026-08-23T20:40:20Z,verkauf,Chuki,8166,Bremen,,schwungzent,11739240,,,,unbekannt
+12372125461,2026-08-23T20:44:55Z,verkauf,Adam,12317,Elversberg,,schwungzent,5359348,,,,unbekannt
+12372431734,2026-08-23T21:19:42Z,kauf,Massengo,11556,Augsburg,Aaron,,10000001,9856252,143749,1.5,mv_history_exakt
+12372478135,2026-08-23T21:24:56Z,verkauf,Nyland,1728,Leipzig,,MicheleFerra,4713797,,,,unbekannt
+12372786160,2026-08-23T22:01:27Z,verkauf,Okon-Engstler,14300,Köln,,Felix,5930192,,,,unbekannt
+12372786697,2026-08-23T22:01:30Z,verkauf,Binder,15502,Bayern,,Felix,4146157,,,,unbekannt
+12374799874,2026-08-24T02:06:40Z,kauf,Friedl,1996,Bremen,Felix,,13888889,13599637,289252,2.1,mv_history_exakt
+12376553947,2026-08-24T05:22:52Z,verkauf,Pruhs,6751,Paderborn,,Aaron,4551864,,,,unbekannt
+12376554823,2026-08-24T05:23:06Z,verkauf,Günther,3026,Elversberg,,Aaron,9528595,,,,unbekannt
+12377643655,2026-08-24T07:12:11Z,kauf,Badé,4563,Leverkusen,Kai,,12630000,,,,unbekannt
+12377803129,2026-08-24T07:29:12Z,verkauf,Grifo,118,Freiburg,,Kai,12757427,,,,unbekannt
+12377878060,2026-08-24T07:37:37Z,kauf,Friedrich,1223,Union Berlin,Paul Block,,2950999,,,,unbekannt
+12381110350,2026-08-24T14:04:06Z,kauf,Stöger,619,M'gladbach,Felix,,8555599,,,,unbekannt
+12382674730,2026-08-24T17:17:43Z,verkauf,Müller,11170,Paderborn,,Paul Block,5325758,,,,unbekannt
+12382899919,2026-08-24T17:45:18Z,kauf,Vagnoman,2199,Stuttgart,schwungzent,,7200000,,,,unbekannt
+12384796717,2026-08-24T21:13:31Z,kauf,Knauff,2863,Frankfurt,nico,,5946200,,,,unbekannt
+12384893518,2026-08-24T21:25:21Z,kauf,Chandler,461,Frankfurt,Kai,,1630002,,,,unbekannt
+12386557531,2026-08-25T00:27:20Z,verkauf,Saibari,14251,Bayern,,Jonnhji,30262853,30196443,66410,0.2,mv_history_exakt
+12388179106,2026-08-25T03:59:39Z,kauf,Banzuzi,11008,Leipzig,Jonnhji,,9055999,8698080,357919,4.1,mv_history_exakt
+12393297514,2026-08-25T13:18:13Z,kauf,Nandja,11949,Hamburg,Jonnhji,,1205999,,,,unbekannt
+12394281082,2026-08-25T15:19:39Z,kauf,Reitz,2897,Leipzig,Jonnhji,,13429789,,,,unbekannt
+12395558860,2026-08-25T16:36:57Z,verkauf,Medina,14241,Leverkusen,,Jonnhji,12124934,,,,unbekannt
+12396248644,2026-08-25T18:02:34Z,verkauf,Krauß,2358,Köln,,nico,9851984,,,,unbekannt
+12396374032,2026-08-25T18:18:51Z,kauf,Ebnoutalib,10004,Frankfurt,Felix,,12499999,11598785,901214,7.8,mv_history_exakt
+12396493072,2026-08-25T18:33:08Z,kauf,Jóhannesson,7219,Köln,Aaron,,9700001,9612700,87301,0.9,mv_history_exakt
+12396533272,2026-08-25T18:37:51Z,verkauf,Gruber,10122,Mainz,,Felix,12685393,12261018,424375,3.5,mv_history_exakt
+12397865530,2026-08-25T21:04:14Z,kauf,Scherhant,4335,Freiburg,nico,,7120000,6854071,265929,3.9,mv_history_exakt
+12398743666,2026-08-25T22:33:21Z,kauf,Njinmah,3228,Bremen,schwungzent,,6780000,,,,unbekannt
+12399174613,2026-08-25T23:21:17Z,verkauf,Karius,32,Schalke,,1. FC Infantino,17002516,17002516,0,0.0,mv_history_exakt
+12401599813,2026-08-26T04:26:26Z,verkauf,Mbangula,9923,Bremen,,schwungzent,9763187,,,,unbekannt
+12404346733,2026-08-26T09:02:02Z,kauf,Kleindienst,849,M'gladbach,Kai,,18560000,18691532,-131532,-0.7,mv_history_exakt
+12404566144,2026-08-26T09:28:07Z,kauf,Klaas,3491,Paderborn,Jonnhji,,1205999,,,,unbekannt
+12405047773,2026-08-26T10:24:50Z,verkauf,Reitz,2897,Leipzig,,Jonnhji,13422667,,,,unbekannt
+12405952195,2026-08-26T12:12:15Z,kauf,Reggiani,13472,Dortmund,Jonnhji,,3506804,,,,unbekannt
+12406805104,2026-08-26T13:56:15Z,verkauf,Le Joncour,7514,Elversberg,,Clainsman,1719089,,,,unbekannt
+12406805173,2026-08-26T13:56:18Z,verkauf,Köhn,3453,Union Berlin,,Clainsman,1821661,,,,unbekannt
+12407103730,2026-08-26T14:31:51Z,kauf,Sano,8307,Mainz,Jonnhji,,16505999,16397617,108382,0.7,mv_history_exakt
+12407839714,2026-08-26T16:01:08Z,kauf,Karl,10789,Bayern,Aaron,,21444713,20844705,600008,2.9,mv_history_exakt
+12408665035,2026-08-26T17:44:04Z,kauf,Huth,1767,Freiburg,Jonnhji,,501099,,,,unbekannt
+12410217925,2026-08-26T20:38:36Z,verkauf,Schlotterbeck,2274,Augsburg,,Kai,10560518,,,,unbekannt
+12410660218,2026-08-26T21:27:44Z,verkauf,Badé,4563,Leverkusen,,Kai,12873760,,,,unbekannt
+12412256278,2026-08-27T00:19:12Z,kauf,Burcu,8381,Union Berlin,Paul Block,,9580999,,,,unbekannt
+12412502740,2026-08-27T00:52:26Z,kauf,Uno,15202,M'gladbach,Clainsman,,1762576,,,,unbekannt
+12413046745,2026-08-27T02:06:10Z,kauf,Gruda,4596,Leipzig,Kai,,24276098,20314944,3961154,19.5,mv_history_exakt
+12414751747,2026-08-27T05:11:23Z,verkauf,Torunarigha,1978,Hamburg,,Aaron,11384077,,,,unbekannt
+12415574911,2026-08-27T06:27:54Z,kauf,Jatta,1889,Hamburg,Kai,,6967800,,,,unbekannt
+12415660966,2026-08-27T06:36:20Z,verkauf,Katic,11255,Schalke,,Kai,14878989,14653048,225941,1.5,mv_history_exakt
+12416851933,2026-08-27T08:44:50Z,verkauf,Burcu,8381,Union Berlin,,Paul Block,9123810,,,,unbekannt
+12416916379,2026-08-27T08:49:45Z,kauf,Matsima,9642,Augsburg,Paul Block,Aaron,14000000,13010481,989519,7.6,mv_history_exakt
+12416917246,2026-08-27T08:50:02Z,kauf,Pieper,2294,Bremen,Aaron,Paul Block,11500000,11526845,-26845,-0.2,mv_history_exakt
+12417238789,2026-08-27T09:25:22Z,verkauf,Klaus,3364,Union Berlin,,Jonnhji,5237059,,,,unbekannt
+12417652903,2026-08-27T10:12:51Z,kauf,Mohya,11748,M'gladbach,1. FC Infantino,,12695568,,,,unbekannt
+12417686413,2026-08-27T10:16:37Z,verkauf,Schnellbacher,6158,Elversberg,,1. FC Infantino,6411852,,,,unbekannt
+12417686533,2026-08-27T10:16:41Z,verkauf,Remberg,6201,Hamburg,,1. FC Infantino,12537509,,,,unbekannt
+12417686662,2026-08-27T10:16:44Z,verkauf,Simpson-Pusey,12321,Köln,,1. FC Infantino,12596551,,,,unbekannt
+12418341940,2026-08-27T11:31:46Z,kauf,Ljubičić,10106,Union Berlin,Kai,,5013887,,,,unbekannt
+12422039701,2026-08-27T18:53:43Z,verkauf,Reggiani,13472,Dortmund,,Jonnhji,3451947,,,,unbekannt
+12422823397,2026-08-27T20:09:47Z,verkauf,Stöger,619,M'gladbach,,Felix,9210717,,,,unbekannt
+12423039802,2026-08-27T20:17:46Z,verkauf,Knauff,2863,Frankfurt,,nico,6180804,,,,unbekannt
+12423043696,2026-08-27T20:18:02Z,verkauf,Vozar,12158,Schalke,,nico,3462029,,,,unbekannt
+12423045499,2026-08-27T20:18:07Z,verkauf,Tangvik,12368,Hamburg,,nico,2709449,,,,unbekannt
+12423053617,2026-08-27T20:18:13Z,verkauf,Ullrich,4333,M'gladbach,,nico,9145782,,,,unbekannt
+12423057625,2026-08-27T20:18:28Z,verkauf,Assignon,11043,Stuttgart,,nico,4374254,,,,unbekannt
+12423080428,2026-08-27T20:19:30Z,verkauf,Kömür,4654,Augsburg,,nico,6257022,,,,unbekannt
+12423119440,2026-08-27T20:21:22Z,verkauf,Keidel,3350,Elversberg,,nico,7681722,,,,unbekannt
+12423208837,2026-08-27T20:26:14Z,verkauf,Ulrich,3559,Paderborn,,Paul Block,7372408,,,,unbekannt
+12423210148,2026-08-27T20:26:20Z,verkauf,Harder,10530,Leipzig,,Paul Block,4385348,,,,unbekannt
+12423216802,2026-08-27T20:26:23Z,verkauf,Darvich,9384,Elversberg,,Paul Block,7221093,,,,unbekannt
+12423217246,2026-08-27T20:26:25Z,verkauf,Friedrich,1223,Union Berlin,,Paul Block,3353828,,,,unbekannt
+12423217723,2026-08-27T20:26:28Z,verkauf,Engelhardt,3209,Freiburg,,Paul Block,10994415,10994415,0,0.0,mv_history_exakt
+12428345287,2026-08-28T05:00:15Z,verkauf,Konstantelias,16948,Dortmund,,Aaron,19110657,19275860,-165203,-0.9,mv_history_exakt
+12428449456,2026-08-28T05:08:15Z,kauf,Hranác,7750,Hoffenheim,Aaron,,3261991,,,,unbekannt
+12430530426,2026-08-28T08:05:00Z,verkauf,Topp,3166,Bremen,,Kai,1075131,,,,unbekannt
+12432895356,2026-08-28T10:51:31Z,kauf,Bahoya,7491,Frankfurt,Jonnhji,,5359210,,,,unbekannt
+12433758918,2026-08-28T12:15:10Z,kauf,Oermann,4318,Leverkusen,Aaron,,4315108,,,,unbekannt
+12433801038,2026-08-28T12:18:49Z,verkauf,Itakura,3129,M'gladbach,,Aaron,11031006,,,,unbekannt
+12435508428,2026-08-28T15:01:02Z,verkauf,Kemlein,4446,Union Berlin,,Aaron,9925892,,,,unbekannt
+12435573513,2026-08-28T15:07:09Z,kauf,Wimmer,3124,Hoffenheim,Jonnhji,,10057999,8861491,1196508,13.5,mv_history_exakt
+12436032237,2026-08-28T15:45:55Z,verkauf,Dallinga,16945,Köln,,Jonnhji,6457299,,,,unbekannt
+12436683525,2026-08-28T16:42:11Z,kauf,Pieringer,3027,Paderborn,Jonnhji,,1090099,,,,unbekannt
+12437865087,2026-08-28T18:11:39Z,verkauf,Güther,13629,Union Berlin,,Jonnhji,3576877,,,,unbekannt
+12437865555,2026-08-28T18:11:43Z,verkauf,Lochoshvili,8001,Köln,,Jonnhji,10222088,10134415,87673,0.9,mv_history_exakt
+12437866020,2026-08-28T18:11:48Z,verkauf,Bahoya,7491,Frankfurt,,Jonnhji,5359210,,,,unbekannt
+12437866584,2026-08-28T18:11:52Z,verkauf,Klaas,3491,Paderborn,,Jonnhji,1453746,,,,unbekannt
+12437866962,2026-08-28T18:11:55Z,verkauf,Becker,2646,Mainz,,Jonnhji,15061253,15088003,-26750,-0.2,mv_history_exakt
+12437867274,2026-08-28T18:11:58Z,verkauf,Nandja,11949,Hamburg,,Jonnhji,1961392,,,,unbekannt
+12437929524,2026-08-28T18:16:41Z,kauf,Castro-Montes,11958,Köln,Kai,,9680035,,,,unbekannt
+12437992191,2026-08-28T18:21:32Z,verkauf,Zeitler,9283,Paderborn,,Kai,4440848,,,,unbekannt
+12437992902,2026-08-28T18:21:38Z,verkauf,Schäfer,3187,Union Berlin,,Kai,5266253,,,,unbekannt
+12437993262,2026-08-28T18:21:41Z,verkauf,Chandler,461,Frankfurt,,Kai,2362092,,,,unbekannt
+12437993604,2026-08-28T18:21:44Z,verkauf,Kleindienst,849,M'gladbach,,Kai,18819909,18882383,-62474,-0.3,mv_history_exakt
+12437994291,2026-08-28T18:21:49Z,verkauf,Seiwald,6176,Leipzig,,Kai,18056818,18053653,3165,0.0,mv_history_exakt
+12437994747,2026-08-28T18:21:54Z,verkauf,Jatta,1889,Hamburg,,Kai,6830247,,,,unbekannt
+12440525820,2026-08-28T19:40:50Z,kauf,Trimmel,2400,Union Berlin,Aaron,,3887600,,,,unbekannt
+12443184396,2026-08-28T20:42:01Z,verkauf,Hashioka,15613,M'gladbach,,Jonnhji,10580069,,,,unbekannt
+12450494970,2026-08-29T00:29:07Z,kauf,Lee,2476,Mainz,Felix,,12222999,11985601,237398,2.0,mv_history_exakt
+12452008065,2026-08-29T03:00:13Z,kauf,Nakuzola,17179,Mainz,nico,,946500,,,,unbekannt
+12452628471,2026-08-29T04:13:13Z,kauf,Klostermann,1333,Leipzig,Aaron,,1587089,,,,unbekannt
+12453917478,2026-08-29T06:16:09Z,kauf,Makengo,7215,Freiburg,Jonnhji,,6555999,,,,unbekannt
+12456324723,2026-08-29T10:17:44Z,kauf,Okpala,12296,Paderborn,Kai,,1622000,,,,unbekannt
+12457497246,2026-08-29T12:26:16Z,verkauf,Bakayoko,8061,Leipzig,,nico,11666148,,,,unbekannt
+12460442226,2026-08-29T17:21:35Z,verkauf,Rots,15193,Hoffenheim,,Paul Block,8844437,,,,unbekannt
+12461976237,2026-08-29T20:06:06Z,verkauf,Otávio,15589,Frankfurt,,Jonnhji,10360185,,,,unbekannt
+12461988360,2026-08-29T20:06:56Z,kauf,Davies,2366,Bayern,Paul Block,,17508999,12046328,5462671,45.3,mv_history_exakt
+12465779052,2026-08-30T02:19:48Z,kauf,Tella,7269,Leverkusen,nico,,5243200,,,,unbekannt
+12467776776,2026-08-30T06:03:08Z,kauf,Scally,2941,M'gladbach,Paul Block,,3850099,,,,unbekannt
+12471300984,2026-08-30T11:37:16Z,kauf,Fábio Silva,9698,Dortmund,Jonnhji,,7005999,,,,unbekannt
+12471373503,2026-08-30T11:43:34Z,kauf,Maluze,11186,Frankfurt,nico,,6645000,926799,5718201,617.0,mv_history_exakt
+12471819390,2026-08-30T12:33:01Z,kauf,Tillman,2846,Leverkusen,Jonnhji,,16575999,14687460,1888539,12.9,mv_history_exakt
+12472442244,2026-08-30T13:37:26Z,verkauf,Stage,3481,Bremen,,MicheleFerra,20193214,19537159,656055,3.4,mv_history_exakt
+12472453512,2026-08-30T13:38:07Z,verkauf,Götze,1964,Paderborn,,MicheleFerra,7018012,,,,unbekannt
+12473471202,2026-08-30T15:17:40Z,verkauf,Okpala,12296,Paderborn,,Kai,1518137,,,,unbekannt
+12474250803,2026-08-30T16:34:01Z,kauf,Ribeiro,12341,Augsburg,Paul Block,,3211399,3131268,80131,2.6,mv_history_exakt
+12474826584,2026-08-30T17:27:44Z,verkauf,Yamamoto,15196,Freiburg,,Maurice,4172924,,,,unbekannt
+12475077795,2026-08-30T17:53:43Z,kauf,ter Horst,7616,Paderborn,MicheleFerra,,8213451,,,,unbekannt
+12477698031,2026-08-30T22:02:20Z,verkauf,Aebischer,7684,Union Berlin,,Felix,6033122,,,,unbekannt
+12479873847,2026-08-31T01:41:15Z,kauf,Campbell,7441,Elversberg,schwungzent,,9888888,,,,unbekannt
+12480569439,2026-08-31T02:58:28Z,verkauf,Stange,7350,Hamburg,,1. FC Infantino,5471049,,,,unbekannt
+12480569505,2026-08-31T02:58:32Z,verkauf,Dinkçi,2939,Bremen,,1. FC Infantino,5272088,,,,unbekannt
+12480964488,2026-08-31T03:41:11Z,kauf,Ogbus,8364,Freiburg,nico,,2141200,,,,unbekannt
+12482127558,2026-08-31T05:16:06Z,verkauf,De Cat,15262,Hoffenheim,,schwungzent,18097404,17292881,804523,4.7,mv_history_exakt
+12482153010,2026-08-31T05:17:44Z,verkauf,Lynen,7167,Bremen,,schwungzent,9601969,,,,unbekannt
+12483338349,2026-08-31T06:57:33Z,kauf,Tigges,2749,Paderborn,Jonnhji,,3825999,,,,unbekannt
+12483426081,2026-08-31T07:03:57Z,kauf,Ljubičić,3029,Schalke,nico,,6865460,,,,unbekannt
+12483428463,2026-08-31T07:04:29Z,kauf,Becker,2762,Schalke,nico,,8986500,,,,unbekannt
+12487720373,2026-08-31T14:04:58Z,kauf,Raab,3419,Union Berlin,Jonnhji,,8579999,,,,unbekannt
+12487957703,2026-08-31T14:31:35Z,kauf,Jeong,2302,Union Berlin,Kai,,4800360,,,,unbekannt
+12488293100,2026-08-31T15:05:52Z,kauf,Jakić,3143,Augsburg,Jonnhji,,3405999,,,,unbekannt
+12503274119,2026-08-31T17:50:41Z,kauf,Höler,2176,Freiburg,Jonnhji,,5305799,,,,unbekannt
+12504669752,2026-08-31T20:05:30Z,verkauf,Huth,1767,Freiburg,,Jonnhji,500000,,,,unbekannt
+12504772766,2026-08-31T20:13:31Z,verkauf,Tella,7269,Leverkusen,,nico,5339662,,,,unbekannt
+12505014872,2026-08-31T20:32:33Z,kauf,Seimen,6085,Stuttgart,Jonnhji,,5805999,,,,unbekannt
+12505261637,2026-08-31T20:57:38Z,kauf,Nguefack,16564,M'gladbach,Jonnhji,,1557999,1109172,448827,40.5,mv_history_exakt
+12506741723,2026-08-31T23:08:46Z,verkauf,Schmetgens,10134,Bremen,,Paul Block,7857382,,,,unbekannt
+12507984056,2026-09-01T01:26:13Z,kauf,Kübler,1257,Freiburg,nico,,6450000,5363572,1086428,20.3,mv_history_exakt
+12509162885,2026-09-01T03:35:05Z,kauf,Wolf,1809,Augsburg,Paul Block,,6549999,,,,unbekannt
+12510577136,2026-09-01T05:28:57Z,verkauf,Oermann,4318,Leverkusen,,Aaron,3745263,,,,unbekannt
+12510577337,2026-09-01T05:29:01Z,verkauf,Klostermann,1333,Leipzig,,Aaron,1132867,,,,unbekannt
+12510578423,2026-09-01T05:29:13Z,verkauf,Trimmel,2400,Union Berlin,,Aaron,3392520,,,,unbekannt
+12511487408,2026-09-01T06:45:51Z,kauf,Orban,1246,Leipzig,nico,,33158000,30827443,2330557,7.6,mv_history_exakt
+12511555064,2026-09-01T06:52:08Z,verkauf,Posch,2006,Mainz,,nico,10627036,,,,unbekannt
+12511555307,2026-09-01T06:52:12Z,verkauf,Hein,9513,Bremen,,nico,13401184,13322613,78571,0.6,mv_history_exakt
+12512101886,2026-09-01T07:41:33Z,kauf,Wisbereit,13671,Augsburg,nico,,501000,,,,unbekannt
+12512704505,2026-09-01T08:39:05Z,kauf,Jóhannesson,7219,Köln,1. FC Infantino,Aaron,11000000,10621592,378408,3.6,mv_history_exakt
+12512894885,2026-09-01T08:58:40Z,kauf,Svensson,10115,Dortmund,schwungzent,,21900000,17607659,4292341,24.4,mv_history_exakt
+12515254520,2026-09-01T12:59:03Z,verkauf,Höler,2176,Freiburg,,Jonnhji,5372764,,,,unbekannt
+12515534612,2026-09-01T13:30:04Z,kauf,Koné,14896,Leipzig,Jonnhji,,2494919,,,,unbekannt
+12515535401,2026-09-01T13:30:28Z,verkauf,Tigges,2749,Paderborn,,Jonnhji,3891716,,,,unbekannt
+12516096983,2026-09-01T14:29:21Z,kauf,Banks,8355,Augsburg,MicheleFerra,,9007456,,,,unbekannt
+12518288561,2026-09-01T17:07:42Z,verkauf,Njinmah,3228,Bremen,,schwungzent,6921386,,,,unbekannt
+12519091922,2026-09-01T18:32:03Z,kauf,Tiago Tomás,3193,Stuttgart,MicheleFerra,,10345124,,,,unbekannt
+12519722837,2026-09-01T19:36:55Z,kauf,Can,54,Dortmund,Jonnhji,,2507999,,,,unbekannt
+12519908483,2026-09-01T19:56:12Z,verkauf,Koné,14896,Leipzig,,Jonnhji,2494911,,,,unbekannt
+12521685317,2026-09-01T22:40:04Z,kauf,Nguefack,16564,M'gladbach,1. FC Infantino,Jonnhji,2500000,1486192,1013808,68.2,mv_history_exakt
+12529197578,2026-09-02T10:53:53Z,kauf,Krattenmacher,8252,Elversberg,Aaron,,1654460,1618760,35700,2.2,mv_history_exakt
+12529393268,2026-09-02T11:14:09Z,kauf,Wimmer,3124,Hoffenheim,Aaron,Jonnhji,11200000,10467479,732521,7.0,mv_history_exakt
+12530827196,2026-09-02T13:46:33Z,kauf,Sylla,8222,Schalke,Kai,,9330009,8328943,1001066,12.0,history_players_naeherung
+12533562734,2026-09-02T18:39:39Z,kauf,Müller,755,Schalke,Jonnhji,,1855999,1453001,402998,27.7,history_players_naeherung
+12535988435,2026-09-02T22:30:43Z,kauf,Tanaka,12297,Schalke,nico,,4878650,6030349,-1151699,-19.1,history_players_naeherung
+12537372422,2026-09-03T00:56:11Z,kauf,Honorat,6319,M'gladbach,Paul Block,,8950999,10220878,-1269879,-12.4,history_players_naeherung
+12539123351,2026-09-03T04:06:19Z,kauf,Neuhaus,2261,M'gladbach,Paul Block,,2250999,3007200,-756201,-25.1,history_players_naeherung
+12540268988,2026-09-03T05:35:13Z,kauf,Atubolu,3019,Frankfurt,Kai,,13100025,12346370,753655,6.1,mv_history_exakt
+12544164614,2026-09-03T11:45:39Z,kauf,Mokwa,9995,Elversberg,schwungzent,,7500000,6422669,1077331,16.8,history_players_naeherung
+12545609420,2026-09-03T14:10:53Z,kauf,Ndiaye,13449,Bremen,Aaron,,2500001,2210735,289266,13.1,mv_history_exakt
+12549249239,2026-09-03T20:14:16Z,verkauf,Nakuzola,17179,Mainz,,nico,2394984,1738577,656407,37.8,history_players_naeherung
+12549249719,2026-09-03T20:14:19Z,verkauf,Ogbus,8364,Freiburg,,nico,2726343,3461410,-735067,-21.2,history_players_naeherung
+12549251780,2026-09-03T20:14:29Z,verkauf,Becker,2762,Schalke,,nico,9427028,8613546,813482,9.4,history_players_naeherung
+12549254150,2026-09-03T20:14:39Z,verkauf,Ljubičić,3029,Schalke,,nico,7063943,7539104,-475161,-6.3,history_players_naeherung
+12549257276,2026-09-03T20:14:55Z,verkauf,Juranović,4598,Union Berlin,,nico,10237973,10237973,0,0.0,mv_history_exakt
+12549267026,2026-09-03T20:15:08Z,verkauf,Tanaka,12297,Schalke,,nico,5034417,6030349,-995932,-16.5,history_players_naeherung
+12550478297,2026-09-03T21:52:58Z,verkauf,Lemke,13433,Hamburg,,Paul Block,7493330,5778034,1715296,29.7,history_players_naeherung
+12550486433,2026-09-03T21:53:11Z,verkauf,Reis,3281,Bremen,,Paul Block,8654640,9186339,-531699,-5.8,history_players_naeherung
+12550487681,2026-09-03T21:53:42Z,verkauf,Neuhaus,2261,M'gladbach,,Paul Block,2369505,3007200,-637695,-21.2,history_players_naeherung
+12550487819,2026-09-03T21:53:46Z,kauf,Ribeiro,12341,Augsburg,nico,Paul Block,4500000,4145993,354007,8.5,mv_history_exakt
+12551618276,2026-09-03T23:25:32Z,kauf,Sosa,2247,Köln,Aaron,,4524298,4516100,8198,0.2,mv_history_exakt
+12554501564,2026-09-04T04:24:16Z,kauf,Schmied,10024,Köln,Jonnhji,,1186130,1359195,-173065,-12.7,history_players_naeherung
+12554798909,2026-09-04T04:46:16Z,kauf,Brassier,17285,Frankfurt,Jonnhji,,12149607,12138695,10912,0.1,mv_history_exakt
+12555069833,2026-09-04T05:05:11Z,kauf,Gyamerah,859,Elversberg,Felix,,6222299,5573617,648682,11.6,mv_history_exakt
+12555523601,2026-09-04T05:36:25Z,verkauf,Hranác,7750,Hoffenheim,,Aaron,3637052,4712480,-1075428,-22.8,history_players_naeherung
+12556702070,2026-09-04T07:09:20Z,verkauf,Friedl,1996,Bremen,,Felix,12459910,12318087,141823,1.2,mv_history_exakt
+12557227859,2026-09-04T07:52:45Z,verkauf,Tiago Tomás,3193,Stuttgart,,MicheleFerra,9460597,7748495,1712102,22.1,history_players_naeherung
+12559663172,2026-09-04T11:33:03Z,verkauf,Fábio Silva,9698,Dortmund,,Jonnhji,7928365,8326091,-397726,-4.8,history_players_naeherung
+12559663451,2026-09-04T11:33:09Z,verkauf,Seimen,6085,Stuttgart,,Jonnhji,6278094,5902773,375321,6.4,history_players_naeherung
+12560003207,2026-09-04T12:03:08Z,kauf,El Ouahdi,14256,Hamburg,MicheleFerra,,10716128,10669604,46524,0.4,history_players_naeherung
+12561111614,2026-09-04T13:42:12Z,kauf,Ndiaye,13449,Bremen,Jonnhji,Aaron,3000000,2502490,497510,19.9,mv_history_exakt
+12561137441,2026-09-04T13:44:55Z,kauf,Møller Wolfe,14425,Hamburg,Felix,,10333339,9275411,1057928,11.4,history_players_naeherung
+12561150245,2026-09-04T13:46:00Z,verkauf,Adeline,15283,Hamburg,,Felix,6036301,4831075,1205226,24.9,history_players_naeherung
+12561479759,2026-09-04T14:14:42Z,kauf,Ndiaye,13449,Bremen,Aaron,Jonnhji,2800000,2502490,297510,11.9,mv_history_exakt
+12563992949,2026-09-04T17:40:29Z,verkauf,Sylla,8222,Schalke,,Kai,9155556,8328943,826613,9.9,history_players_naeherung
+12563993423,2026-09-04T17:40:32Z,verkauf,Schwäbe,1580,Köln,,Kai,15587596,15549115,38481,0.2,mv_history_exakt
+12564216074,2026-09-04T17:53:21Z,verkauf,Can,54,Dortmund,,Jonnhji,2293842,1745964,547878,31.4,history_players_naeherung
+12564216443,2026-09-04T17:53:24Z,verkauf,Müller,755,Schalke,,Jonnhji,2122368,1453001,669367,46.1,history_players_naeherung
+12564216776,2026-09-04T17:53:27Z,verkauf,Vázquez,3754,Leverkusen,,Jonnhji,8034510,6742415,1292095,19.2,history_players_naeherung
+12564225755,2026-09-04T17:53:34Z,verkauf,Jakić,3143,Augsburg,,Jonnhji,4331762,3827193,504569,13.2,history_players_naeherung
+12565980911,2026-09-04T20:33:10Z,verkauf,Gayret,14914,Paderborn,,nico,1021508,536782,484726,90.3,history_players_naeherung
+12567654062,2026-09-04T22:56:56Z,verkauf,Lee,2476,Mainz,,Felix,12851933,12851933,0,0.0,mv_history_exakt
+12569269865,2026-09-05T01:45:43Z,kauf,Vieira,11967,Hamburg,Jonnhji,,20025999,19106088,919911,4.8,mv_history_exakt
+12570027503,2026-09-05T03:12:08Z,kauf,Skov,2717,Union Berlin,Jonnhji,,905999,1440549,-534550,-37.1,history_players_naeherung
+12570157346,2026-09-05T03:26:56Z,kauf,Regeer,17288,Bremen,Kai,,5930002,5958613,-28611,-0.5,mv_history_exakt
+12570730358,2026-09-05T04:29:44Z,kauf,Beier,2714,Dortmund,nico,,21945000,22005417,-60417,-0.3,mv_history_exakt
+12571402604,2026-09-05T05:35:39Z,kauf,Moore,17282,Köln,Felix,,12444499,10945312,1499187,13.7,mv_history_exakt
+12571468124,2026-09-05T05:41:33Z,verkauf,Undav,7158,Stuttgart,,Aaron,41645122,40937897,707225,1.7,mv_history_exakt
+12573478238,2026-09-05T08:43:30Z,verkauf,Ache,2855,Köln,,Felix,15590643,15474394,116249,0.8,mv_history_exakt
+12574235477,2026-09-05T09:59:27Z,kauf,Irié,11007,Freiburg,nico,,4545000,4458982,86018,1.9,mv_history_exakt
+12577147685,2026-09-05T14:54:20Z,verkauf,Adamu,6172,Schalke,,MicheleFerra,6698602,5754566,944036,16.4,history_players_naeherung
+12579023009,2026-09-05T17:59:15Z,verkauf,Raab,3419,Union Berlin,,Jonnhji,6310485,5176132,1134353,21.9,history_players_naeherung
+12579023054,2026-09-05T17:59:18Z,verkauf,Tillman,2846,Leverkusen,,Jonnhji,15342824,15310740,32084,0.2,mv_history_exakt
+12579431540,2026-09-05T18:40:39Z,kauf,Mwene,2232,Mainz,Kai,,11345679,10804267,541412,5.0,mv_history_exakt
+12580051904,2026-09-05T19:44:02Z,verkauf,Rothe,3102,Union Berlin,,Kai,10319826,10185766,134060,1.3,history_players_naeherung
+12580060385,2026-09-05T19:44:18Z,verkauf,Ljubičić,10106,Union Berlin,,Kai,5667942,5351590,316352,5.9,history_players_naeherung
+12581079392,2026-09-05T21:30:30Z,kauf,Díaz,11675,Bayern,Jonnhji,,54055999,53765376,290623,0.5,mv_history_exakt
+12581865083,2026-09-05T22:33:15Z,kauf,Baku,2141,Leipzig,Kai,,21006852,20012983,993869,5.0,mv_history_exakt
+12583969913,2026-09-06T02:06:51Z,kauf,Estève,15376,Leipzig,nico,,11354600,9549145,1805455,18.9,mv_history_exakt
+12590506424,2026-09-06T13:00:56Z,kauf,Da Costa,1540,Mainz,Maurice,,12100000,11083387,1016613,9.2,mv_history_exakt
+12591151337,2026-09-06T14:06:40Z,kauf,Ibrahimović,3176,Augsburg,Paul Block,,6240999,5865167,375832,6.4,mv_history_exakt
+12591841490,2026-09-06T15:15:46Z,kauf,Rosenfelder,7216,Freiburg,Paul Block,,5108999,5069520,39479,0.8,mv_history_exakt
+12593718464,2026-09-06T18:16:24Z,verkauf,Daka,15472,Hamburg,,Paul Block,10579641,9336533,1243108,13.3,history_players_naeherung
+12594470393,2026-09-06T19:30:35Z,verkauf,Castro-Montes,11958,Köln,,Kai,9806359,9738863,67496,0.7,history_players_naeherung
+12594471194,2026-09-06T19:30:53Z,verkauf,Jeong,2302,Union Berlin,,Kai,5200953,4785021,415932,8.7,history_players_naeherung
+12594471326,2026-09-06T19:30:59Z,verkauf,Sander,2560,M'gladbach,,Kai,10919455,12378696,-1459241,-11.8,history_players_naeherung
+12595454705,2026-09-06T21:02:43Z,kauf,Castañeda,8292,Paderborn,Kai,,9800698,9406105,394593,4.2,mv_history_exakt
+12598406024,2026-09-07T02:08:22Z,kauf,Ryerson,2395,Dortmund,Aaron,,25637022,25364676,272346,1.1,mv_history_exakt
+12600626462,2026-09-07T05:30:43Z,kauf,Petkov,2928,Elversberg,Maurice,,13100000,11636637,1463363,12.6,mv_history_exakt
+12602941880,2026-09-07T08:55:56Z,kauf,Treu,6209,Freiburg,Kai,,10100030,10129810,-29780,-0.3,mv_history_exakt
+12605502122,2026-09-07T13:13:55Z,verkauf,Džeko,1012,Schalke,,Aaron,7321942,6966468,355474,5.1,history_players_naeherung
+12606559787,2026-09-07T15:06:17Z,verkauf,Vidović,3081,Paderborn,,Paul Block,8238332,7769697,468635,6.0,history_players_naeherung
+12606874910,2026-09-07T15:39:18Z,kauf,Rohr,3284,Elversberg,Paul Block,,10359999,10315645,44354,0.4,mv_history_exakt
+12606930557,2026-09-07T15:45:57Z,kauf,Chabot,3190,Stuttgart,Paul Block,,22791869,22906280,-114411,-0.5,mv_history_exakt
+12607201217,2026-09-07T16:14:26Z,kauf,Hofmann,78,Leverkusen,Kai,,4200365,4042563,157802,3.9,mv_history_exakt
+12622952654,2026-09-07T18:27:50Z,verkauf,Weiser,43,Bremen,,Maurice,4745075,4643827,101248,2.2,history_players_naeherung
+12622954292,2026-09-07T18:28:28Z,verkauf,Mane,9440,Dortmund,,Maurice,5348574,4872884,475690,9.8,history_players_naeherung
+12624128669,2026-09-07T20:32:08Z,verkauf,Grønbæk,9605,Hamburg,,Paul Block,12210337,12210337,0,0.0,mv_history_exakt
+12624446171,2026-09-07T21:07:19Z,kauf,El Khannouss,11955,Stuttgart,MicheleFerra,,21075489,18756255,2319234,12.4,mv_history_exakt
+12624446843,2026-09-07T21:07:47Z,verkauf,Onyedika,16369,Frankfurt,,MicheleFerra,13031366,13031366,0,0.0,mv_history_exakt
+12624735653,2026-09-07T21:42:37Z,kauf,Kolke,3450,Bremen,Jonnhji,,500000,500000,0,0.0,history_players_naeherung
+12625657787,2026-09-07T23:12:26Z,kauf,Soylu,14926,Bremen,Paul Block,,802789,802785,4,0.0,mv_history_exakt
+12629676617,2026-09-08T06:29:23Z,kauf,Hollerbach,6111,Mainz,Paul Block,,2569999,2279913,290086,12.7,history_players_naeherung
+12636763778,2026-09-08T18:48:36Z,kauf,Stark,157,Bremen,nico,,3645400,3696755,-51355,-1.4,mv_history_exakt
+12636998471,2026-09-08T19:16:10Z,kauf,Castello Jr.,7224,Leipzig,nico,,21230000,20920334,309666,1.5,mv_history_exakt
+12638785103,2026-09-08T22:21:46Z,kauf,Lemperle,2803,Hoffenheim,Paul Block,,13456999,12012937,1444062,12.0,mv_history_exakt
+12638955383,2026-09-08T22:37:57Z,verkauf,Vieira,11967,Hamburg,,Jonnhji,19346312,19346312,0,0.0,mv_history_exakt
+12643205942,2026-09-09T06:24:43Z,kauf,Arrhov,12285,Frankfurt,nico,,1350000,1448984,-98984,-6.8,history_players_naeherung
+12644630438,2026-09-09T08:55:12Z,kauf,Gomis,10113,Leipzig,Paul Block,,9910899,9467127,443772,4.7,history_players_naeherung
