@@ -405,3 +405,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12643205942,2026-09-09T06:24:43Z,kauf,Arrhov,12285,Frankfurt,nico,,1350000,1448984,-98984,-6.8,history_players_naeherung
 12644630438,2026-09-09T08:55:12Z,kauf,Gomis,10113,Leipzig,Paul Block,,9910899,9467127,443772,4.7,history_players_naeherung
 12648910271,2026-09-09T17:27:15Z,kauf,Quansah,7963,Leverkusen,1. FC Infantino,,17768649,16931026,837623,4.9,history_players_naeherung
+12649978358,2026-09-09T19:35:46Z,kauf,Widmer,3041,Mainz,Paul Block,,2512599,2207000,305599,13.8,history_players_naeherung
+12650194358,2026-09-09T20:00:27Z,verkauf,Karetsas,16378,Dortmund,,Jonnhji,26342994,26366159,-23165,-0.1,history_players_naeherung
+12650337560,2026-09-09T20:14:15Z,verkauf,Beier,2714,Dortmund,,nico,22698435,22355617,342818,1.5,history_players_naeherung
+12650361548,2026-09-09T20:16:47Z,verkauf,Orban,1246,Leipzig,,nico,30067795,30379465,-311670,-1.0,history_players_naeherung
