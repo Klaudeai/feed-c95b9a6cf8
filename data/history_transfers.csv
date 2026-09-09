@@ -404,3 +404,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12638955383,2026-09-08T22:37:57Z,verkauf,Vieira,11967,Hamburg,,Jonnhji,19346312,19346312,0,0.0,mv_history_exakt
 12643205942,2026-09-09T06:24:43Z,kauf,Arrhov,12285,Frankfurt,nico,,1350000,1448984,-98984,-6.8,history_players_naeherung
 12644630438,2026-09-09T08:55:12Z,kauf,Gomis,10113,Leipzig,Paul Block,,9910899,9467127,443772,4.7,history_players_naeherung
+12648910271,2026-09-09T17:27:15Z,kauf,Quansah,7963,Leverkusen,1. FC Infantino,,17768649,16931026,837623,4.9,history_players_naeherung
