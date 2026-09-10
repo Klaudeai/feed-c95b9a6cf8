@@ -419,3 +419,11 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12661868105,2026-09-10T17:45:45Z,kauf,Veerman,7737,Dortmund,Felix,,17999999,16038763,1961236,12.2,history_players_naeherung
 12662616668,2026-09-10T19:05:13Z,kauf,Grüll,7721,Bremen,nico,,10865000,7407142,3457858,46.7,history_players_naeherung
 12662757725,2026-09-10T19:21:59Z,verkauf,Kade,3183,Augsburg,,Kai,14300694,14219832,80862,0.6,history_players_naeherung
+12663231653,2026-09-10T20:09:09Z,verkauf,Ribeiro,12341,Augsburg,,nico,5916564,5222289,694275,13.3,history_players_naeherung
+12663233420,2026-09-10T20:09:15Z,verkauf,Irié,11007,Freiburg,,nico,6014411,5245770,768641,14.7,history_players_naeherung
+12663248174,2026-09-10T20:09:53Z,verkauf,Stark,157,Bremen,,nico,4339819,3341233,998586,29.9,history_players_naeherung
+12663309221,2026-09-10T20:13:00Z,verkauf,Rosenfelder,7216,Freiburg,,Paul Block,5915792,5334116,581676,10.9,history_players_naeherung
+12663309875,2026-09-10T20:13:04Z,verkauf,Rohr,3284,Elversberg,,Paul Block,10771729,10315645,456084,4.4,history_players_naeherung
+12663310499,2026-09-10T20:13:06Z,verkauf,Gomis,10113,Leipzig,,Paul Block,10209688,9467127,742561,7.8,history_players_naeherung
+12663311474,2026-09-10T20:13:11Z,verkauf,Widmer,3041,Mainz,,Paul Block,2733735,2207000,526735,23.9,history_players_naeherung
+12663312458,2026-09-10T20:13:16Z,verkauf,Wolf,1809,Augsburg,,Paul Block,9433357,8553667,879690,10.3,history_players_naeherung
