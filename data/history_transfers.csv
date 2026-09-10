@@ -417,3 +417,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12658398278,2026-09-10T10:54:25Z,kauf,Amaimouni,12294,Frankfurt,Jonnhji,,8657999,8365555,292444,3.5,history_players_naeherung
 12660672413,2026-09-10T15:24:35Z,kauf,Nusa,9507,Leipzig,Jonnhji,,27140999,27009259,131740,0.5,history_players_naeherung
 12661868105,2026-09-10T17:45:45Z,kauf,Veerman,7737,Dortmund,Felix,,17999999,16038763,1961236,12.2,history_players_naeherung
+12662616668,2026-09-10T19:05:13Z,kauf,Grüll,7721,Bremen,nico,,10865000,7407142,3457858,46.7,history_players_naeherung
+12662757725,2026-09-10T19:21:59Z,verkauf,Kade,3183,Augsburg,,Kai,14300694,14219832,80862,0.6,history_players_naeherung
