@@ -409,3 +409,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12650194358,2026-09-09T20:00:27Z,verkauf,Karetsas,16378,Dortmund,,Jonnhji,26342994,26366159,-23165,-0.1,history_players_naeherung
 12650337560,2026-09-09T20:14:15Z,verkauf,Beier,2714,Dortmund,,nico,22698435,22355617,342818,1.5,history_players_naeherung
 12650361548,2026-09-09T20:16:47Z,verkauf,Orban,1246,Leipzig,,nico,30067795,30379465,-311670,-1.0,history_players_naeherung
+12654824396,2026-09-10T04:46:24Z,kauf,Uzun,6081,Frankfurt,Aaron,,27500001,28296380,-796379,-2.8,history_players_naeherung
