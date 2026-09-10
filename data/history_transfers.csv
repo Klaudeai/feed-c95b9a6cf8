@@ -410,3 +410,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12650337560,2026-09-09T20:14:15Z,verkauf,Beier,2714,Dortmund,,nico,22698435,22355617,342818,1.5,history_players_naeherung
 12650361548,2026-09-09T20:16:47Z,verkauf,Orban,1246,Leipzig,,nico,30067795,30379465,-311670,-1.0,history_players_naeherung
 12654824396,2026-09-10T04:46:24Z,kauf,Uzun,6081,Frankfurt,Aaron,,27500001,28296380,-796379,-2.8,history_players_naeherung
+12655896557,2026-09-10T06:21:18Z,kauf,Sebulonsen,11570,Köln,Felix,,1555999,1503719,52280,3.5,history_players_naeherung
+12656537549,2026-09-10T07:26:01Z,kauf,Hansen,6292,Paderborn,Jonnhji,,6507999,5632011,875988,15.6,history_players_naeherung
