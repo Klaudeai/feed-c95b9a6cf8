@@ -428,3 +428,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12663311474,2026-09-10T20:13:11Z,verkauf,Widmer,3041,Mainz,,Paul Block,2733735,2207000,526735,23.9,history_players_naeherung
 12663312458,2026-09-10T20:13:16Z,verkauf,Wolf,1809,Augsburg,,Paul Block,9433357,8553667,879690,10.3,history_players_naeherung
 12668800811,2026-09-11T05:30:59Z,verkauf,Pieper,2294,Bremen,,Aaron,12317211,12084659,232552,1.9,history_players_naeherung
+12670512011,2026-09-11T08:02:00Z,kauf,Götze,513,Frankfurt,Jonnhji,,4524999,4046488,478511,11.8,history_players_naeherung
