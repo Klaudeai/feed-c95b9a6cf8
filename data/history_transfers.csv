@@ -431,3 +431,12 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12670512011,2026-09-11T08:02:00Z,kauf,Götze,513,Frankfurt,Jonnhji,,4524999,4046488,478511,11.8,history_players_naeherung
 12671781422,2026-09-11T10:07:29Z,kauf,Soylu,14926,Bremen,Jonnhji,Paul Block,739900,802785,-62885,-7.8,history_players_naeherung
 12671869436,2026-09-11T10:16:53Z,verkauf,Maluze,11186,Frankfurt,,nico,4679018,4173772,505246,12.1,history_players_naeherung
+12676911245,2026-09-11T18:13:28Z,kauf,Deman,7282,Bremen,Kai,,10763320,9190308,1573012,17.1,history_players_naeherung
+12676920512,2026-09-11T18:13:54Z,verkauf,Raum,2522,Leipzig,,Kai,34748807,34847486,-98679,-0.3,history_players_naeherung
+12676920839,2026-09-11T18:13:57Z,verkauf,Hofmann,78,Leverkusen,,Kai,4982644,3701596,1281048,34.6,history_players_naeherung
+12676921379,2026-09-11T18:14:00Z,verkauf,Treu,6209,Freiburg,,Kai,10344958,10041813,303145,3.0,history_players_naeherung
+12676939304,2026-09-11T18:15:26Z,verkauf,Banzuzi,11008,Leipzig,,Jonnhji,11527874,11835477,-307603,-2.6,history_players_naeherung
+12676939562,2026-09-11T18:15:28Z,verkauf,Amaimouni,12294,Frankfurt,,Jonnhji,8632937,8365555,267382,3.2,history_players_naeherung
+12676940231,2026-09-11T18:15:31Z,verkauf,Nusa,9507,Leipzig,,Jonnhji,27181846,27009259,172587,0.6,history_players_naeherung
+12676940477,2026-09-11T18:15:34Z,verkauf,Schmied,10024,Köln,,Jonnhji,2051649,1359195,692454,50.9,history_players_naeherung
+12676940744,2026-09-11T18:15:36Z,verkauf,Skov,2717,Union Berlin,,Jonnhji,2155839,1440549,715290,49.7,history_players_naeherung
