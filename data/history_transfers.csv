@@ -441,3 +441,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12676940477,2026-09-11T18:15:34Z,verkauf,Schmied,10024,Köln,,Jonnhji,2051649,1359195,692454,50.9,history_players_naeherung
 12676940744,2026-09-11T18:15:36Z,verkauf,Skov,2717,Union Berlin,,Jonnhji,2155839,1440549,715290,49.7,history_players_naeherung
 12677988656,2026-09-11T20:13:38Z,verkauf,Kübler,1257,Freiburg,,nico,7133894,6699454,434440,6.5,history_players_naeherung
+12680670959,2026-09-12T01:00:00Z,kauf,Beste,2125,Freiburg,Paul Block,,14243019,13844036,398983,2.9,history_players_naeherung
