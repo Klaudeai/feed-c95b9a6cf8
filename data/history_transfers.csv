@@ -446,3 +446,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12685955030,2026-09-12T11:06:54Z,kauf,Machida,11161,Hoffenheim,Paul Block,,4115029,3213414,901615,28.1,history_players_naeherung
 12686338433,2026-09-12T11:53:14Z,kauf,Stiller,2694,Stuttgart,Jonnhji,,30865808,32788536,-1922728,-5.9,history_players_naeherung
 12687561566,2026-09-12T14:10:51Z,verkauf,Stiller,2694,Stuttgart,,Jonnhji,30865808,32788536,-1922728,-5.9,history_players_naeherung
+12688066205,2026-09-12T15:07:03Z,verkauf,Da Costa,1540,Mainz,,Maurice,9841467,11196337,-1354870,-12.1,history_players_naeherung
+12688291322,2026-09-12T15:28:46Z,verkauf,Pejčinović,4296,Stuttgart,,nico,11489263,11569710,-80447,-0.7,history_players_naeherung
