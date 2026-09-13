@@ -449,3 +449,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12688066205,2026-09-12T15:07:03Z,verkauf,Da Costa,1540,Mainz,,Maurice,9841467,11196337,-1354870,-12.1,history_players_naeherung
 12688291322,2026-09-12T15:28:46Z,verkauf,Pejčinović,4296,Stuttgart,,nico,11489263,11569710,-80447,-0.7,history_players_naeherung
 12690687080,2026-09-12T19:56:51Z,verkauf,Pieringer,3027,Paderborn,,Jonnhji,4495803,4209319,286484,6.8,history_players_naeherung
+12694367888,2026-09-13T02:54:48Z,kauf,Gnabry,1961,Bayern,nico,,15432000,12398650,3033350,24.5,history_players_naeherung
+12695493149,2026-09-13T05:18:31Z,kauf,Rômulo,11886,Leipzig,Paul Block,,9220999,11056774,-1835775,-16.6,history_players_naeherung
