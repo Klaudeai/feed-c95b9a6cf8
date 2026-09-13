@@ -451,3 +451,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12690687080,2026-09-12T19:56:51Z,verkauf,Pieringer,3027,Paderborn,,Jonnhji,4495803,4209319,286484,6.8,history_players_naeherung
 12694367888,2026-09-13T02:54:48Z,kauf,Gnabry,1961,Bayern,nico,,15432000,12398650,3033350,24.5,history_players_naeherung
 12695493149,2026-09-13T05:18:31Z,kauf,Rômulo,11886,Leipzig,Paul Block,,9220999,11056774,-1835775,-16.6,history_players_naeherung
+12697388363,2026-09-13T08:29:56Z,kauf,Zentner,1590,Mainz,nico,,12100000,14372632,-2272632,-15.8,history_players_naeherung
+12697399496,2026-09-13T08:31:06Z,verkauf,Wisbereit,13671,Augsburg,,nico,500000,500000,0,0.0,history_players_naeherung
+12697876772,2026-09-13T09:20:52Z,kauf,Collins,2864,Frankfurt,Jonnhji,,5377999,5554126,-176127,-3.2,history_players_naeherung
