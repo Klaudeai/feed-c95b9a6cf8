@@ -1,0 +1,4 @@
+player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,competing_offers,expires_at,first_seen,last_seen_open,status,resolved_at,resolved_price,resolved_buyer,resolved_note
+7156,Maximilian Wöber,Schalke,ABW,3100968,1999207,55.1,1,2026-09-15T11:59:42.577338+00:00,2026-09-14T14:06:37+00:00,2026-09-14T14:06:37+00:00,offen,,,,
+10122,Fabio Gruber,Mainz,ABW,13630098,13247757,2.9,1,2026-09-15T01:57:55.577338+00:00,2026-09-14T14:06:37+00:00,2026-09-14T14:06:37+00:00,offen,,,,
+11255,Nikola Katic,Schalke,ABW,12430089,11073626,12.2,1,2026-09-15T01:51:57.577338+00:00,2026-09-14T14:06:37+00:00,2026-09-14T14:06:37+00:00,offen,,,,
