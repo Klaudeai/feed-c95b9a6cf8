@@ -462,3 +462,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12705335234,2026-09-13T22:58:45Z,kauf,Maksimovic,9776,Leipzig,nico,,6212000,3600992,2611008,72.5,history_players_naeherung
 12705482084,2026-09-13T23:16:05Z,kauf,Chukwuemeka,10114,Dortmund,Kai,,5870002,3203267,2666735,83.3,history_players_naeherung
 12705691556,2026-09-13T23:41:34Z,kauf,Henrichs,1689,Leipzig,Paul Block,,4825999,4648220,177779,3.8,history_players_naeherung
+12707461406,2026-09-14T03:31:12Z,kauf,Karius,32,Schalke,schwungzent,,19889988,16655103,3234885,19.4,history_players_naeherung
+12708199361,2026-09-14T04:43:37Z,kauf,Baum,7325,Frankfurt,Maurice,,14000000,13688541,311459,2.3,history_players_naeherung
+12708298190,2026-09-14T04:52:16Z,kauf,Köhn,3453,Union Berlin,Jonnhji,,3207999,1928268,1279731,66.4,history_players_naeherung
+12708330437,2026-09-14T04:54:49Z,kauf,Diehl,4589,Stuttgart,Jonnhji,,500001,635289,-135288,-21.3,history_players_naeherung
