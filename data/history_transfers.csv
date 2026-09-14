@@ -472,3 +472,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12709492565,2026-09-14T06:38:36Z,verkauf,Kristof,6160,Elversberg,,schwungzent,11839608,12001237,-161629,-1.3,history_players_naeherung
 12710859113,2026-09-14T09:02:31Z,kauf,Potulski,11665,Mainz,Jonnhji,,8757999,6379611,2378388,37.3,history_players_naeherung
 12713193812,2026-09-14T13:32:52Z,kauf,Medina,14241,Leverkusen,Jonnhji,,11627999,11170393,457606,4.1,history_players_naeherung
+12733786754,2026-09-14T23:11:37Z,kauf,Simpson-Pusey,12321,Köln,Kai,,9890036,9715562,174474,1.8,mv_history_exakt
