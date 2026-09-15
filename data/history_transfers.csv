@@ -473,3 +473,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12710859113,2026-09-14T09:02:31Z,kauf,Potulski,11665,Mainz,Jonnhji,,8757999,6379611,2378388,37.3,history_players_naeherung
 12713193812,2026-09-14T13:32:52Z,kauf,Medina,14241,Leverkusen,Jonnhji,,11627999,11170393,457606,4.1,history_players_naeherung
 12733786754,2026-09-14T23:11:37Z,kauf,Simpson-Pusey,12321,Köln,Kai,,9890036,9715562,174474,1.8,mv_history_exakt
+12735031598,2026-09-15T01:52:12Z,kauf,Katic,11255,Schalke,Kai,,12430089,11073626,1356463,12.2,history_players_naeherung
+12735079652,2026-09-15T01:58:19Z,kauf,Gruber,10122,Mainz,Kai,,13830065,13247757,582308,4.4,history_players_naeherung
