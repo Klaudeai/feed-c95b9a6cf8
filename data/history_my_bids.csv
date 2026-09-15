@@ -19,6 +19,9 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 7156,Maximilian Wöber,Schalke,ABW,3100968,2323322,33.5,1,2026-09-15T11:59:41.489085+00:00,2026-09-14T23:25:45+00:00,2026-09-14T23:25:45+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
 10122,Fabio Gruber,Mainz,ABW,13830065,13472670,2.7,1,2026-09-15T01:57:54.489085+00:00,2026-09-14T23:25:45+00:00,2026-09-14T23:25:45+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
 11255,Nikola Katic,Schalke,ABW,12430089,11317486,9.8,1,2026-09-15T01:51:56.489085+00:00,2026-09-14T23:25:45+00:00,2026-09-14T23:25:45+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
-7156,Maximilian Wöber,Schalke,ABW,3100968,2323322,33.5,1,2026-09-15T11:59:42.949201+00:00,2026-09-14T23:41:42+00:00,2026-09-14T23:41:42+00:00,offen,,,,
-10122,Fabio Gruber,Mainz,ABW,13830065,13472670,2.7,1,2026-09-15T01:57:55.949201+00:00,2026-09-14T23:41:42+00:00,2026-09-14T23:41:42+00:00,offen,,,,
-11255,Nikola Katic,Schalke,ABW,12430089,11317486,9.8,1,2026-09-15T01:51:57.949201+00:00,2026-09-14T23:41:42+00:00,2026-09-14T23:41:42+00:00,offen,,,,
+7156,Maximilian Wöber,Schalke,ABW,3100968,2323322,33.5,1,2026-09-15T11:59:42.949201+00:00,2026-09-14T23:41:42+00:00,2026-09-14T23:41:42+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+10122,Fabio Gruber,Mainz,ABW,13830065,13472670,2.7,1,2026-09-15T01:57:55.949201+00:00,2026-09-14T23:41:42+00:00,2026-09-14T23:41:42+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+11255,Nikola Katic,Schalke,ABW,12430089,11317486,9.8,1,2026-09-15T01:51:57.949201+00:00,2026-09-14T23:41:42+00:00,2026-09-14T23:41:42+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+7156,Maximilian Wöber,Schalke,ABW,3100968,2323322,33.5,1,2026-09-15T11:59:42.697449+00:00,2026-09-15T00:58:18+00:00,2026-09-15T00:58:18+00:00,offen,,,,
+10122,Fabio Gruber,Mainz,ABW,13830065,13472670,2.7,1,2026-09-15T01:57:55.697449+00:00,2026-09-15T00:58:18+00:00,2026-09-15T00:58:18+00:00,offen,,,,
+11255,Nikola Katic,Schalke,ABW,12430089,11317486,9.8,1,2026-09-15T01:51:57.697449+00:00,2026-09-15T00:58:18+00:00,2026-09-15T00:58:18+00:00,offen,,,,
