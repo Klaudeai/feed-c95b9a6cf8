@@ -477,3 +477,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12735079652,2026-09-15T01:58:19Z,kauf,Gruber,10122,Mainz,Kai,,13830065,13247757,582308,4.4,history_players_naeherung
 12737800409,2026-09-15T06:29:42Z,verkauf,Caci,3470,Mainz,,Kai,11875602,11875602,0,0.0,history_players_naeherung
 12739465388,2026-09-15T09:29:43Z,verkauf,Zentner,1590,Mainz,,nico,11358474,11358474,0,0.0,history_players_naeherung
+12741307988,2026-09-15T12:00:13Z,kauf,Wöber,7156,Schalke,nico,,2765000,2323322,441678,19.0,history_players_naeherung
+12741611012,2026-09-15T12:35:54Z,kauf,Reggiani,13472,Dortmund,nico,,5765000,5056416,708584,14.0,history_players_naeherung
