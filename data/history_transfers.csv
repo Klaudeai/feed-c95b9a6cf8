@@ -486,3 +486,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12751370894,2026-09-16T09:41:57Z,kauf,Rönnow,2279,Union Berlin,nico,,11500000,10064313,1435687,14.3,history_players_naeherung
 12751719164,2026-09-16T10:31:38Z,verkauf,Ebnoutalib,10004,Frankfurt,,Felix,16282033,16331952,-49919,-0.3,history_players_naeherung
 12751952888,2026-09-16T11:05:42Z,kauf,Claude-Maurice,9684,Augsburg,Paul Block,,9542569,8985874,556695,6.2,history_players_naeherung
+12752275019,2026-09-16T11:53:13Z,kauf,Keidel,3350,Elversberg,Paul Block,,9650999,9312350,338649,3.6,history_players_naeherung
