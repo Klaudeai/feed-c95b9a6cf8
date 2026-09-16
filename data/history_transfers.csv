@@ -481,3 +481,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12741611012,2026-09-15T12:35:54Z,kauf,Reggiani,13472,Dortmund,nico,,5765000,5056416,708584,14.0,history_players_naeherung
 12747667160,2026-09-16T02:03:37Z,kauf,Bischof,3120,Bayern,Kai,,17387692,16943611,444081,2.6,history_players_naeherung
 12747696473,2026-09-16T02:08:12Z,kauf,Darvich,9384,Elversberg,Kai,,4310582,3727593,582989,15.6,history_players_naeherung
+12749431796,2026-09-16T05:36:03Z,verkauf,Estève,15376,Leipzig,,nico,11048117,11115812,-67695,-0.6,history_players_naeherung
+12750540227,2026-09-16T07:46:48Z,verkauf,Castañeda,8292,Paderborn,,Kai,9336600,9494451,-157851,-1.7,history_players_naeherung
