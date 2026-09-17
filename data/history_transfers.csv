@@ -489,3 +489,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12752275019,2026-09-16T11:53:13Z,kauf,Keidel,3350,Elversberg,Paul Block,,9650999,9312350,338649,3.6,history_players_naeherung
 12758023061,2026-09-17T01:44:15Z,kauf,Lochoshvili,8001,Köln,Aaron,,9500001,9702781,-202780,-2.1,history_players_naeherung
 12758731319,2026-09-17T03:35:43Z,kauf,Omari,11752,Hamburg,nico,,1756500,1209090,547410,45.3,history_players_naeherung
+12760555319,2026-09-17T06:51:20Z,verkauf,Chukwuemeka,10114,Dortmund,,Kai,6162442,5613547,548895,9.8,history_players_naeherung
+12760780889,2026-09-17T07:18:15Z,kauf,Nkunku,2687,Leipzig,Felix,,27999999,26212336,1787663,6.8,history_players_naeherung
+12760805450,2026-09-17T07:21:10Z,verkauf,Veerman,7737,Dortmund,,Felix,15978663,16029375,-50712,-0.3,history_players_naeherung
