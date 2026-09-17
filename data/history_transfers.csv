@@ -497,3 +497,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12766636904,2026-09-17T20:48:33Z,verkauf,Reggiani,13472,Dortmund,,nico,5863794,5056416,807378,16.0,history_players_naeherung
 12766637612,2026-09-17T20:48:38Z,verkauf,Maksimovic,9776,Leipzig,,nico,6778620,6120496,658124,10.8,history_players_naeherung
 12766638122,2026-09-17T20:48:46Z,verkauf,Wöber,7156,Schalke,,nico,3371410,2323322,1048088,45.1,history_players_naeherung
+12767629265,2026-09-17T22:41:24Z,kauf,Friedrich,1223,Union Berlin,nico,,750609,846861,-96252,-11.4,history_players_naeherung
+12767785496,2026-09-17T23:01:46Z,verkauf,Scally,2941,M'gladbach,,Paul Block,7622646,7135107,487539,6.8,history_players_naeherung
