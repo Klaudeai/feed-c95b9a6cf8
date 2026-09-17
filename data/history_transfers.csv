@@ -494,3 +494,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12760805450,2026-09-17T07:21:10Z,verkauf,Veerman,7737,Dortmund,,Felix,15978663,16029375,-50712,-0.3,history_players_naeherung
 12762008522,2026-09-17T10:01:14Z,kauf,Engelhardt,3209,Freiburg,Felix,,12111119,10807073,1304046,12.1,history_players_naeherung
 12763444451,2026-09-17T13:31:28Z,verkauf,Gadou,15211,Dortmund,,nico,22811064,23247156,-436092,-1.9,history_players_naeherung
+12766636904,2026-09-17T20:48:33Z,verkauf,Reggiani,13472,Dortmund,,nico,5863794,5056416,807378,16.0,history_players_naeherung
+12766637612,2026-09-17T20:48:38Z,verkauf,Maksimovic,9776,Leipzig,,nico,6778620,6120496,658124,10.8,history_players_naeherung
+12766638122,2026-09-17T20:48:46Z,verkauf,Wöber,7156,Schalke,,nico,3371410,2323322,1048088,45.1,history_players_naeherung
