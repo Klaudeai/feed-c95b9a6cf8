@@ -505,3 +505,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12772080911,2026-09-18T07:50:39Z,verkauf,Grüll,7721,Bremen,,nico,10842055,9920800,921255,9.3,history_players_naeherung
 12772747892,2026-09-18T09:12:17Z,verkauf,Gyamerah,859,Elversberg,,Felix,8727414,7818644,908770,11.6,history_players_naeherung
 12773330729,2026-09-18T10:26:48Z,kauf,Silas,2822,Mainz,nico,,1320090,517879,802211,154.9,history_players_naeherung
+12775598330,2026-09-18T15:09:21Z,kauf,Nandja,11949,Hamburg,Aaron,,1600000,1741402,-141402,-8.1,history_players_naeherung
+12775821320,2026-09-18T15:34:20Z,verkauf,Claude-Maurice,9684,Augsburg,,Paul Block,9804387,8985874,818513,9.1,history_players_naeherung
+12775821521,2026-09-18T15:34:23Z,verkauf,Henrichs,1689,Leipzig,,Paul Block,6052508,5026612,1025896,20.4,history_players_naeherung
+12775821773,2026-09-18T15:34:26Z,verkauf,Hollerbach,6111,Mainz,,Paul Block,1755943,1723296,32647,1.9,history_players_naeherung
+12775821989,2026-09-18T15:34:28Z,verkauf,Honorat,6319,M'gladbach,,Paul Block,11526688,11228856,297832,2.7,history_players_naeherung
