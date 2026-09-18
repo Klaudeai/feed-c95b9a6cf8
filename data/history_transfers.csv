@@ -510,3 +510,13 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12775821521,2026-09-18T15:34:23Z,verkauf,Henrichs,1689,Leipzig,,Paul Block,6052508,5026612,1025896,20.4,history_players_naeherung
 12775821773,2026-09-18T15:34:26Z,verkauf,Hollerbach,6111,Mainz,,Paul Block,1755943,1723296,32647,1.9,history_players_naeherung
 12775821989,2026-09-18T15:34:28Z,verkauf,Honorat,6319,M'gladbach,,Paul Block,11526688,11228856,297832,2.7,history_players_naeherung
+12777387845,2026-09-18T17:54:17Z,verkauf,Bischof,3120,Bayern,,Kai,17122353,16943611,178742,1.1,history_players_naeherung
+12777394202,2026-09-18T17:54:22Z,verkauf,Gruber,10122,Mainz,,Kai,13900406,13472670,427736,3.2,history_players_naeherung
+12777394811,2026-09-18T17:54:24Z,verkauf,Darvich,9384,Elversberg,,Kai,4405398,3727593,677805,18.2,history_players_naeherung
+12777395210,2026-09-18T17:54:27Z,verkauf,Spalt,12367,Stuttgart,,Kai,2465437,1762428,703009,39.9,history_players_naeherung
+12778108853,2026-09-18T19:08:26Z,verkauf,Soylu,14926,Bremen,,Jonnhji,1838900,1045499,793401,75.9,history_players_naeherung
+12778108871,2026-09-18T19:08:28Z,verkauf,Hansen,6292,Paderborn,,Jonnhji,7630117,7143777,486340,6.8,history_players_naeherung
+12778108913,2026-09-18T19:08:30Z,verkauf,Köhn,3453,Union Berlin,,Jonnhji,4294818,3356544,938274,28.0,history_players_naeherung
+12778108934,2026-09-18T19:08:32Z,verkauf,Skarke,2491,Union Berlin,,Jonnhji,7880319,7306803,573516,7.8,history_players_naeherung
+12778114514,2026-09-18T19:08:35Z,verkauf,Diehl,4589,Stuttgart,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
+12778114538,2026-09-18T19:08:38Z,verkauf,Brassier,17285,Frankfurt,,Jonnhji,13245467,13051393,194074,1.5,history_players_naeherung
