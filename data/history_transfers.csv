@@ -501,3 +501,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12767785496,2026-09-17T23:01:46Z,verkauf,Scally,2941,M'gladbach,,Paul Block,7622646,7135107,487539,6.8,history_players_naeherung
 12767840906,2026-09-17T23:08:59Z,verkauf,Rômulo,11886,Leipzig,,Paul Block,10157229,9405308,751921,8.0,history_players_naeherung
 12767841041,2026-09-17T23:09:02Z,verkauf,Keidel,3350,Elversberg,,Paul Block,9895788,9312350,583438,6.3,history_players_naeherung
+12768622220,2026-09-18T01:08:15Z,kauf,Königsdörffer,3318,Mainz,Paul Block,,6589999,5854443,735556,12.6,history_players_naeherung
