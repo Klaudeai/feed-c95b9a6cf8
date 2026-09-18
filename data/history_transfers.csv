@@ -504,3 +504,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12768622220,2026-09-18T01:08:15Z,kauf,Königsdörffer,3318,Mainz,Paul Block,,6589999,5854443,735556,12.6,history_players_naeherung
 12772080911,2026-09-18T07:50:39Z,verkauf,Grüll,7721,Bremen,,nico,10842055,9920800,921255,9.3,history_players_naeherung
 12772747892,2026-09-18T09:12:17Z,verkauf,Gyamerah,859,Elversberg,,Felix,8727414,7818644,908770,11.6,history_players_naeherung
+12773330729,2026-09-18T10:26:48Z,kauf,Silas,2822,Mainz,nico,,1320090,517879,802211,154.9,history_players_naeherung
