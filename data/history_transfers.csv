@@ -520,3 +520,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12778108934,2026-09-18T19:08:32Z,verkauf,Skarke,2491,Union Berlin,,Jonnhji,7880319,7306803,573516,7.8,history_players_naeherung
 12778114514,2026-09-18T19:08:35Z,verkauf,Diehl,4589,Stuttgart,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
 12778114538,2026-09-18T19:08:38Z,verkauf,Brassier,17285,Frankfurt,,Jonnhji,13245467,13051393,194074,1.5,history_players_naeherung
+12780366896,2026-09-18T23:42:09Z,kauf,Chandler,461,Frankfurt,nico,,1445009,500000,945009,189.0,history_players_naeherung
