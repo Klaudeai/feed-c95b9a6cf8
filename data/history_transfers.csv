@@ -526,3 +526,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12785111408,2026-09-19T10:42:59Z,kauf,Zimmerschied,9224,Elversberg,nico,,1423260,979604,443656,45.3,history_players_naeherung
 12786008660,2026-09-19T12:54:43Z,kauf,Aebischer,7684,Union Berlin,Paul Block,,3703199,3880196,-176997,-4.6,history_players_naeherung
 12786103922,2026-09-19T13:08:27Z,kauf,Götze,1964,Paderborn,nico,,3389800,3621568,-231768,-6.4,history_players_naeherung
+12786453059,2026-09-19T13:56:35Z,kauf,Castrop,2862,M'gladbach,nico,,1324560,845393,479167,56.7,history_players_naeherung
