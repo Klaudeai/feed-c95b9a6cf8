@@ -1385,3 +1385,465 @@ nr,archived_at,player_id,player,position,team,market_value,season_points,matchda
 3,2026-09-15T09:49:56+02:00,12297,Tanaka,MF,Schalke,8278034,192,98,64.0,11.8,12066,6325,3,fit,,,,ja
 3,2026-09-15T09:49:56+02:00,13431,Siebeking,TW,Schalke,500000,,,,,,,5,fit,,,,ja
 3,2026-09-15T09:49:56+02:00,13448,Aouchiche,MF,Schalke,11221625,309,182,103.0,16.2,16049,5724,1,fit,,,schwungzent,ja
+4,2026-09-19T22:59:53+02:00,4199,García,MF,Leverkusen,37951789,480,0,120.0,0.0,17387,0,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,608,Füllkrug,ST,Bremen,14059036,445,202,111.2,14.4,19260,5926,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4596,Gruda,MF,Leipzig,20387710,251,0,62.8,0.0,10156,0,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3019,Atubolu,TW,Frankfurt,14529432,451,96,112.8,6.6,23279,5658,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17288,Regeer,MF,Bremen,8114028,286,131,71.5,16.1,16130,5926,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2232,Mwene,ABW,Mainz,11300124,457,83,114.2,7.3,22214,6255,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2141,Baku,ABW,Leipzig,21856393,535,0,133.8,0.0,11620,0,2,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6080,Pavlović,MF,Bayern,34195149,837,162,209.2,4.7,19470,3929,2,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7282,Deman,ABW,Bremen,10883507,406,104,101.5,9.6,23393,5926,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12321,Simpson-Pusey,ABW,Köln,10309897,317,91,79.2,8.8,22997,5697,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11255,Katic,ABW,Schalke,12362724,371,0,92.8,0.0,16662,6325,1,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2065,Uduokhai,ABW,Union Berlin,8365237,211,66,52.8,7.9,17739,5765,2,fit,zugelost_oder_uebernommen,,Kai,vorlaeufig
+4,2026-09-19T22:59:53+02:00,60,Kohr,ABW,Mainz,3856510,96,0,24.0,0.0,4824,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,550,Bell,ABW,Mainz,2405498,,0,,0.0,,,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,620,Schwolow,TW,Mainz,6301215,255,104,63.8,16.5,11879,6255,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1540,Da Costa,ABW,Mainz,7573682,342,168,85.5,22.2,10387,2023,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1590,Zentner,TW,Mainz,9047858,144,0,36.0,0.0,11529,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1639,Amiri,MF,Mainz,33547425,423,107,105.8,3.2,22430,5804,1,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2006,Posch,ABW,Mainz,10224739,282,97,70.5,9.5,17352,6255,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2030,Tietz,ST,Mainz,17076150,661,126,165.2,7.4,23408,6255,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2399,Maloney,MF,Mainz,1109900,42,19,10.5,17.1,763,451,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2476,Lee,MF,Mainz,12571767,360,75,90.0,6.0,16550,4243,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2646,Becker,ST,Mainz,14953515,653,248,163.2,16.6,17713,4904,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2702,Martel,MF,Mainz,3440512,91,91,30.3,26.4,2012,2012,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2822,Silas,ST,Mainz,1363058,,0,,0.0,,,5,verletzt,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2895,Nebel,MF,Mainz,4206501,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3041,Widmer,ABW,Mainz,1502239,29,0,7.2,0.0,1324,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3318,Königsdörffer,ST,Mainz,6644989,198,18,49.5,2.7,7458,1350,3,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3470,Caci,ABW,Mainz,10068141,333,114,83.2,11.3,17426,4232,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6111,Hollerbach,ST,Mainz,1836437,7,0,1.8,0.0,1187,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8307,Sano,MF,Mainz,19304654,581,169,145.2,8.8,23095,6255,1,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10122,Gruber,ABW,Mainz,13821853,469,118,117.2,8.5,23408,12053,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11261,Kawasaki,MF,Mainz,1139676,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11665,Potulski,ABW,Mainz,9340699,244,88,61.0,9.4,18584,6255,2,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11666,Kinzig,TW,Mainz,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13438,Ruoppi,MF,Mainz,1905483,85,0,21.2,0.0,2479,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17179,Nakuzola,ABW,Mainz,656561,54,0,13.5,0.0,1517,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1664,Mittelstädt,ABW,Stuttgart,27289007,657,139,164.2,5.1,22206,5674,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1671,Prömel,MF,Stuttgart,16822815,342,35,85.5,2.1,22567,5056,3,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2068,Zagadou,ABW,Stuttgart,1078921,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2120,Nartey,MF,Stuttgart,4980053,-9,-9,-3.0,-1.8,617,617,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2172,Führich,MF,Stuttgart,18328738,181,26,45.2,1.4,12361,3902,2,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2199,Vagnoman,ABW,Stuttgart,12025597,524,66,131.0,5.5,22295,5674,2,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2214,Karazor,MF,Stuttgart,2738126,,0,,0.0,,,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2237,Bredlow,TW,Stuttgart,13048391,409,19,102.2,1.5,23185,5674,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2445,Funk,TW,Stuttgart,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2694,Stiller,MF,Stuttgart,26078771,228,75,57.0,2.9,18574,5674,2,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2854,Demirović,ST,Stuttgart,16994218,153,-15,38.2,-0.9,13313,5674,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2988,Leweling,MF,Stuttgart,14664672,11,3,2.8,0.2,6096,1771,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3190,Chabot,ABW,Stuttgart,20298670,354,86,88.5,4.2,21906,5674,1,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3193,Tiago Tomás,ST,Stuttgart,4527618,35,0,8.8,0.0,3780,0,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4296,Pejčinović,ST,Stuttgart,9176236,103,1,25.8,0.1,17305,1771,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4589,Diehl,ST,Stuttgart,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6085,Seimen,TW,Stuttgart,5426577,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7158,Undav,ST,Stuttgart,31719266,51,15,12.8,0.5,14462,3902,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7257,Stergiou,ABW,Stuttgart,661840,-8,0,-2.0,0.0,1286,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7349,Jeltsch,ABW,Stuttgart,15504977,296,25,74.0,1.6,23185,5674,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7781,Sauer,MF,Stuttgart,5520901,24,-8,6.0,-1.4,2502,621,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8247,Hendriks,ABW,Stuttgart,6699117,54,0,13.5,0.0,11892,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9615,Al Dakhil,ABW,Stuttgart,2346937,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10112,Jaquez,ABW,Stuttgart,948546,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11043,Assignon,ABW,Stuttgart,1778997,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11955,El Khannouss,MF,Stuttgart,18461580,239,50,59.8,2.7,12882,5052,3,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12367,Spalt,MF,Stuttgart,2402586,39,0,19.5,0.0,4173,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,524,Baumann,TW,Hoffenheim,15836994,352,0,88.0,0.0,17799,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1815,Kramarić,MF,Hoffenheim,9762494,-3,0,-0.8,0.0,2671,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1954,Bernardo,ABW,Hoffenheim,4204502,62,0,15.5,0.0,3268,0,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2373,Kabak,ABW,Hoffenheim,23959908,429,0,107.2,0.0,16772,0,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2803,Lemperle,ST,Hoffenheim,14004652,200,0,50.0,0.0,10467,0,3,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2852,Philipp,TW,Hoffenheim,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3124,Wimmer,MF,Hoffenheim,7280881,184,0,46.0,0.0,11334,0,3,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3158,Asllani,ST,Hoffenheim,15742610,48,0,12.0,0.0,786,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3204,Conté,ST,Hoffenheim,10110003,197,0,49.2,0.0,10772,0,2,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3471,Hložek,ST,Hoffenheim,9393684,336,0,84.0,0.0,13110,0,3,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7543,Moerstedt,ST,Hoffenheim,3260818,-82,0,-20.5,0.0,3269,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7673,Hajdari,ABW,Hoffenheim,12801554,160,0,40.0,0.0,17292,0,3,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7717,Prass,MF,Hoffenheim,1027191,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7745,Coufal,ABW,Hoffenheim,23199409,344,0,86.0,0.0,16207,0,2,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7750,Hranác,ABW,Hoffenheim,4000159,45,0,11.2,0.0,3564,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8289,Petersson,TW,Hoffenheim,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9598,Gendrey,ABW,Hoffenheim,1757042,56,0,14.0,0.0,1592,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11161,Machida,ABW,Hoffenheim,5456686,49,0,12.2,0.0,1579,0,3,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11162,Avdullahu,MF,Hoffenheim,16933463,293,0,73.2,0.0,17799,0,1,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11591,Lenz,MF,Hoffenheim,504726,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11631,Burger,MF,Hoffenheim,17817704,214,0,53.5,0.0,16781,0,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11959,Daghim,ST,Hoffenheim,12877292,502,0,125.5,0.0,17286,0,2,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15193,Rots,ABW,Hoffenheim,10029419,196,0,49.0,0.0,10920,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15262,De Cat,MF,Hoffenheim,7927852,-11,0,-2.8,0.0,2514,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,49,Ginter,ABW,Freiburg,27167820,756,88,189.0,3.2,22727,5658,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,89,Günter,ABW,Freiburg,2685130,,0,,0.0,,,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,118,Grifo,MF,Freiburg,6606207,178,38,44.5,5.8,4113,1301,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1257,Kübler,ABW,Freiburg,4957470,179,21,44.8,4.2,7463,1303,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1645,Eggestein,MF,Freiburg,19169870,632,51,158.0,2.7,22727,5658,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1767,Huth,TW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1858,Jung,ABW,Freiburg,885272,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1910,Müller,TW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2084,Lienhart,ABW,Freiburg,15298028,513,109,128.2,7.1,21235,5658,2,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2125,Beste,MF,Freiburg,14989721,432,93,108.0,6.2,16572,4355,1,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2176,Höler,ST,Freiburg,3469559,56,-14,14.0,-4.0,2726,557,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2722,Osterhage,MF,Freiburg,1054866,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3209,Engelhardt,MF,Freiburg,11510247,591,69,147.8,6.0,21946,5658,1,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3218,Backhaus,TW,Freiburg,15598235,380,26,95.0,1.7,22727,5658,1,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3304,Matanović,ST,Freiburg,23917735,805,46,201.2,1.9,20003,5104,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4335,Scherhant,MF,Freiburg,12593390,642,248,160.5,19.7,18614,4357,2,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6209,Treu,ABW,Freiburg,11299676,303,28,75.8,2.5,17815,5658,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7215,Makengo,ABW,Freiburg,11254063,603,117,150.8,10.4,22727,5658,2,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7216,Rosenfelder,ABW,Freiburg,4240952,37,0,9.2,0.0,1491,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8363,Yilmaz,ABW,Freiburg,2299452,24,0,6.0,0.0,780,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8364,Ogbus,ABW,Freiburg,3366860,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11006,Suzuki,MF,Freiburg,18039917,746,180,186.5,10.0,19604,5100,1,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11007,Irié,MF,Freiburg,4128432,90,0,22.5,0.0,3674,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14048,Goto,ST,Freiburg,2355735,81,3,20.2,1.3,3117,553,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15196,Yamamoto,MF,Freiburg,1556333,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4,Blaswich,TW,Leverkusen,520847,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,72,Flekken,TW,Leverkusen,12452388,235,0,58.8,0.0,17387,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,78,Hofmann,MF,Leverkusen,3971722,43,0,10.8,0.0,1881,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,663,Andrich,ABW,Leverkusen,3136879,38,0,9.5,0.0,1366,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2661,Diaby,ST,Leverkusen,21331642,173,0,43.2,0.0,7414,0,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2746,Schick,ST,Leverkusen,29731850,508,0,127.0,0.0,11964,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2783,Tapsoba,ABW,Leverkusen,25243845,289,0,72.2,0.0,17387,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2846,Tillman,MF,Leverkusen,9922507,230,0,57.5,0.0,9316,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3754,Vázquez,ABW,Leverkusen,4207395,39,0,9.8,0.0,4680,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3759,Gutiérrez,ABW,Leverkusen,23727126,492,0,123.0,0.0,16754,0,1,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4318,Oermann,ABW,Leverkusen,1291542,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4563,Badé,ABW,Leverkusen,6313893,70,0,17.5,0.0,4765,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6061,Maza,MF,Leverkusen,30043920,497,0,124.2,0.0,17387,0,2,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6745,Boniface,ST,Leverkusen,3394445,43,0,10.8,0.0,667,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7269,Tella,MF,Leverkusen,3248115,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7963,Quansah,ABW,Leverkusen,17644569,286,0,71.5,0.0,12009,0,1,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8374,Terrier,ST,Leverkusen,3724466,21,0,5.2,0.0,1212,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11513,Kofane,ST,Leverkusen,10595158,292,0,73.0,0.0,7915,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11680,Eichhorn,MF,Leverkusen,1473058,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11756,Culbreath,MF,Leverkusen,979199,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11956,Fernández,MF,Leverkusen,12568215,365,0,91.2,0.0,12307,0,1,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11957,Ben Seghir,MF,Leverkusen,5207438,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13888,Doué,ABW,Leverkusen,9866208,40,0,10.0,0.0,1989,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14241,Medina,ABW,Leverkusen,12079326,318,0,79.5,0.0,11966,0,1,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15199,Moreira,ST,Leverkusen,18813930,212,0,53.0,0.0,15495,0,2,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1225,Zingerle,TW,Leipzig,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1246,Orban,ABW,Leipzig,27564352,587,0,146.8,0.0,17524,0,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1333,Klostermann,ABW,Leipzig,2684677,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1689,Henrichs,ABW,Leipzig,6099534,145,0,36.2,0.0,5903,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1728,Nyland,TW,Leipzig,841095,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2275,Baumgartner,MF,Leipzig,8848466,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2522,Raum,ABW,Leipzig,31788817,436,0,109.0,0.0,17524,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2687,Nkunku,ST,Leipzig,26436088,398,0,99.5,0.0,10742,0,2,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2897,Reitz,MF,Leipzig,7143500,208,0,52.0,0.0,5072,0,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6104,Guiu,ST,Leipzig,5451638,-13,0,-3.2,0.0,1327,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6176,Seiwald,MF,Leipzig,14474666,164,0,41.0,0.0,11814,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6300,Ouédraogo,MF,Leipzig,8076631,61,0,15.2,0.0,2047,0,5,verletzt,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7224,Castello Jr.,ABW,Leipzig,17987190,279,0,69.8,0.0,10347,0,2,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7239,Finkgräfe,ABW,Leipzig,2150535,28,0,7.0,0.0,948,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8061,Bakayoko,ST,Leipzig,5086395,48,0,12.0,0.0,5355,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8227,Vandevoordt,TW,Leipzig,15331349,425,0,106.2,0.0,17524,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9507,Nusa,MF,Leipzig,27486104,630,0,157.5,0.0,15785,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9776,Maksimovic,MF,Leipzig,6423997,84,0,21.0,0.0,791,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10113,Gomis,ST,Leipzig,10364354,376,0,94.0,0.0,10463,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11008,Banzuzi,MF,Leipzig,10032324,294,0,73.5,0.0,16752,0,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11886,Rômulo,ST,Leipzig,9983767,143,0,35.8,0.0,1200,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14249,El Aynaoui,MF,Leipzig,10468249,198,0,49.5,0.0,10350,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14896,Koné,ABW,Leipzig,701664,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15376,Estève,ABW,Leipzig,9471583,208,0,52.0,0.0,7176,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,51,Khedira,MF,Union Berlin,5122108,55,-42,13.8,-8.2,23900,5765,1,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1223,Friedrich,ABW,Union Berlin,661702,,0,,0.0,,,5,angeschlagen,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1553,Haberer,MF,Union Berlin,4913085,42,4,10.5,0.8,7842,3731,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1955,Burke,ST,Union Berlin,923777,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2279,Rönnow,TW,Union Berlin,10412880,299,112,74.8,10.8,17739,5765,1,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2302,Jeong,MF,Union Berlin,3759015,124,-13,31.0,-3.5,13191,3733,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2400,Trimmel,ABW,Union Berlin,1356313,-18,-12,-4.5,-8.8,5600,4406,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2491,Skarke,MF,Union Berlin,7646574,264,-22,66.0,-2.9,8469,2911,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2717,Skov,MF,Union Berlin,1256096,-12,0,-3.0,0.0,742,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3102,Rothe,ABW,Union Berlin,8808331,269,16,67.2,1.8,23900,5765,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3187,Schäfer,MF,Union Berlin,3114426,66,-10,16.5,-3.2,13529,5040,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3364,Klaus,TW,Union Berlin,1431751,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3419,Raab,TW,Union Berlin,3300729,9,0,2.2,0.0,6161,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3453,Köhn,ABW,Union Berlin,4221746,13,-6,3.2,-1.4,1536,725,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4352,Nsoki,ABW,Union Berlin,568274,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4446,Kemlein,MF,Union Berlin,5124964,56,-17,14.0,-3.3,13684,2034,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4598,Juranović,ABW,Union Berlin,8125926,300,0,75.0,0.0,16940,0,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7684,Aebischer,MF,Union Berlin,3703149,26,-15,6.5,-4.1,18904,5765,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7723,Querfeld,ABW,Union Berlin,11808951,435,66,108.8,5.6,18251,5765,3,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8381,Burcu,MF,Union Berlin,4040499,50,-14,12.5,-3.5,11715,2032,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9683,Ilic,ST,Union Berlin,2514291,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10106,Ljubičić,ST,Union Berlin,3830633,4,0,1.0,0.0,14522,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12763,Latte Lath,ST,Union Berlin,6072493,73,-18,18.2,-3.0,15452,2876,3,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13629,Güther,MF,Union Berlin,690792,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14917,Van den Bosch,ABW,Union Berlin,6325798,90,-11,22.5,-1.7,13169,1359,3,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17306,Imeri,MF,Union Berlin,1871949,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,173,Tah,ABW,Bayern,29350275,449,182,112.2,6.2,12199,5765,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,237,Neuer,TW,Bayern,12526219,441,199,110.2,15.9,17273,5765,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,383,Ulreich,TW,Bayern,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1685,Kimmich,MF,Bayern,59504126,865,216,216.2,3.6,19013,5765,1,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1961,Gnabry,MF,Bayern,13530185,34,34,11.3,2.5,988,988,5,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1991,Upamecano,ABW,Bayern,33690760,712,97,178.0,2.9,20285,2876,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2038,Laimer,ABW,Bayern,27104873,236,0,59.0,0.0,11508,0,2,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2300,Stanišić,ABW,Bayern,16134668,319,158,79.8,9.8,12964,5765,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2366,Davies,ABW,Bayern,16781767,763,320,190.8,19.1,17085,5122,3,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2804,Musiala,MF,Bayern,25679333,446,333,111.5,13.0,9727,5765,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3072,Urbig,TW,Bayern,5073916,83,0,20.8,0.0,5901,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3089,Ito,ABW,Bayern,3121857,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3120,Bischof,MF,Bayern,16876805,397,201,99.2,11.9,7863,1836,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3543,Brown,ABW,Bayern,22399550,242,32,60.5,1.4,11315,643,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6668,Minjae,ABW,Bayern,13125127,327,88,81.8,6.7,13885,2911,3,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7226,Kane,ST,Bayern,64827039,697,294,174.2,4.5,18657,4777,2,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8329,Olise,MF,Bayern,64943656,1270,664,317.5,10.2,19663,5765,2,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10789,Karl,MF,Bayern,20977739,280,0,70.0,0.0,8373,0,3,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11675,Díaz,ST,Bayern,50084463,533,115,133.2,2.3,17165,3921,2,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12314,Ndiaye,MF,Bayern,673223,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14251,Saibari,ST,Bayern,27557526,581,182,145.2,6.6,11599,1844,3,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15502,Binder,MF,Bayern,569970,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,357,Grahl,TW,Frankfurt,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,461,Chandler,ABW,Frankfurt,1424349,12,0,3.0,0.0,1847,0,5,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,513,Götze,MF,Frankfurt,6576336,152,2,38.0,0.3,6551,246,3,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2144,Koch,ABW,Frankfurt,24947803,583,159,145.8,6.4,23279,5658,1,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2255,Burkardt,ST,Frankfurt,24690383,555,149,138.8,6.0,20101,5416,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2863,Knauff,MF,Frankfurt,2979472,37,37,12.3,12.4,1895,1895,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2864,Collins,ABW,Frankfurt,6096427,11,11,3.7,1.8,1899,1899,3,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2887,Dōan,MF,Frankfurt,17012102,271,95,67.8,5.6,14819,3762,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6081,Uzun,MF,Frankfurt,25627126,478,75,119.5,2.9,20236,5411,1,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7275,Santos,TW,Frankfurt,2708568,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7277,Chaïbi,MF,Frankfurt,7306046,107,0,26.8,0.0,7623,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7325,Baum,ABW,Frankfurt,13775285,345,9,86.2,0.7,19531,3758,2,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7417,Aséko,MF,Frankfurt,5452783,74,16,18.5,2.9,6514,2822,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8351,Højlund,MF,Frankfurt,3157914,6,5,1.5,1.6,3790,2845,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10004,Ebnoutalib,ST,Frankfurt,15947369,601,148,150.2,9.3,18068,5658,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11186,Maluze,ABW,Frankfurt,5577551,396,0,99.0,0.0,11959,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12284,Kosugi,ABW,Frankfurt,8647782,257,38,64.2,4.4,23279,5658,1,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12285,Arrhov,MF,Frankfurt,509739,-6,0,-1.5,0.0,944,0,5,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12294,Amaimouni,MF,Frankfurt,5572775,98,4,24.5,0.7,7309,242,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14920,Pimpong,ST,Frankfurt,913389,-12,0,-3.0,0.0,2139,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15589,Otávio,ABW,Frankfurt,4177832,-1,0,-0.2,0.0,611,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,16369,Onyedika,MF,Frankfurt,9819106,163,29,40.8,3.0,23279,5658,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17285,Brassier,ABW,Frankfurt,13210730,305,98,76.2,7.4,17118,5658,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,43,Weiser,ABW,Bremen,5711281,142,129,35.5,22.6,2514,1768,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,157,Stark,ABW,Bremen,3391077,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1996,Friedl,ABW,Bremen,10645603,442,175,110.5,16.4,23393,5926,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2294,Pieper,ABW,Bremen,12772666,477,112,119.2,8.8,22281,4814,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2842,Agu,ABW,Bremen,743013,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2939,Dinkçi,MF,Bremen,8596509,202,63,50.5,7.3,13972,4158,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3139,Itten,ST,Bremen,2799869,46,0,11.5,0.0,4131,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3166,Topp,ST,Bremen,518305,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3228,Njinmah,ST,Bremen,3153754,2,0,0.5,0.0,3750,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3281,Reis,MF,Bremen,8548524,279,93,69.8,10.9,20245,4812,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3450,Kolke,TW,Bremen,500000,,0,,0.0,,,5,fit,,,Jonnhji,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3481,Stage,MF,Bremen,7786903,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6174,Arthur,ABW,Bremen,8859192,217,114,54.2,12.9,14891,5744,1,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7167,Lynen,MF,Bremen,4319825,0,0,0.0,0.0,2812,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7721,Grüll,MF,Bremen,10947581,726,253,181.5,23.1,22843,5926,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8166,Chuki,MF,Bremen,10550616,479,199,119.8,18.9,22585,5926,1,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9513,Hein,TW,Bremen,12640340,459,75,114.8,5.9,23393,5926,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9600,Schlager,TW,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10131,Stalmach,MF,Bremen,4266472,188,0,47.0,0.0,5260,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10134,Schmetgens,ABW,Bremen,3594022,65,17,16.2,4.7,8500,182,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11262,Musah,ST,Bremen,2435688,26,25,6.5,10.3,3876,1114,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13449,Ndiaye,ABW,Bremen,2198493,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14923,Quetant,ST,Bremen,512952,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14926,Soylu,MF,Bremen,1909378,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15256,Wójcik,ABW,Bremen,893304,50,50,16.7,56.0,1112,1112,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15313,Erevbenagie,ST,Bremen,2616520,49,0,12.2,0.0,2494,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,54,Can,ABW,Dortmund,569237,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,75,Drewes,TW,Dortmund,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1704,Anton,ABW,Dortmund,33959728,709,123,177.2,3.6,23201,5674,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1856,Sabitzer,MF,Dortmund,7947678,168,17,42.0,2.1,5424,718,4,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1873,Kobel,TW,Dortmund,18589154,567,148,141.8,8.0,23201,5674,1,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1920,Guirassy,ST,Dortmund,31952331,644,75,161.0,2.3,21482,4464,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2148,Meyer,TW,Dortmund,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2383,Schlotterbeck,ABW,Dortmund,25910606,287,151,71.8,5.8,10440,5674,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2395,Ryerson,ABW,Dortmund,21541278,330,68,82.5,3.2,20236,4963,2,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2714,Beier,ST,Dortmund,20129589,473,151,118.2,7.5,17092,4955,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2736,Bensebaini,ABW,Dortmund,12200998,85,36,21.2,3.0,1715,710,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3069,Nmecha,MF,Dortmund,25703461,617,168,154.2,6.5,14910,5674,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7737,Veerman,MF,Dortmund,15603579,334,122,83.5,7.8,12070,3760,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9440,Mane,ABW,Dortmund,3308672,64,0,16.0,0.0,3152,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9698,Fábio Silva,ST,Dortmund,11641996,301,23,75.2,2.0,7244,1209,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10114,Chukwuemeka,MF,Dortmund,5961453,35,0,8.8,0.0,1743,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10115,Svensson,ABW,Dortmund,20738289,504,76,126.0,3.7,23201,5674,1,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11099,Bellingham,MF,Dortmund,20064716,501,97,125.2,4.8,19440,1913,3,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11100,Inácio,MF,Dortmund,5486610,-60,0,-15.0,0.0,155,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13472,Reggiani,ABW,Dortmund,5566382,57,0,14.2,0.0,1999,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14662,Lerma,MF,Dortmund,1100585,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14899,Prates,ABW,Dortmund,4161389,34,0,8.5,0.0,632,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15211,Gadou,ABW,Dortmund,22273796,387,80,96.8,3.6,21201,5674,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,16378,Karetsas,MF,Dortmund,23849471,308,59,77.0,2.5,10422,1908,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,16948,Konstantelias,MF,Dortmund,7189660,181,0,45.2,0.0,3348,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17309,Nwaneri,MF,Dortmund,18344549,272,63,68.0,3.4,11831,3766,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,493,Gregoritsch,ST,Augsburg,14819095,552,19,138.0,1.3,17787,3254,1,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1809,Wolf,MF,Augsburg,9938660,444,8,111.0,0.8,19071,4527,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1811,Gouweleeuw,ABW,Augsburg,4354525,42,-10,10.5,-2.3,1593,816,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2195,Dahmen,TW,Augsburg,16950287,577,102,144.2,6.0,23081,5926,1,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2764,Keitel,MF,Augsburg,804676,3,-18,0.8,-22.4,3973,2675,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3176,Ibrahimović,MF,Augsburg,10098492,229,0,57.2,0.0,7295,0,2,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3183,Kade,ST,Augsburg,9700371,273,0,68.2,0.0,5649,0,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4654,Kömür,MF,Augsburg,3735555,140,20,35.0,5.4,7359,3260,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6168,Fellhauer,MF,Augsburg,9448501,373,122,93.2,12.9,18973,5926,2,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7283,Brackelmann,ABW,Augsburg,10329066,503,142,125.8,13.7,21487,5110,2,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7336,Suso,MF,Augsburg,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7676,Rieder,MF,Augsburg,17983230,646,103,161.5,5.7,22439,5926,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7696,Labrović,TW,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8355,Banks,ABW,Augsburg,12046758,398,37,99.5,3.1,23081,5926,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9642,Matsima,ABW,Augsburg,16002899,507,86,126.8,5.4,23081,5926,2,fit,,,Paul Block,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9684,Claude-Maurice,MF,Augsburg,9866518,225,48,56.2,4.9,6883,2666,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9754,Bah,ABW,Augsburg,3912174,,0,,0.0,,,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9965,Sakar,MF,Augsburg,1172406,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10049,Behrens,ABW,Augsburg,13662870,401,0,100.2,0.0,23081,5926,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11556,Massengo,MF,Augsburg,13210296,330,2,82.5,0.2,19749,3251,1,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12341,Ribeiro,ST,Augsburg,4397144,127,0,31.8,0.0,5292,2672,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13479,Ogundu,ST,Augsburg,1347583,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13671,Wisbereit,TW,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13806,Seol,ABW,Augsburg,2085727,88,-16,22.0,-7.7,4008,1399,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,577,Batz,TW,M'gladbach,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,619,Stöger,MF,M'gladbach,4821769,-4,-9,-1.0,-1.9,10285,1339,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,849,Kleindienst,ST,M'gladbach,11744433,9,0,2.2,0.0,13737,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1883,Nicolas,TW,M'gladbach,15600173,435,81,108.8,5.2,23586,6255,1,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2074,Hack,MF,M'gladbach,5097878,-16,-11,-4.0,-2.2,10406,871,4,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2126,Kühn,MF,M'gladbach,3466416,21,0,5.2,0.0,1576,0,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2261,Neuhaus,MF,M'gladbach,4994307,118,118,39.3,23.6,4204,4204,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2560,Sander,MF,M'gladbach,7794021,164,57,41.0,7.3,23586,6255,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2850,Olschowsky,TW,M'gladbach,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2862,Castrop,MF,M'gladbach,906263,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2941,Scally,ABW,M'gladbach,7298754,149,40,37.2,5.5,16531,4922,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3063,Chiarodia,ABW,M'gladbach,1772411,,0,,0.0,,,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3129,Itakura,ABW,M'gladbach,7422979,133,48,33.2,6.5,22709,5378,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3516,Leopold,MF,M'gladbach,3082014,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4292,Herold,ABW,M'gladbach,2992735,21,0,5.2,0.0,8462,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4333,Ullrich,ABW,M'gladbach,4396254,223,143,55.8,32.5,15119,6255,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6199,Machino,ST,M'gladbach,2191960,85,92,21.2,42.0,3777,877,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6319,Honorat,MF,M'gladbach,11397149,258,13,64.5,1.1,15182,4915,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7774,Konoplia,ABW,M'gladbach,1673661,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9540,Lidberg,ST,M'gladbach,4267960,114,144,28.5,33.7,10911,6255,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11010,Diks,ABW,M'gladbach,9986834,99,7,24.8,0.7,23586,6255,1,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11748,Mohya,MF,M'gladbach,5432991,37,-6,9.2,-1.1,11804,2051,3,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13442,Bolin,MF,M'gladbach,9882345,357,46,89.2,4.7,19835,5384,3,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15181,Leszczynski,ABW,M'gladbach,3493451,90,89,22.5,25.5,7371,6255,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15202,Uno,MF,M'gladbach,1835227,,0,,0.0,,,5,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15613,Hashioka,ABW,M'gladbach,4043898,6,-11,1.5,-2.7,5936,1332,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,16564,Nguefack,MF,M'gladbach,2276911,40,0,10.0,0.0,8384,0,3,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1863,Heuer Fernandes,TW,Hamburg,10341751,281,118,70.2,11.4,22837,5697,1,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1865,Poulsen,ST,Hamburg,792743,124,134,31.0,169.0,6450,2884,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1889,Jatta,MF,Hamburg,3991038,32,17,8.0,4.3,6359,993,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1978,Torunarigha,ABW,Hamburg,6595337,156,111,39.0,16.8,19222,5697,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2725,Bornauw,ABW,Hamburg,5356651,75,0,18.8,0.0,11430,0,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3277,Muheim,ABW,Hamburg,3065086,,0,,0.0,,,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6201,Remberg,MF,Hamburg,7718956,169,77,42.2,10.0,22837,5697,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7350,Stange,ST,Hamburg,2655672,-37,0,-9.2,0.0,4306,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7394,Amoako,MF,Hamburg,790373,,0,,0.0,,,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8367,Sambi Lokonga,MF,Hamburg,6876815,106,64,26.5,9.3,16030,5468,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9605,Grønbæk,MF,Hamburg,7872478,230,177,57.5,22.5,21241,4101,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10120,Røssing-Lelesiit,ST,Hamburg,1007305,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11512,Capaldo,ABW,Hamburg,6785355,270,218,67.5,32.1,22837,5697,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11752,Omari,ABW,Hamburg,1512632,27,86,6.8,56.9,6959,5697,3,fit,,,nico,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11949,Nandja,ABW,Hamburg,1295509,-34,0,-8.5,0.0,7361,0,3,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11967,Vieira,MF,Hamburg,14647294,114,120,28.5,8.2,9876,5697,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12368,Tangvik,TW,Hamburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13433,Lemke,ABW,Hamburg,3700723,1,14,0.2,3.8,6998,997,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14256,El Ouahdi,ABW,Hamburg,6757931,62,72,15.5,10.7,15732,4704,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14425,Møller Wolfe,ABW,Hamburg,5812220,96,65,24.0,11.2,15495,4699,2,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15283,Adeline,MF,Hamburg,3328002,2,11,0.5,3.3,7176,229,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15472,Daka,ST,Hamburg,5803182,84,45,21.0,7.8,13128,1596,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15478,Nadir,MF,Hamburg,749075,-7,0,-1.8,0.0,3526,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17203,Moffi,ST,Hamburg,3759964,14,26,3.5,6.9,11301,2824,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,417,Zieler,TW,Köln,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,737,Waldschmidt,MF,Köln,1506770,-4,-4,-1.3,-2.7,716,716,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1580,Schwäbe,TW,Köln,15424976,448,75,112.0,4.9,22997,5697,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2069,Hübers,ABW,Köln,3035190,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2201,Maina,ST,Köln,8643184,353,77,88.2,8.9,15296,4984,2,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2247,Sosa,ABW,Köln,4054066,7,7,2.3,1.7,1775,1775,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2358,Krauß,MF,Köln,7401394,207,22,51.8,3.0,21354,4980,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2536,Köbbing,TW,Köln,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2552,Bülter,ST,Köln,4644222,103,-11,25.8,-2.4,8053,712,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2718,Skhiri,MF,Köln,8808314,322,114,80.5,12.9,16274,5697,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2765,Thielmann,MF,Köln,4360240,99,0,24.8,0.0,8564,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2855,Ache,ST,Köln,10032601,251,104,62.8,10.4,12132,1768,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7219,Jóhannesson,MF,Köln,8727488,217,18,54.2,2.1,14922,1588,3,fit,,,1. FC Infantino,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8001,Lochoshvili,ABW,Köln,9075017,315,119,78.8,13.1,22997,5697,1,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8274,El Mala,MF,Köln,23535377,227,68,56.8,2.9,10951,5697,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10024,Schmied,ABW,Köln,3735600,20,0,5.0,0.0,185,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11570,Sebulonsen,ABW,Köln,2531555,18,0,4.5,0.0,1803,0,3,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11875,van den Berg,ABW,Köln,2225971,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11958,Castro-Montes,MF,Köln,6136396,176,18,44.0,2.9,19421,4109,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14140,Mensah,ABW,Köln,10542350,229,50,57.2,4.7,21221,3921,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14300,Okon-Engstler,MF,Köln,3298966,69,0,17.2,0.0,7047,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,15373,Heskey,MF,Köln,2193137,-8,0,-2.0,0.0,1185,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,16945,Dallinga,ST,Köln,10138592,258,37,64.5,3.6,9678,3929,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,17282,Moore,MF,Köln,11414074,129,33,32.2,2.9,13179,5697,2,fit,,,Felix,vorlaeufig
+4,2026-09-19T22:59:53+02:00,168,Michel,ST,Paderborn,1004053,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1964,Götze,ABW,Paderborn,3276807,,0,,0.0,,,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2015,Obermair,MF,Paderborn,7700399,196,0,49.0,0.0,17225,0,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2301,Batista Meier,MF,Paderborn,2971843,-18,0,-4.5,0.0,2817,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2471,Schubert,TW,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2498,Baack,MF,Paderborn,740958,12,0,3.0,0.0,1187,0,5,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2749,Tigges,ST,Paderborn,2889633,57,0,14.2,0.0,6206,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2977,Noll,TW,Paderborn,13217578,382,0,95.5,0.0,17225,0,1,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3027,Pieringer,ST,Paderborn,4184367,74,0,18.5,0.0,16303,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3081,Vidović,MF,Paderborn,4773852,101,0,25.2,0.0,15641,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3336,Marino,ST,Paderborn,3696848,63,0,15.8,0.0,9003,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3491,Klaas,MF,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3492,Hoffmeier,ABW,Paderborn,2048115,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3559,Ulrich,MF,Paderborn,5008102,168,0,42.0,0.0,13793,0,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6197,Curda,ABW,Paderborn,7843163,238,0,59.5,0.0,15627,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6217,Philippe,ST,Paderborn,5692567,12,0,3.0,0.0,3819,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6292,Hansen,ABW,Paderborn,7211331,160,0,40.0,0.0,14988,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6751,Pruhs,TW,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7320,Scheller,ABW,Paderborn,7621709,253,0,63.2,0.0,17225,0,2,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7616,ter Horst,ABW,Paderborn,7522172,245,0,61.2,0.0,16485,0,2,fit,,,MicheleFerra,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8292,Castañeda,MF,Paderborn,8965429,260,0,65.0,0.0,17225,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8872,Sticker,ABW,Paderborn,1810278,15,0,3.8,0.0,1936,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8984,Awortwie-Grant,ABW,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9283,Zeitler,ST,Paderborn,1177975,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10048,Duric,MF,Paderborn,572479,-16,0,-4.0,0.0,1010,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11170,Müller,MF,Paderborn,1207965,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12262,Millgramm,ST,Paderborn,1320856,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14911,Lippmann,ABW,Paderborn,1349823,-21,0,-5.2,0.0,1779,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,14914,Gayret,MF,Paderborn,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,859,Gyamerah,ABW,Elversberg,8666974,172,0,43.0,0.0,15887,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1745,Condé,MF,Elversberg,1739427,-2,0,-0.5,0.0,1706,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2495,Boss,TW,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2928,Petkov,MF,Elversberg,13062527,357,0,89.2,0.0,17012,0,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3026,Günther,ABW,Elversberg,7476909,143,0,35.8,0.0,16390,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3232,Pfeiffer,ST,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3284,Rohr,ABW,Elversberg,11075144,311,0,77.8,0.0,16785,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3350,Keidel,ABW,Elversberg,10047663,280,0,70.0,0.0,16417,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6148,Pinckert,ABW,Elversberg,11574916,343,0,85.8,0.0,17640,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6149,Lehmann,TW,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6158,Schnellbacher,ST,Elversberg,2611857,12,0,3.0,0.0,1901,0,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6160,Kristof,TW,Elversberg,11986436,288,0,72.0,0.0,17640,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6183,Futkeu,ST,Elversberg,5857952,113,0,28.2,0.0,2469,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7278,Poreba,MF,Elversberg,10322382,228,0,57.0,0.0,17640,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7441,Campbell,MF,Elversberg,8376147,163,0,40.8,0.0,10979,0,3,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7463,Onyeka,MF,Elversberg,8541920,190,0,47.5,0.0,9221,0,4,angeschlagen,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7514,Le Joncour,ABW,Elversberg,1657000,20,0,5.0,0.0,855,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8252,Krattenmacher,MF,Elversberg,7369169,389,0,97.2,0.0,6685,0,3,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8296,Schmahl,MF,Elversberg,1034583,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8301,Sirch,ABW,Elversberg,1584397,35,0,8.8,0.0,1752,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9224,Zimmerschied,MF,Elversberg,923716,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9384,Darvich,MF,Elversberg,4617648,41,0,10.2,0.0,7165,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,9995,Mokwa,ST,Elversberg,10158078,303,0,75.8,0.0,14665,0,1,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,11253,Mickelson,ABW,Elversberg,2100543,58,0,14.5,0.0,1249,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12317,Adam,ST,Elversberg,1320453,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,32,Karius,TW,Schalke,17309328,412,0,103.0,0.0,17715,0,1,fit,,,schwungzent,vorlaeufig
+4,2026-09-19T22:59:53+02:00,670,Karaman,ST,Schalke,10286203,100,0,25.0,0.0,5494,0,1,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,755,Müller,TW,Schalke,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1012,Džeko,ST,Schalke,4583982,-14,0,-3.5,0.0,2479,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,1691,Porath,MF,Schalke,500000,,0,,0.0,,,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2449,Hwang,ST,Schalke,4519053,82,0,20.5,0.0,1422,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2762,Becker,ABW,Schalke,9419043,276,0,69.0,0.0,17715,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2876,Schallenberg,MF,Schalke,2570786,-54,0,-13.5,0.0,3776,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,2967,El-Faouzi,MF,Schalke,13619881,261,0,65.2,0.0,17715,0,1,fit,,,Maurice,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3029,Ljubičić,MF,Schalke,5292234,119,0,29.8,0.0,11465,0,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,3307,Bachmann,MF,Schalke,1333395,17,0,4.2,0.0,601,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4406,Dina Ebimbe,MF,Schalke,5949578,94,0,23.5,0.0,10996,0,2,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,4606,Kuruçay,ABW,Schalke,10705110,231,0,57.8,0.0,14615,0,1,fit,,,Aaron,vorlaeufig
+4,2026-09-19T22:59:53+02:00,6172,Adamu,ST,Schalke,6042797,145,0,36.2,0.0,8629,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7156,Wöber,ABW,Schalke,3634726,124,0,31.0,0.0,4534,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,7242,Gosens,ABW,Schalke,10081583,259,0,64.8,0.0,10808,0,1,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8222,Sylla,ST,Schalke,8063563,45,0,11.2,0.0,11390,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8235,Gantenbein,ABW,Schalke,513114,,0,,0.0,,,5,fit,,,Clainsman,vorlaeufig
+4,2026-09-19T22:59:53+02:00,8277,Becker,ABW,Schalke,3196691,20,0,5.0,0.0,5471,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,10916,Ayhan,ABW,Schalke,2849629,-13,0,-3.2,0.0,2203,0,4,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12158,Vozar,MF,Schalke,857278,5,0,1.2,0.0,1178,0,5,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,12297,Tanaka,MF,Schalke,9087998,192,0,48.0,0.0,12066,0,3,fit,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13431,Siebeking,TW,Schalke,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig
+4,2026-09-19T22:59:53+02:00,13448,Aouchiche,MF,Schalke,11951976,309,0,77.2,0.0,16049,0,1,fit,,,schwungzent,vorlaeufig
