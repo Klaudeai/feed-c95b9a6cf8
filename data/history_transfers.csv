@@ -524,3 +524,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12784115927,2026-09-19T08:24:38Z,kauf,Uduokhai,2065,Union Berlin,Kai,,8073000,7059178,1013822,14.4,history_players_naeherung
 12784722143,2026-09-19T09:47:31Z,kauf,Zagadou,2068,Stuttgart,Paul Block,,1356999,500000,856999,171.4,history_players_naeherung
 12785111408,2026-09-19T10:42:59Z,kauf,Zimmerschied,9224,Elversberg,nico,,1423260,979604,443656,45.3,history_players_naeherung
+12786008660,2026-09-19T12:54:43Z,kauf,Aebischer,7684,Union Berlin,Paul Block,,3703199,3880196,-176997,-4.6,history_players_naeherung
+12786103922,2026-09-19T13:08:27Z,kauf,Götze,1964,Paderborn,nico,,3389800,3621568,-231768,-6.4,history_players_naeherung
