@@ -530,3 +530,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12788470001,2026-09-19T18:28:47Z,verkauf,Van den Bosch,14917,Union Berlin,,1. FC Infantino,6325798,7574402,-1248604,-16.5,history_players_naeherung
 12788477342,2026-09-19T18:28:59Z,verkauf,Jóhannesson,7219,Köln,,1. FC Infantino,8727488,9991469,-1263981,-12.7,history_players_naeherung
 12789583490,2026-09-19T20:59:18Z,kauf,Gosens,7242,Schalke,Jonnhji,,10427999,10081583,346416,3.4,history_players_naeherung
+12792692000,2026-09-20T04:22:07Z,kauf,Posch,2006,Mainz,1. FC Infantino,,10585852,10224739,361113,3.5,history_players_naeherung
