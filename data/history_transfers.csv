@@ -538,3 +538,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12797481107,2026-09-20T15:03:11Z,verkauf,Götze,513,Frankfurt,,Jonnhji,6422589,6576336,-153747,-2.3,history_players_naeherung
 12797488757,2026-09-20T15:04:01Z,kauf,Machino,6199,M'gladbach,Jonnhji,,3057999,2191960,866039,39.5,history_players_naeherung
 12798112238,2026-09-20T16:30:02Z,verkauf,Moreira,15199,Leverkusen,,Jonnhji,18479609,18813930,-334321,-1.8,history_players_naeherung
+12798578552,2026-09-20T17:35:00Z,verkauf,Baku,2141,Leipzig,,Kai,21856393,21856393,0,0.0,history_players_naeherung
