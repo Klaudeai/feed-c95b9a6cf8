@@ -546,3 +546,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12805937804,2026-09-21T09:40:55Z,kauf,Keitel,2764,Augsburg,Jonnhji,,1557999,1209081,348918,28.9,history_players_naeherung
 12807719825,2026-09-21T13:55:18Z,kauf,Konoplia,7774,M'gladbach,Paul Block,,2508999,1814396,694603,38.3,history_players_naeherung
 12808244906,2026-09-21T15:14:40Z,kauf,Gendrey,9598,Hoffenheim,Paul Block,,2850999,2302749,548250,23.8,history_players_naeherung
+12824873648,2026-09-21T20:37:45Z,verkauf,Bredlow,2237,Stuttgart,,Maurice,11497457,12174481,-677024,-5.6,history_players_naeherung
