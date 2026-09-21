@@ -547,3 +547,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12807719825,2026-09-21T13:55:18Z,kauf,Konoplia,7774,M'gladbach,Paul Block,,2508999,1814396,694603,38.3,history_players_naeherung
 12808244906,2026-09-21T15:14:40Z,kauf,Gendrey,9598,Hoffenheim,Paul Block,,2850999,2302749,548250,23.8,history_players_naeherung
 12824873648,2026-09-21T20:37:45Z,verkauf,Bredlow,2237,Stuttgart,,Maurice,11497457,12174481,-677024,-5.6,history_players_naeherung
+12825278087,2026-09-21T21:35:08Z,verkauf,Ibrahimović,3176,Augsburg,,Paul Block,10232000,8868987,1363013,15.4,history_players_naeherung
+12825687944,2026-09-21T22:24:47Z,kauf,Dina Ebimbe,4406,Schalke,Jonnhji,,7358999,5137175,2221824,43.2,history_players_naeherung
+12826020845,2026-09-21T23:09:04Z,kauf,Leszczynski,15181,M'gladbach,Jonnhji,,6057999,3512191,2545808,72.5,history_players_naeherung
