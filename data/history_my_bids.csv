@@ -63,4 +63,5 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 14249,Neil El Aynaoui,Leipzig,MF,11100683,10751462,3.2,1,2026-09-21T05:06:35.164568+00:00,2026-09-20T22:41:33+00:00,2026-09-20T22:41:33+00:00,verloren,2026-09-21T05:06:47Z,11100683,Kai,Kauf durch anderen Manager im Transfer-Archiv gefunden
 14249,Neil El Aynaoui,Leipzig,MF,11100683,10751462,3.2,1,2026-09-21T05:06:36.045044+00:00,2026-09-21T00:17:49+00:00,2026-09-21T00:17:49+00:00,verloren,2026-09-21T05:06:47Z,11100683,Kai,Kauf durch anderen Manager im Transfer-Archiv gefunden
 14249,Neil El Aynaoui,Leipzig,MF,11100683,10751462,3.2,1,2026-09-21T05:06:35.501026+00:00,2026-09-21T00:24:31+00:00,2026-09-21T00:24:31+00:00,verloren,2026-09-21T05:06:47Z,11100683,Kai,Kauf durch anderen Manager im Transfer-Archiv gefunden
-9540,Isac Lidberg,M'gladbach,ST,5669000,5336888,6.2,1,2026-09-22T00:46:46.075022+00:00,2026-09-21T23:34:09+00:00,2026-09-21T23:34:09+00:00,offen,,,,
+9540,Isac Lidberg,M'gladbach,ST,5669000,5336888,6.2,1,2026-09-22T00:46:46.075022+00:00,2026-09-21T23:34:09+00:00,2026-09-21T23:34:09+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+9540,Isac Lidberg,M'gladbach,ST,5669000,5336888,6.2,1,2026-09-22T00:46:46.908906+00:00,2026-09-21T23:50:08+00:00,2026-09-21T23:50:08+00:00,offen,,,,
