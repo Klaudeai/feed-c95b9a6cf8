@@ -558,3 +558,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12831347843,2026-09-22T11:09:44Z,kauf,Kramarić,1815,Hoffenheim,Jonnhji,,10507999,10306837,201162,2.0,history_players_naeherung
 12831880190,2026-09-22T12:28:37Z,kauf,van den Berg,11875,Köln,Paul Block,,3510999,3007865,503134,16.7,history_players_naeherung
 12834047801,2026-09-22T17:54:05Z,kauf,Tanaka,12297,Schalke,Aaron,,8900001,8804477,95524,1.1,history_players_naeherung
+12834160844,2026-09-22T18:09:53Z,kauf,Nadir,15478,Hamburg,nico,,1912320,1535162,377158,24.6,history_players_naeherung
+12834828536,2026-09-22T19:39:26Z,kauf,Trimmel,2400,Union Berlin,Kai,,1820005,1685262,134743,8.0,history_players_naeherung
