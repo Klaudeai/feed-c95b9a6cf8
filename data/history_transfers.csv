@@ -553,3 +553,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12826325567,2026-09-21T23:57:24Z,kauf,Becker,2762,Schalke,Jonnhji,,10027999,9829422,198577,2.0,mv_history_exakt
 12826332188,2026-09-21T23:57:59Z,verkauf,Kolke,3450,Bremen,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
 12826638623,2026-09-22T00:47:16Z,kauf,Lidberg,9540,M'gladbach,Jonnhji,,6057999,5336888,721111,13.5,history_players_naeherung
+12828595334,2026-09-22T05:14:28Z,verkauf,Wimmer,3124,Hoffenheim,,Aaron,6561943,6561943,0,0.0,history_players_naeherung
+12828602789,2026-09-22T05:14:44Z,verkauf,Nandja,11949,Hamburg,,Aaron,900108,900108,0,0.0,history_players_naeherung
