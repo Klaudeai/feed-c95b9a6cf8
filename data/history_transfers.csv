@@ -550,3 +550,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12825278087,2026-09-21T21:35:08Z,verkauf,Ibrahimović,3176,Augsburg,,Paul Block,10232000,8868987,1363013,15.4,history_players_naeherung
 12825687944,2026-09-21T22:24:47Z,kauf,Dina Ebimbe,4406,Schalke,Jonnhji,,7358999,5137175,2221824,43.2,history_players_naeherung
 12826020845,2026-09-21T23:09:04Z,kauf,Leszczynski,15181,M'gladbach,Jonnhji,,6057999,3512191,2545808,72.5,history_players_naeherung
+12826325567,2026-09-21T23:57:24Z,kauf,Becker,2762,Schalke,Jonnhji,,10027999,9829422,198577,2.0,mv_history_exakt
+12826332188,2026-09-21T23:57:59Z,verkauf,Kolke,3450,Bremen,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
+12826638623,2026-09-22T00:47:16Z,kauf,Lidberg,9540,M'gladbach,Jonnhji,,6057999,5336888,721111,13.5,history_players_naeherung
