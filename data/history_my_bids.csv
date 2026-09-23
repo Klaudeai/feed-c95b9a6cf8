@@ -82,4 +82,6 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 7394,Kofi Amoako,Hamburg,MF,2310009,2095522,10.2,1,2026-09-23T12:44:49.992723+00:00,2026-09-23T11:25:56+00:00,2026-09-23T11:25:56+00:00,verloren,2026-09-23T12:45:03Z,2510999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:43.058455+00:00,2026-09-23T12:15:49+00:00,2026-09-23T12:15:49+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
 7394,Kofi Amoako,Hamburg,MF,2310009,2095522,10.2,1,2026-09-23T12:44:52.058455+00:00,2026-09-23T12:15:49+00:00,2026-09-23T12:15:49+00:00,verloren,2026-09-23T12:45:03Z,2510999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
-1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:42.560975+00:00,2026-09-23T12:54:28+00:00,2026-09-23T12:54:28+00:00,offen,,,,
+1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:42.560975+00:00,2026-09-23T12:54:28+00:00,2026-09-23T12:54:28+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:41.978206+00:00,2026-09-23T17:11:05+00:00,2026-09-23T17:11:05+00:00,offen,,,,
+2661,Moussa Diaby,Leverkusen,ST,21410000,21397251,0.1,1,2026-09-23T18:50:34.978206+00:00,2026-09-23T17:11:05+00:00,2026-09-23T17:11:05+00:00,offen,,,,
