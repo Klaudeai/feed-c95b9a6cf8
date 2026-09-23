@@ -70,8 +70,11 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 11875,Rav van den Berg,Köln,ABW,3268000,3007865,8.6,1,2026-09-22T12:28:30.750537+00:00,2026-09-22T11:28:01+00:00,2026-09-22T11:28:01+00:00,verloren,2026-09-22T12:28:37Z,3510999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 2552,Marius Bülter,Köln,ST,6030058,6014849,0.3,1,2026-09-22T22:05:09.408656+00:00,2026-09-22T20:29:24+00:00,2026-09-22T20:29:24+00:00,verloren,2026-09-22T22:05:23Z,6030058,Kai,Kauf durch anderen Manager im Transfer-Archiv gefunden
 2552,Marius Bülter,Köln,ST,6030058,6014849,0.3,1,2026-09-22T22:05:08.715601+00:00,2026-09-22T20:55:35+00:00,2026-09-22T20:55:35+00:00,verloren,2026-09-22T22:05:23Z,6030058,Kai,Kauf durch anderen Manager im Transfer-Archiv gefunden
-6085,Dennis Seimen,Stuttgart,TW,9280003,6547869,41.7,1,2026-09-23T07:29:59.082710+00:00,2026-09-23T06:43:52+00:00,2026-09-23T06:43:52+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
-1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:41.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,offen,,,,
-6085,Dennis Seimen,Stuttgart,TW,9286003,6547869,41.8,1,2026-09-23T07:29:58.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,offen,,,,
-7394,Kofi Amoako,Hamburg,MF,2310009,2095522,10.2,1,2026-09-23T12:44:50.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,offen,,,,
-17179,Rael-Tshimbela Nakuzola,Mainz,ABW,500021,500000,0.0,1,2026-09-23T10:56:59.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,offen,,,,
+6085,Dennis Seimen,Stuttgart,TW,9280003,6547869,41.7,1,2026-09-23T07:29:59.082710+00:00,2026-09-23T06:43:52+00:00,2026-09-23T06:43:52+00:00,verloren,2026-09-23T07:30:20Z,12564908,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
+1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:41.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+6085,Dennis Seimen,Stuttgart,TW,9286003,6547869,41.8,1,2026-09-23T07:29:58.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,verloren,2026-09-23T07:30:20Z,12564908,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
+7394,Kofi Amoako,Hamburg,MF,2310009,2095522,10.2,1,2026-09-23T12:44:50.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+17179,Rael-Tshimbela Nakuzola,Mainz,ABW,500021,500000,0.0,1,2026-09-23T10:56:59.925064+00:00,2026-09-23T07:22:53+00:00,2026-09-23T07:22:53+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+1704,Waldemar Anton,Dortmund,ABW,36760009,34063791,7.9,1,2026-09-24T12:49:40.791793+00:00,2026-09-23T09:52:03+00:00,2026-09-23T09:52:03+00:00,offen,,,,
+7394,Kofi Amoako,Hamburg,MF,2310009,2095522,10.2,1,2026-09-23T12:44:49.791793+00:00,2026-09-23T09:52:03+00:00,2026-09-23T09:52:03+00:00,offen,,,,
+17179,Rael-Tshimbela Nakuzola,Mainz,ABW,500021,500000,0.0,1,2026-09-23T10:56:58.791793+00:00,2026-09-23T09:52:03+00:00,2026-09-23T09:52:03+00:00,offen,,,,
