@@ -567,3 +567,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12837042632,2026-09-23T00:56:29Z,kauf,Fábio Silva,9698,Dortmund,Paul Block,,12810899,12316738,494161,4.0,history_players_naeherung
 12837711563,2026-09-23T02:51:32Z,verkauf,Potulski,11665,Mainz,,Jonnhji,9530793,9519715,11078,0.1,history_players_naeherung
 12839777561,2026-09-23T06:53:13Z,kauf,Nwaneri,17309,Dortmund,Aaron,,17300001,17178598,121403,0.7,history_players_naeherung
+12840071288,2026-09-23T07:30:20Z,kauf,Seimen,6085,Stuttgart,nico,,12564908,6242949,6321959,101.3,history_players_naeherung
+12840464930,2026-09-23T08:23:35Z,verkauf,Massengo,11556,Augsburg,,Aaron,11208100,12030641,-822541,-6.8,history_players_naeherung
+12840935798,2026-09-23T09:31:51Z,kauf,Rönnow,2279,Union Berlin,Maurice,nico,11200000,10660793,539207,5.1,history_players_naeherung
