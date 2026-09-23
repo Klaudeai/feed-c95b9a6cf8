@@ -570,3 +570,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12840071288,2026-09-23T07:30:20Z,kauf,Seimen,6085,Stuttgart,nico,,12564908,6242949,6321959,101.3,history_players_naeherung
 12840464930,2026-09-23T08:23:35Z,verkauf,Massengo,11556,Augsburg,,Aaron,11208100,12030641,-822541,-6.8,history_players_naeherung
 12840935798,2026-09-23T09:31:51Z,kauf,Rönnow,2279,Union Berlin,Maurice,nico,11200000,10660793,539207,5.1,history_players_naeherung
+12841514255,2026-09-23T10:57:17Z,kauf,Nakuzola,17179,Mainz,Kai,,500021,500000,21,0.0,history_players_naeherung
