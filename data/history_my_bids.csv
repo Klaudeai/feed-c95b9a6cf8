@@ -96,4 +96,6 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 1704,Waldemar Anton,Dortmund,ABW,34460036,34094905,1.1,1,2026-09-24T12:49:42.324103+00:00,2026-09-24T06:47:07+00:00,2026-09-24T06:47:07+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
 9615,Ameen Al Dakhil,Stuttgart,ABW,4525500,4099983,10.4,1,2026-09-24T08:05:26.324103+00:00,2026-09-24T06:47:07+00:00,2026-09-24T06:47:07+00:00,verloren,2026-09-24T08:05:39Z,4537999,Jonnhji,Kauf durch anderen Manager im Transfer-Archiv gefunden
 1704,Waldemar Anton,Dortmund,ABW,34478000,34094905,1.1,1,2026-09-24T12:49:42.275273+00:00,2026-09-24T08:40:01+00:00,2026-09-24T08:40:01+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
-1704,Waldemar Anton,Dortmund,ABW,34478000,34094905,1.1,1,2026-09-24T12:49:41.363479+00:00,2026-09-24T09:50:34+00:00,2026-09-24T09:50:34+00:00,offen,,,,
+1704,Waldemar Anton,Dortmund,ABW,34478000,34094905,1.1,1,2026-09-24T12:49:41.363479+00:00,2026-09-24T09:50:34+00:00,2026-09-24T09:50:34+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+1704,Waldemar Anton,Dortmund,ABW,34478000,34094905,1.1,1,2026-09-24T12:49:40.792094+00:00,2026-09-24T11:38:00+00:00,2026-09-24T11:38:00+00:00,offen,,,,
+2261,Florian Neuhaus,M'gladbach,MF,5870086,5769992,1.7,1,2026-09-24T13:34:36.792094+00:00,2026-09-24T11:38:00+00:00,2026-09-24T11:38:00+00:00,offen,,,,
