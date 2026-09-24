@@ -92,4 +92,6 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 1704,Waldemar Anton,Dortmund,ABW,36760009,34094905,7.8,1,2026-09-24T12:49:41.899432+00:00,2026-09-23T23:07:59+00:00,2026-09-23T23:07:59+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
 1704,Waldemar Anton,Dortmund,ABW,36760009,34094905,7.8,1,2026-09-24T12:49:43.576674+00:00,2026-09-23T23:51:30+00:00,2026-09-23T23:51:30+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
 1704,Waldemar Anton,Dortmund,ABW,36760009,34094905,7.8,1,2026-09-24T12:49:42.683519+00:00,2026-09-24T01:26:41+00:00,2026-09-24T01:26:41+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
-1704,Waldemar Anton,Dortmund,ABW,36760009,34094905,7.8,1,2026-09-24T12:49:42.272200+00:00,2026-09-24T03:18:51+00:00,2026-09-24T03:18:51+00:00,offen,,,,
+1704,Waldemar Anton,Dortmund,ABW,36760009,34094905,7.8,1,2026-09-24T12:49:42.272200+00:00,2026-09-24T03:18:51+00:00,2026-09-24T03:18:51+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+1704,Waldemar Anton,Dortmund,ABW,34460036,34094905,1.1,1,2026-09-24T12:49:42.324103+00:00,2026-09-24T06:47:07+00:00,2026-09-24T06:47:07+00:00,offen,,,,
+9615,Ameen Al Dakhil,Stuttgart,ABW,4525500,4099983,10.4,1,2026-09-24T08:05:26.324103+00:00,2026-09-24T06:47:07+00:00,2026-09-24T06:47:07+00:00,offen,,,,
