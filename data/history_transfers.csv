@@ -579,3 +579,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12846032261,2026-09-23T22:23:16Z,kauf,Tiago Tomás,3193,Stuttgart,Paul Block,,6208999,5020767,1188232,23.7,history_players_naeherung
 12850285742,2026-09-24T08:05:39Z,kauf,Al Dakhil,9615,Stuttgart,Jonnhji,,4537999,3260330,1277669,39.2,history_players_naeherung
 12850877921,2026-09-24T09:31:10Z,verkauf,Gosens,7242,Schalke,,Jonnhji,11127057,10766177,360880,3.4,history_players_naeherung
+12852176216,2026-09-24T12:50:04Z,kauf,Anton,1704,Dortmund,Kai,,34740039,34031304,708735,2.1,history_players_naeherung
+12852458891,2026-09-24T13:34:45Z,kauf,Neuhaus,2261,M'gladbach,nico,,5880606,5342339,538267,10.1,history_players_naeherung
+12852523271,2026-09-24T13:45:24Z,verkauf,Königsdörffer,3318,Mainz,,Paul Block,8015146,7417204,597942,8.1,history_players_naeherung
