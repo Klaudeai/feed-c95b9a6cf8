@@ -577,3 +577,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12845413451,2026-09-23T20:58:39Z,verkauf,Baum,7325,Frankfurt,,Maurice,11204313,12886155,-1681842,-13.1,history_players_naeherung
 12845473202,2026-09-23T21:08:22Z,verkauf,Kramarić,1815,Hoffenheim,,Jonnhji,10527187,10306837,220350,2.1,history_players_naeherung
 12846032261,2026-09-23T22:23:16Z,kauf,Tiago Tomás,3193,Stuttgart,Paul Block,,6208999,5020767,1188232,23.7,history_players_naeherung
+12850285742,2026-09-24T08:05:39Z,kauf,Al Dakhil,9615,Stuttgart,Jonnhji,,4537999,3260330,1277669,39.2,history_players_naeherung
