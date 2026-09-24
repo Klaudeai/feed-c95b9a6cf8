@@ -582,3 +582,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12852176216,2026-09-24T12:50:04Z,kauf,Anton,1704,Dortmund,Kai,,34740039,34031304,708735,2.1,history_players_naeherung
 12852458891,2026-09-24T13:34:45Z,kauf,Neuhaus,2261,M'gladbach,nico,,5880606,5342339,538267,10.1,history_players_naeherung
 12852523271,2026-09-24T13:45:24Z,verkauf,Königsdörffer,3318,Mainz,,Paul Block,8015146,7417204,597942,8.1,history_players_naeherung
+12855067415,2026-09-24T20:10:48Z,verkauf,Neuhaus,2261,M'gladbach,,nico,5990286,5342339,647947,12.1,history_players_naeherung
+12855211712,2026-09-24T20:27:35Z,kauf,Burkardt,2255,Frankfurt,Aaron,,25500001,25137225,362776,1.4,history_players_naeherung
