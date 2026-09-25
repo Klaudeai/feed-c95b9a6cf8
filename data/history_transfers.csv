@@ -588,3 +588,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12858956837,2026-09-25T05:22:58Z,verkauf,Karl,10789,Bayern,,Aaron,17999697,19517448,-1517751,-7.8,history_players_naeherung
 12859220435,2026-09-25T05:52:10Z,kauf,Ache,2855,Köln,1. FC Infantino,,8862870,9329207,-466337,-5.0,history_players_naeherung
 12859518524,2026-09-25T06:27:32Z,kauf,Simpson-Pusey,12321,Köln,Aaron,Kai,11400000,10651216,748784,7.0,history_players_naeherung
+12860615507,2026-09-25T08:55:55Z,kauf,Undav,7158,Stuttgart,nico,,29256400,30403483,-1147083,-3.8,history_players_naeherung
