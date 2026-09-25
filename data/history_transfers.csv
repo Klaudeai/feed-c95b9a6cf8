@@ -594,3 +594,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12864614096,2026-09-25T19:14:07Z,kauf,Schlotterbeck,2383,Dortmund,Paul Block,,38509999,26338065,12171934,46.2,history_players_naeherung
 12864697208,2026-09-25T19:27:19Z,kauf,Burger,11631,Hoffenheim,Jonnhji,,19778999,18167712,1611287,8.9,history_players_naeherung
 12864723197,2026-09-25T19:32:13Z,verkauf,Chabot,3190,Stuttgart,,Paul Block,18878083,19597792,-719709,-3.7,history_players_naeherung
+12866077406,2026-09-25T22:32:01Z,kauf,Asllani,3158,Hoffenheim,Jonnhji,,17577999,15853270,1724729,10.9,history_players_naeherung
