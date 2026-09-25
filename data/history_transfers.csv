@@ -590,3 +590,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12859518524,2026-09-25T06:27:32Z,kauf,Simpson-Pusey,12321,Köln,Aaron,Kai,11400000,10651216,748784,7.0,history_players_naeherung
 12860615507,2026-09-25T08:55:55Z,kauf,Undav,7158,Stuttgart,nico,,29256400,30403483,-1147083,-3.8,history_players_naeherung
 12862893068,2026-09-25T14:44:23Z,kauf,Rothe,3102,Union Berlin,Kai,,10280063,9329924,950139,10.2,history_players_naeherung
+12864108578,2026-09-25T18:05:53Z,verkauf,Götze,1964,Paderborn,,nico,2758253,3029333,-271080,-8.9,history_players_naeherung
