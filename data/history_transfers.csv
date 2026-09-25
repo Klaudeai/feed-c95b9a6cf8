@@ -585,3 +585,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12855067415,2026-09-24T20:10:48Z,verkauf,Neuhaus,2261,M'gladbach,,nico,5990286,5342339,647947,12.1,history_players_naeherung
 12855211712,2026-09-24T20:27:35Z,kauf,Burkardt,2255,Frankfurt,Aaron,,25500001,25137225,362776,1.4,history_players_naeherung
 12857013785,2026-09-25T00:41:38Z,verkauf,Becker,2762,Schalke,,Jonnhji,10253867,9829422,424445,4.3,history_players_naeherung
+12858956837,2026-09-25T05:22:58Z,verkauf,Karl,10789,Bayern,,Aaron,17999697,19517448,-1517751,-7.8,history_players_naeherung
+12859220435,2026-09-25T05:52:10Z,kauf,Ache,2855,Köln,1. FC Infantino,,8862870,9329207,-466337,-5.0,history_players_naeherung
+12859518524,2026-09-25T06:27:32Z,kauf,Simpson-Pusey,12321,Köln,Aaron,Kai,11400000,10651216,748784,7.0,history_players_naeherung
