@@ -592,3 +592,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12862893068,2026-09-25T14:44:23Z,kauf,Rothe,3102,Union Berlin,Kai,,10280063,9329924,950139,10.2,history_players_naeherung
 12864108578,2026-09-25T18:05:53Z,verkauf,Götze,1964,Paderborn,,nico,2758253,3029333,-271080,-8.9,history_players_naeherung
 12864614096,2026-09-25T19:14:07Z,kauf,Schlotterbeck,2383,Dortmund,Paul Block,,38509999,26338065,12171934,46.2,history_players_naeherung
+12864697208,2026-09-25T19:27:19Z,kauf,Burger,11631,Hoffenheim,Jonnhji,,19778999,18167712,1611287,8.9,history_players_naeherung
+12864723197,2026-09-25T19:32:13Z,verkauf,Chabot,3190,Stuttgart,,Paul Block,18878083,19597792,-719709,-3.7,history_players_naeherung
