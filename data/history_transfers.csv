@@ -595,3 +595,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12864697208,2026-09-25T19:27:19Z,kauf,Burger,11631,Hoffenheim,Jonnhji,,19778999,18167712,1611287,8.9,history_players_naeherung
 12864723197,2026-09-25T19:32:13Z,verkauf,Chabot,3190,Stuttgart,,Paul Block,18878083,19597792,-719709,-3.7,history_players_naeherung
 12866077406,2026-09-25T22:32:01Z,kauf,Asllani,3158,Hoffenheim,Jonnhji,,17577999,15853270,1724729,10.9,history_players_naeherung
+12867258830,2026-09-26T01:29:25Z,kauf,Wójcik,15256,Bremen,nico,,3002009,1286248,1715761,133.4,history_players_naeherung
+12868342976,2026-09-26T04:38:09Z,kauf,Nebel,2895,Mainz,Felix,,8666999,5267174,3399825,64.5,history_players_naeherung
