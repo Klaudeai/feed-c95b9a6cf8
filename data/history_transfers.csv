@@ -606,3 +606,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12879676253,2026-09-27T08:38:44Z,kauf,Schick,2746,Leverkusen,Kai,,30783332,29176861,1606471,5.5,history_players_naeherung
 12880955705,2026-09-27T11:45:55Z,verkauf,Rothe,3102,Union Berlin,,Kai,10240875,10240875,0,0.0,history_players_naeherung
 12880962176,2026-09-27T11:47:06Z,verkauf,Bülter,2552,Köln,,Kai,6943955,6943955,0,0.0,history_players_naeherung
+12882801224,2026-09-27T16:45:22Z,kauf,Tietz,2030,Mainz,Kai,,18960003,18278609,681394,3.7,history_players_naeherung
+12883277546,2026-09-27T17:49:49Z,kauf,Vidović,3081,Paderborn,Kai,,5663420,4910620,752800,15.3,history_players_naeherung
