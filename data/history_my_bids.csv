@@ -28,6 +28,6 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3102,Tom Rothe,Union Berlin,ABW,10280063,10058938,2.2,1,2026-09-25T14:43:00+00:00,2026-09-25T07:52:06+00:00,2026-09-25T07:52:06+00:00,gewonnen,2026-09-25T14:44:23Z,10280063,ich,eigener Kauf im Transfer-Archiv gefunden (squad.json hatte acquired/purchase_price noch nicht gesetzt)
 54,Emre Can,Dortmund,ABW,1420003,1298758,9.3,1,2026-09-26T07:48:00+00:00,2026-09-25T21:50:38+00:00,2026-09-25T21:50:38+00:00,gewonnen,2026-09-26T07:48:24Z,1420003,ich,eigener Kauf in squad.json gefunden
 3336,Stefano Marino,Paderborn,ST,4927003,4556679,8.1,1,2026-09-26T14:33:00+00:00,2026-09-26T11:40:53+00:00,2026-09-26T11:40:53+00:00,verloren,2026-09-26T14:33:31Z,4950999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
-2718,Ellyes Skhiri,Köln,MF,11540360,10494590,10.0,1,2026-09-27T03:25:00+00:00,2026-09-26T23:38:37+00:00,2026-09-26T23:38:37+00:00,offen,,,,
-2746,Patrik Schick,Leverkusen,ST,30783332,29216852,5.4,1,2026-09-27T08:38:00+00:00,2026-09-26T23:38:37+00:00,2026-09-26T23:38:37+00:00,offen,,,,
-12314,Bara Sapoko Ndiaye,Bayern,MF,3470036,2907173,19.4,1,2026-09-27T01:01:00+00:00,2026-09-26T23:38:37+00:00,2026-09-26T23:38:37+00:00,offen,,,,
+2718,Ellyes Skhiri,Köln,MF,11540360,10494590,10.0,1,2026-09-27T03:25:00+00:00,2026-09-26T23:38:37+00:00,2026-09-27T01:50:48+00:00,offen,,,,
+2746,Patrik Schick,Leverkusen,ST,30783332,29216852,5.4,1,2026-09-27T08:38:00+00:00,2026-09-26T23:38:37+00:00,2026-09-27T01:50:48+00:00,offen,,,,
+12314,Bara Sapoko Ndiaye,Bayern,MF,3470036,2907173,19.4,1,2026-09-27T01:01:00+00:00,2026-09-26T23:38:37+00:00,2026-09-26T23:38:37+00:00,gewonnen,2026-09-27T01:02:34Z,3470036,ich,eigener Kauf im Transfer-Archiv gefunden (squad.json hatte acquired/purchase_price noch nicht gesetzt)
