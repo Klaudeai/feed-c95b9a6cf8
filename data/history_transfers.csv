@@ -609,3 +609,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12882801224,2026-09-27T16:45:22Z,kauf,Tietz,2030,Mainz,Kai,,18960003,18278609,681394,3.7,history_players_naeherung
 12883277546,2026-09-27T17:49:49Z,kauf,Vidović,3081,Paderborn,Kai,,5663420,4910620,752800,15.3,history_players_naeherung
 12883644107,2026-09-27T18:45:39Z,kauf,Baumgartner,2275,Leipzig,schwungzent,,11350000,10739484,610516,5.7,history_players_naeherung
+12884255204,2026-09-27T20:11:24Z,kauf,Poulsen,1865,Hamburg,schwungzent,,5199999,3759454,1440545,38.3,history_players_naeherung
