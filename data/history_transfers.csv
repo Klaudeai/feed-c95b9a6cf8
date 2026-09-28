@@ -612,3 +612,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12884255204,2026-09-27T20:11:24Z,kauf,Poulsen,1865,Hamburg,schwungzent,,5199999,3759454,1440545,38.3,history_players_naeherung
 12886026056,2026-09-28T00:12:54Z,kauf,Prass,7717,Hoffenheim,schwungzent,,4500000,3754635,745365,19.9,history_players_naeherung
 12886197941,2026-09-28T00:44:10Z,verkauf,Diaby,2661,Leverkusen,,Jonnhji,22230606,22230606,0,0.0,history_players_naeherung
+12889660460,2026-09-28T08:46:22Z,verkauf,Aséko,7417,Frankfurt,,Paul Block,8128799,8128799,0,0.0,history_players_naeherung
+12889803086,2026-09-28T09:07:36Z,kauf,Karetsas,16378,Dortmund,nico,,32765899,24672387,8093512,32.8,history_players_naeherung
+12890334296,2026-09-28T10:28:46Z,kauf,Andrich,663,Leverkusen,Jonnhji,,3453999,3430301,23698,0.7,history_players_naeherung
