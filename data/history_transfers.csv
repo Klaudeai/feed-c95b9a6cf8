@@ -621,3 +621,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12895583147,2026-09-28T23:54:29Z,kauf,Rohr,3284,Elversberg,Felix,,12222299,11561582,660717,5.7,history_players_naeherung
 12897984998,2026-09-29T05:51:18Z,kauf,Kade,3183,Augsburg,Kai,,11570068,10849619,720449,6.6,history_players_naeherung
 12898538153,2026-09-29T07:02:24Z,verkauf,Nakuzola,17179,Mainz,,Kai,500000,500000,0,0.0,history_players_naeherung
+12899388428,2026-09-29T09:06:10Z,kauf,Pinckert,6148,Elversberg,Kai,,12730002,12080941,649061,5.4,history_players_naeherung
