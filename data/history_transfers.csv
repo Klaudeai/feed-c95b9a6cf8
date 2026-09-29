@@ -622,3 +622,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12897984998,2026-09-29T05:51:18Z,kauf,Kade,3183,Augsburg,Kai,,11570068,10849619,720449,6.6,history_players_naeherung
 12898538153,2026-09-29T07:02:24Z,verkauf,Nakuzola,17179,Mainz,,Kai,500000,500000,0,0.0,history_players_naeherung
 12899388428,2026-09-29T09:06:10Z,kauf,Pinckert,6148,Elversberg,Kai,,12730002,12080941,649061,5.4,history_players_naeherung
+12900746465,2026-09-29T12:44:21Z,kauf,Culbreath,11756,Leverkusen,Paul Block,,4256999,3940300,316699,8.0,history_players_naeherung
+12900946127,2026-09-29T13:17:56Z,verkauf,Silas,2822,Mainz,,nico,3967018,3967018,0,0.0,history_players_naeherung
