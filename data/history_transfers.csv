@@ -627,3 +627,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12902106470,2026-09-29T16:36:42Z,kauf,Mittelstädt,1664,Stuttgart,nico,,33889656,27837630,6052026,21.7,history_players_naeherung
 12907533185,2026-09-30T06:26:09Z,kauf,Raum,2522,Leipzig,Felix,,28889999,28177512,712487,2.5,history_players_naeherung
 12908897903,2026-09-30T09:49:00Z,verkauf,Nkunku,2687,Leipzig,,Felix,24348972,24767624,-418652,-1.7,history_players_naeherung
+12909768476,2026-09-30T12:10:42Z,verkauf,Mokwa,9995,Elversberg,,schwungzent,7827614,8037720,-210106,-2.6,history_players_naeherung
