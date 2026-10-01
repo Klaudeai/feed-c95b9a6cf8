@@ -632,3 +632,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12918240253,2026-10-01T10:08:49Z,verkauf,Dina Ebimbe,4406,Schalke,,Jonnhji,9475827,8971202,504625,5.6,history_players_naeherung
 12919845565,2026-10-01T14:46:12Z,kauf,Stiller,2694,Stuttgart,Jonnhji,,29745999,26520853,3225146,12.2,history_players_naeherung
 12921922126,2026-10-01T20:22:43Z,verkauf,Chandler,461,Frankfurt,,nico,5355212,4825133,530079,11.0,history_players_naeherung
+12922354462,2026-10-01T21:25:16Z,kauf,Pieringer,3027,Paderborn,Aaron,,4046342,4222257,-175915,-4.2,history_players_naeherung
+12922773136,2026-10-01T22:23:01Z,verkauf,Nusa,9507,Leipzig,,Jonnhji,27928982,27829935,99047,0.4,history_players_naeherung
+12922924615,2026-10-01T22:44:19Z,verkauf,El Aynaoui,14249,Leipzig,,Kai,13101543,12560712,540831,4.3,history_players_naeherung
