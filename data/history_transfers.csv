@@ -631,3 +631,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12914681509,2026-10-01T01:22:42Z,kauf,Nusa,9507,Leipzig,Jonnhji,,27917999,27829935,88064,0.3,history_players_naeherung
 12918240253,2026-10-01T10:08:49Z,verkauf,Dina Ebimbe,4406,Schalke,,Jonnhji,9475827,8971202,504625,5.6,history_players_naeherung
 12919845565,2026-10-01T14:46:12Z,kauf,Stiller,2694,Stuttgart,Jonnhji,,29745999,26520853,3225146,12.2,history_players_naeherung
+12921922126,2026-10-01T20:22:43Z,verkauf,Chandler,461,Frankfurt,,nico,5355212,4825133,530079,11.0,history_players_naeherung
