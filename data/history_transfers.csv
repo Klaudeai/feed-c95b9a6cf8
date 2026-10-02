@@ -635,3 +635,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12922354462,2026-10-01T21:25:16Z,kauf,Pieringer,3027,Paderborn,Aaron,,4046342,4222257,-175915,-4.2,history_players_naeherung
 12922773136,2026-10-01T22:23:01Z,verkauf,Nusa,9507,Leipzig,,Jonnhji,27928982,27829935,99047,0.4,history_players_naeherung
 12922924615,2026-10-01T22:44:19Z,verkauf,El Aynaoui,14249,Leipzig,,Kai,13101543,12560712,540831,4.3,history_players_naeherung
+12926436643,2026-10-02T07:41:03Z,verkauf,Tiago Tomás,3193,Stuttgart,,Paul Block,7794384,7271275,523109,7.2,history_players_naeherung
+12926437939,2026-10-02T07:41:42Z,verkauf,van den Berg,11875,Köln,,Paul Block,6294534,5592698,701836,12.5,history_players_naeherung
+12926569477,2026-10-02T08:01:00Z,kauf,Curda,6197,Paderborn,Kai,,7820069,6673491,1146578,17.2,history_players_naeherung
+12926653921,2026-10-02T08:13:39Z,kauf,Pejčinović,4296,Stuttgart,Felix,,7333333,6560220,773113,11.8,history_players_naeherung
