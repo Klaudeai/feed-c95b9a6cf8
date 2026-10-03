@@ -646,3 +646,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12934342837,2026-10-03T05:41:06Z,kauf,Agu,2842,Bremen,Paul Block,,5056999,3190041,1866958,58.5,history_players_naeherung
 12938005996,2026-10-03T15:19:36Z,verkauf,Neuer,237,Bayern,,Jonnhji,12737109,12523177,213932,1.7,history_players_naeherung
 12938481403,2026-10-03T16:42:55Z,kauf,Reitz,2897,Leipzig,Jonnhji,,10857999,10225023,632976,6.2,history_players_naeherung
+12939416149,2026-10-03T19:11:46Z,verkauf,Ache,2855,Köln,,1. FC Infantino,6686251,7574446,-888195,-11.7,history_players_naeherung
+12940338259,2026-10-03T21:30:27Z,verkauf,Machino,6199,M'gladbach,,Jonnhji,6651790,5871259,780531,13.3,history_players_naeherung
+12940338364,2026-10-03T21:30:33Z,verkauf,Ruoppi,13438,Mainz,,Jonnhji,5910790,5426166,484624,8.9,history_players_naeherung
+12940344928,2026-10-03T21:31:39Z,verkauf,Reitz,2897,Leipzig,,Jonnhji,10928878,10225023,703855,6.9,history_players_naeherung
