@@ -643,3 +643,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12927276256,2026-10-02T09:52:46Z,verkauf,Al Dakhil,9615,Stuttgart,,Jonnhji,6253473,5706728,546745,9.6,history_players_naeherung
 12927801052,2026-10-02T11:20:33Z,kauf,Jeltsch,7349,Stuttgart,Jonnhji,,13545999,14048402,-502403,-3.6,history_players_naeherung
 12930332440,2026-10-02T18:52:18Z,kauf,Neuer,237,Bayern,Jonnhji,,12677299,12523177,154122,1.2,history_players_naeherung
+12934342837,2026-10-03T05:41:06Z,kauf,Agu,2842,Bremen,Paul Block,,5056999,3190041,1866958,58.5,history_players_naeherung
