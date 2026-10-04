@@ -660,3 +660,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12947639275,2026-10-04T17:06:27Z,kauf,Ebnoutalib,10004,Frankfurt,Jonnhji,,18257999,17962263,295736,1.6,history_players_naeherung
 12948214777,2026-10-04T18:41:35Z,kauf,Estève,15376,Leipzig,Kai,,6336006,6382870,-46864,-0.7,history_players_naeherung
 12948795097,2026-10-04T20:06:26Z,verkauf,Omari,11752,Hamburg,,nico,6286183,6073028,213155,3.5,history_players_naeherung
+12949749937,2026-10-04T22:02:53Z,verkauf,Sebulonsen,11570,Köln,,Felix,7497128,1442645,6054483,419.7,history_players_naeherung
+12949896757,2026-10-04T22:19:21Z,verkauf,Amoako,7394,Hamburg,,Paul Block,5853572,543572,5310000,976.9,history_players_naeherung
+12949905058,2026-10-04T22:20:44Z,verkauf,Capaldo,11512,Hamburg,,Paul Block,9538088,7670935,1867153,24.3,history_players_naeherung
+12950185705,2026-10-04T23:01:18Z,kauf,Dōan,2887,Frankfurt,Paul Block,,14529999,16540710,-2010711,-12.2,history_players_naeherung
