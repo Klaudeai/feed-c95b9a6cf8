@@ -658,3 +658,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12946200850,2026-10-04T12:55:02Z,verkauf,Banks,8355,Augsburg,,MicheleFerra,7999933,8208756,-208823,-2.5,history_players_naeherung
 12947599807,2026-10-04T17:00:11Z,verkauf,Füllkrug,608,Bremen,,Kai,16339658,16339658,0,0.0,history_players_naeherung
 12947639275,2026-10-04T17:06:27Z,kauf,Ebnoutalib,10004,Frankfurt,Jonnhji,,18257999,17962263,295736,1.6,history_players_naeherung
+12948214777,2026-10-04T18:41:35Z,kauf,Estève,15376,Leipzig,Kai,,6336006,6382870,-46864,-0.7,history_players_naeherung
+12948795097,2026-10-04T20:06:26Z,verkauf,Omari,11752,Hamburg,,nico,6286183,6073028,213155,3.5,history_players_naeherung
