@@ -652,3 +652,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12940344928,2026-10-03T21:31:39Z,verkauf,Reitz,2897,Leipzig,,Jonnhji,10928878,10225023,703855,6.9,history_players_naeherung
 12940635292,2026-10-03T22:10:12Z,verkauf,Gendrey,9598,Hoffenheim,,Paul Block,6626883,1004426,5622457,559.8,history_players_naeherung
 12941453512,2026-10-04T00:02:46Z,kauf,Castañeda,8292,Paderborn,Paul Block,,10328999,10065069,263930,2.6,history_players_naeherung
+12942637336,2026-10-04T03:42:32Z,kauf,Knauff,2863,Frankfurt,Jonnhji,,7107999,6884875,223124,3.2,history_players_naeherung
