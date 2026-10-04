@@ -655,3 +655,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12942637336,2026-10-04T03:42:32Z,kauf,Knauff,2863,Frankfurt,Jonnhji,,7107999,6884875,223124,3.2,history_players_naeherung
 12944909062,2026-10-04T09:25:20Z,kauf,Caci,3470,Mainz,schwungzent,,7860000,7525578,334422,4.4,history_players_naeherung
 12945427966,2026-10-04T10:46:17Z,kauf,Ulrich,3559,Paderborn,Jonnhji,,8717999,8412092,305907,3.6,history_players_naeherung
+12946200850,2026-10-04T12:55:02Z,verkauf,Banks,8355,Augsburg,,MicheleFerra,7999933,8208756,-208823,-2.5,history_players_naeherung
+12947599807,2026-10-04T17:00:11Z,verkauf,Füllkrug,608,Bremen,,Kai,16339658,16339658,0,0.0,history_players_naeherung
