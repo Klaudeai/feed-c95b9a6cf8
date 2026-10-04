@@ -653,3 +653,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12940635292,2026-10-03T22:10:12Z,verkauf,Gendrey,9598,Hoffenheim,,Paul Block,6626883,1004426,5622457,559.8,history_players_naeherung
 12941453512,2026-10-04T00:02:46Z,kauf,Castañeda,8292,Paderborn,Paul Block,,10328999,10065069,263930,2.6,history_players_naeherung
 12942637336,2026-10-04T03:42:32Z,kauf,Knauff,2863,Frankfurt,Jonnhji,,7107999,6884875,223124,3.2,history_players_naeherung
+12944909062,2026-10-04T09:25:20Z,kauf,Caci,3470,Mainz,schwungzent,,7860000,7525578,334422,4.4,history_players_naeherung
+12945427966,2026-10-04T10:46:17Z,kauf,Ulrich,3559,Paderborn,Jonnhji,,8717999,8412092,305907,3.6,history_players_naeherung
