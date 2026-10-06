@@ -669,3 +669,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12954385810,2026-10-05T09:50:55Z,kauf,Rondic,10121,Köln,Paul Block,,1159999,900624,259375,28.8,history_players_naeherung
 12956825347,2026-10-05T16:31:34Z,verkauf,Jeltsch,7349,Stuttgart,,Jonnhji,13770202,13770202,0,0.0,history_players_naeherung
 12957525244,2026-10-05T18:35:10Z,kauf,Bensebaini,2736,Dortmund,Kai,,8130006,7649710,480296,6.3,history_players_naeherung
+12958542073,2026-10-05T20:52:28Z,verkauf,Can,54,Dortmund,,Kai,3279926,3176122,103804,3.3,history_players_naeherung
+12959116864,2026-10-05T22:12:34Z,verkauf,Agu,2842,Bremen,,Paul Block,5372210,5268713,103497,2.0,history_players_naeherung
