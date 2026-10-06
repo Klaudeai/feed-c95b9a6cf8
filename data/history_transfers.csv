@@ -673,3 +673,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12959116864,2026-10-05T22:12:34Z,verkauf,Agu,2842,Bremen,,Paul Block,5372210,5268713,103497,2.0,history_players_naeherung
 12960403444,2026-10-06T01:54:12Z,kauf,Sirch,8301,Elversberg,Paul Block,,1949999,1711157,238842,14.0,history_players_naeherung
 12961898782,2026-10-06T05:28:55Z,verkauf,Hajdari,7673,Hoffenheim,,schwungzent,7231415,7231415,0,0.0,history_players_naeherung
+12964902229,2026-10-06T13:07:44Z,kauf,Tangvik,12368,Hamburg,Jonnhji,,500000,500000,0,0.0,history_players_naeherung
+12965269603,2026-10-06T14:13:04Z,kauf,Scally,2941,M'gladbach,Kai,,3630006,3608416,21590,0.6,history_players_naeherung
