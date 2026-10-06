@@ -41,3 +41,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 10121,Imad Rondic,Köln,ST,938000,900624,4.2,1,2026-10-05T09:50:00+00:00,2026-10-05T09:08:00+00:00,2026-10-05T09:08:00+00:00,verloren,2026-10-05T09:50:55Z,1159999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 2736,Ramy Bensebaini,Dortmund,ABW,8130006,7649710,6.3,1,2026-10-05T18:35:00+00:00,2026-10-05T12:11:29+00:00,2026-10-05T18:30:23+00:00,gewonnen,2026-10-05T18:35:10Z,8130006,ich,eigener Kauf im Transfer-Archiv gefunden (squad.json hatte acquired/purchase_price noch nicht gesetzt)
 8301,Luca Sirch,Elversberg,ABW,1930086,1711157,12.8,1,2026-10-06T01:54:00+00:00,2026-10-06T00:21:37+00:00,2026-10-06T00:21:37+00:00,verloren,2026-10-06T01:54:12Z,1949999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
+2941,Joseph Scally,M'gladbach,ABW,3630006,3608416,0.6,1,2026-10-06T14:12:00+00:00,2026-10-06T11:55:00+00:00,2026-10-06T11:55:00+00:00,offen,,,,
