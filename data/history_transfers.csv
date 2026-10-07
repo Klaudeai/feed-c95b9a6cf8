@@ -679,3 +679,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12967057246,2026-10-06T19:14:10Z,kauf,Grüll,7721,Bremen,Aaron,,13500001,13165334,334667,2.5,history_players_naeherung
 12967677232,2026-10-06T20:35:23Z,verkauf,Kade,3183,Augsburg,,Kai,11946087,11881476,64611,0.5,history_players_naeherung
 12968044549,2026-10-06T21:27:25Z,verkauf,Nebel,2895,Mainz,,Felix,8408641,8491315,-82674,-1.0,history_players_naeherung
+12969972760,2026-10-07T02:57:44Z,kauf,Keidel,3350,Elversberg,Kai,,8528008,8511229,16779,0.2,history_players_naeherung
+12970015024,2026-10-07T03:05:19Z,kauf,Demirović,2854,Stuttgart,Jonnhji,,11037999,10728708,309291,2.9,history_players_naeherung
