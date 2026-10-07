@@ -682,3 +682,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12969972760,2026-10-07T02:57:44Z,kauf,Keidel,3350,Elversberg,Kai,,8528008,8511229,16779,0.2,history_players_naeherung
 12970015024,2026-10-07T03:05:19Z,kauf,Demirović,2854,Stuttgart,Jonnhji,,11037999,10728708,309291,2.9,history_players_naeherung
 12970656958,2026-10-07T04:37:28Z,kauf,Ginter,49,Freiburg,Felix,,29222299,27490469,1731830,6.3,history_players_naeherung
+12976542448,2026-10-07T20:06:51Z,verkauf,Castrop,2862,M'gladbach,,nico,6300481,6207090,93391,1.5,history_players_naeherung
+12976958575,2026-10-07T20:47:14Z,verkauf,Tigges,2749,Paderborn,,Felix,6765136,6565517,199619,3.0,history_players_naeherung
