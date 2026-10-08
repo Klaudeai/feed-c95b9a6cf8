@@ -704,3 +704,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12985733797,2026-10-08T20:06:02Z,verkauf,Arrhov,12285,Frankfurt,,nico,6041472,5717390,324082,5.7,history_players_naeherung
 12985737508,2026-10-08T20:06:08Z,verkauf,Zimmerschied,9224,Elversberg,,nico,6577407,6051320,526087,8.7,history_players_naeherung
 12985740316,2026-10-08T20:06:13Z,verkauf,Wójcik,15256,Bremen,,nico,6447933,5843000,604933,10.4,history_players_naeherung
+12986652442,2026-10-08T20:49:27Z,verkauf,Culbreath,11756,Leverkusen,,Paul Block,5760163,5902719,-142556,-2.4,history_players_naeherung
+12986653186,2026-10-08T20:49:32Z,verkauf,Marino,3336,Paderborn,,Paul Block,8007339,7312410,694929,9.5,history_players_naeherung
+12986656630,2026-10-08T20:49:57Z,verkauf,Konoplia,7774,M'gladbach,,Paul Block,7254140,6457354,796786,12.3,history_players_naeherung
+12986657152,2026-10-08T20:50:01Z,verkauf,Castañeda,8292,Paderborn,,Paul Block,11003585,10627992,375593,3.5,history_players_naeherung
+12986813887,2026-10-08T21:03:26Z,kauf,Brassier,17285,Frankfurt,nico,,17050506,14961795,2088711,14.0,history_players_naeherung
