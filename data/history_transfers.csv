@@ -697,3 +697,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12981910453,2026-10-08T09:15:24Z,verkauf,Scally,2941,M'gladbach,,Kai,3651326,3608416,42910,1.2,history_players_naeherung
 12982582114,2026-10-08T11:05:05Z,verkauf,Maza,6061,Leverkusen,,Felix,30847516,30777123,70393,0.2,history_players_naeherung
 12982873009,2026-10-08T11:53:05Z,kauf,Dinkçi,2939,Bremen,Kai,,5956009,6019845,-63836,-1.1,history_players_naeherung
+12983208754,2026-10-08T12:51:15Z,kauf,Gruber,10122,Mainz,Felix,,10111199,9240326,870873,9.4,history_players_naeherung
+12983253985,2026-10-08T12:58:51Z,kauf,Rômulo,11886,Leipzig,Jonnhji,,10214399,9978422,235977,2.4,history_players_naeherung
+12983352580,2026-10-08T13:15:32Z,kauf,Kleindienst,849,M'gladbach,nico,,11842000,11424299,417701,3.7,history_players_naeherung
