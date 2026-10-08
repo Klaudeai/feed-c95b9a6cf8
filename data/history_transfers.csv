@@ -690,3 +690,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12977619637,2026-10-07T22:19:22Z,verkauf,Ndiaye,12314,Bayern,,Kai,5785851,5546827,239024,4.3,history_players_naeherung
 12977859382,2026-10-07T22:53:19Z,kauf,Futkeu,6183,Elversberg,Kai,,3480033,3371265,108768,3.2,history_players_naeherung
 12978195613,2026-10-07T23:51:31Z,kauf,Becker,2646,Mainz,schwungzent,,17999999,17651028,348971,2.0,history_players_naeherung
+12979239418,2026-10-08T03:12:14Z,kauf,Bischof,3120,Bayern,Kai,,17420035,16784564,635471,3.8,history_players_naeherung
+12980308699,2026-10-08T05:29:25Z,verkauf,Baumgartner,2275,Leipzig,,schwungzent,12080935,12051656,29279,0.2,history_players_naeherung
+12981139426,2026-10-08T07:17:58Z,kauf,Hansen,6292,Paderborn,Kai,,3908693,3722776,185917,5.0,history_players_naeherung
+12981701416,2026-10-08T08:42:25Z,kauf,Güther,13629,Union Berlin,1. FC Infantino,,500001,500000,1,0.0,history_players_naeherung
