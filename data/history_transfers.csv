@@ -688,3 +688,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12977618629,2026-10-07T22:19:03Z,verkauf,Keidel,3350,Elversberg,,Kai,8547641,8511229,36412,0.4,history_players_naeherung
 12977619019,2026-10-07T22:19:11Z,verkauf,Trimmel,2400,Union Berlin,,Kai,5911006,5747268,163738,2.8,history_players_naeherung
 12977619637,2026-10-07T22:19:22Z,verkauf,Ndiaye,12314,Bayern,,Kai,5785851,5546827,239024,4.3,history_players_naeherung
+12977859382,2026-10-07T22:53:19Z,kauf,Futkeu,6183,Elversberg,Kai,,3480033,3371265,108768,3.2,history_players_naeherung
+12978195613,2026-10-07T23:51:31Z,kauf,Becker,2646,Mainz,schwungzent,,17999999,17651028,348971,2.0,history_players_naeherung
