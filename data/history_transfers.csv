@@ -700,3 +700,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12983208754,2026-10-08T12:51:15Z,kauf,Gruber,10122,Mainz,Felix,,10111199,9240326,870873,9.4,history_players_naeherung
 12983253985,2026-10-08T12:58:51Z,kauf,Rômulo,11886,Leipzig,Jonnhji,,10214399,9978422,235977,2.4,history_players_naeherung
 12983352580,2026-10-08T13:15:32Z,kauf,Kleindienst,849,M'gladbach,nico,,11842000,11424299,417701,3.7,history_players_naeherung
+12985729840,2026-10-08T20:05:55Z,verkauf,Nadir,15478,Hamburg,,nico,6292616,5783601,509015,8.8,history_players_naeherung
+12985733797,2026-10-08T20:06:02Z,verkauf,Arrhov,12285,Frankfurt,,nico,6041472,5717390,324082,5.7,history_players_naeherung
+12985737508,2026-10-08T20:06:08Z,verkauf,Zimmerschied,9224,Elversberg,,nico,6577407,6051320,526087,8.7,history_players_naeherung
+12985740316,2026-10-08T20:06:13Z,verkauf,Wójcik,15256,Bremen,,nico,6447933,5843000,604933,10.4,history_players_naeherung
