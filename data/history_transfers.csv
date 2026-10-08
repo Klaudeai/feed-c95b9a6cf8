@@ -695,3 +695,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12981139426,2026-10-08T07:17:58Z,kauf,Hansen,6292,Paderborn,Kai,,3908693,3722776,185917,5.0,history_players_naeherung
 12981701416,2026-10-08T08:42:25Z,kauf,Güther,13629,Union Berlin,1. FC Infantino,,500001,500000,1,0.0,history_players_naeherung
 12981910453,2026-10-08T09:15:24Z,verkauf,Scally,2941,M'gladbach,,Kai,3651326,3608416,42910,1.2,history_players_naeherung
+12982582114,2026-10-08T11:05:05Z,verkauf,Maza,6061,Leverkusen,,Felix,30847516,30777123,70393,0.2,history_players_naeherung
+12982873009,2026-10-08T11:53:05Z,kauf,Dinkçi,2939,Bremen,Kai,,5956009,6019845,-63836,-1.1,history_players_naeherung
