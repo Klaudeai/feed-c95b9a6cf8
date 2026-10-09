@@ -717,3 +717,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12990428401,2026-10-09T05:20:25Z,verkauf,Rosenfelder,7216,Freiburg,,Aaron,1878799,2190477,-311678,-14.2,history_players_naeherung
 12990886375,2026-10-09T06:05:47Z,kauf,Hein,9513,Bremen,Jonnhji,,9650999,10428796,-777797,-7.5,history_players_naeherung
 12990932152,2026-10-09T06:10:28Z,verkauf,Møller Wolfe,14425,Hamburg,,Felix,7066801,6681410,385391,5.8,history_players_naeherung
+12992528248,2026-10-09T09:21:33Z,verkauf,Kleindienst,849,M'gladbach,,nico,11757721,11424299,333422,2.9,history_players_naeherung
+12993312883,2026-10-09T11:06:04Z,kauf,Herold,4292,M'gladbach,nico,,1505060,899378,605682,67.3,history_players_naeherung
