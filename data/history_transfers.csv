@@ -723,3 +723,16 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12994932748,2026-10-09T14:35:56Z,kauf,Schmetgens,10134,Bremen,Jonnhji,,1021999,1283283,-261284,-20.4,history_players_naeherung
 12995125546,2026-10-09T14:56:20Z,verkauf,Demirović,2854,Stuttgart,,Jonnhji,11122840,10728708,394132,3.7,history_players_naeherung
 12995301547,2026-10-09T15:15:18Z,kauf,Führich,2172,Stuttgart,Jonnhji,1. FC Infantino,17800000,16790776,1009224,6.0,history_players_naeherung
+12997139605,2026-10-09T17:57:37Z,verkauf,Bensebaini,2736,Dortmund,,Kai,9064825,7967133,1097692,13.8,history_players_naeherung
+12997142536,2026-10-09T17:57:54Z,verkauf,Pinckert,6148,Elversberg,,Kai,12779417,12656692,122725,1.0,history_players_naeherung
+12997150204,2026-10-09T17:58:04Z,verkauf,Futkeu,6183,Elversberg,,Kai,3612985,3371265,241720,7.2,history_players_naeherung
+12997150693,2026-10-09T17:58:07Z,verkauf,Hansen,6292,Paderborn,,Kai,3928599,3722776,205823,5.5,history_players_naeherung
+12997151089,2026-10-09T17:58:10Z,verkauf,Regeer,17288,Bremen,,Kai,10861042,10716004,145038,1.4,history_players_naeherung
+12997151815,2026-10-09T17:58:13Z,verkauf,Vidović,3081,Paderborn,,Kai,8159610,7746919,412691,5.3,history_players_naeherung
+12997206460,2026-10-09T18:01:55Z,verkauf,Knauff,2863,Frankfurt,,Jonnhji,7822115,7422063,400052,5.4,history_players_naeherung
+12997206904,2026-10-09T18:01:57Z,verkauf,Ebnoutalib,10004,Frankfurt,,Jonnhji,18992768,18538049,454719,2.5,history_players_naeherung
+12997207324,2026-10-09T18:02:00Z,verkauf,Burger,11631,Hoffenheim,,Jonnhji,19508315,19431820,76495,0.4,history_players_naeherung
+12997213573,2026-10-09T18:02:02Z,verkauf,Tangvik,12368,Hamburg,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
+12997214023,2026-10-09T18:02:05Z,verkauf,Leszczynski,15181,M'gladbach,,Jonnhji,7908280,7876388,31892,0.4,history_players_naeherung
+12997216003,2026-10-09T18:02:15Z,verkauf,Makengo,7215,Freiburg,,Jonnhji,14219555,13859838,359717,2.6,history_players_naeherung
+12998184061,2026-10-09T20:13:14Z,verkauf,Chuki,8166,Bremen,,nico,11790541,11697570,92971,0.8,history_players_naeherung
