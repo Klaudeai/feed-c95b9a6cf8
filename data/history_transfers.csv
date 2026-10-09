@@ -719,3 +719,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12990932152,2026-10-09T06:10:28Z,verkauf,Møller Wolfe,14425,Hamburg,,Felix,7066801,6681410,385391,5.8,history_players_naeherung
 12992528248,2026-10-09T09:21:33Z,verkauf,Kleindienst,849,M'gladbach,,nico,11757721,11424299,333422,2.9,history_players_naeherung
 12993312883,2026-10-09T11:06:04Z,kauf,Herold,4292,M'gladbach,nico,,1505060,899378,605682,67.3,history_players_naeherung
+12994344583,2026-10-09T13:22:36Z,kauf,Götze,513,Frankfurt,MicheleFerra,,3121234,3199777,-78543,-2.5,history_players_naeherung
+12994932748,2026-10-09T14:35:56Z,kauf,Schmetgens,10134,Bremen,Jonnhji,,1021999,1283283,-261284,-20.4,history_players_naeherung
+12995125546,2026-10-09T14:56:20Z,verkauf,Demirović,2854,Stuttgart,,Jonnhji,11122840,10728708,394132,3.7,history_players_naeherung
+12995301547,2026-10-09T15:15:18Z,kauf,Führich,2172,Stuttgart,Jonnhji,1. FC Infantino,17800000,16790776,1009224,6.0,history_players_naeherung
