@@ -711,3 +711,9 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12986813887,2026-10-08T21:03:26Z,kauf,Brassier,17285,Frankfurt,nico,,17050506,14961795,2088711,14.0,history_players_naeherung
 12987390169,2026-10-08T22:05:09Z,verkauf,Keitel,2764,Augsburg,,Jonnhji,6688117,6218141,469976,7.6,history_players_naeherung
 12987390781,2026-10-08T22:05:12Z,verkauf,Quetant,14923,Bremen,,Jonnhji,6160894,5569471,591423,10.6,history_players_naeherung
+12989984422,2026-10-09T04:38:10Z,verkauf,Campbell,7441,Elversberg,,schwungzent,9535932,8694393,841539,9.7,history_players_naeherung
+12989984758,2026-10-09T04:38:14Z,verkauf,Prass,7717,Hoffenheim,,schwungzent,6841592,6310431,531161,8.4,history_players_naeherung
+12990427852,2026-10-09T05:20:20Z,verkauf,Grüll,7721,Bremen,,Aaron,13502741,13165334,337407,2.6,history_players_naeherung
+12990428401,2026-10-09T05:20:25Z,verkauf,Rosenfelder,7216,Freiburg,,Aaron,1878799,2190477,-311678,-14.2,history_players_naeherung
+12990886375,2026-10-09T06:05:47Z,kauf,Hein,9513,Bremen,Jonnhji,,9650999,10428796,-777797,-7.5,history_players_naeherung
+12990932152,2026-10-09T06:10:28Z,verkauf,Møller Wolfe,14425,Hamburg,,Felix,7066801,6681410,385391,5.8,history_players_naeherung
