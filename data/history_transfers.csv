@@ -736,3 +736,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12997214023,2026-10-09T18:02:05Z,verkauf,Leszczynski,15181,M'gladbach,,Jonnhji,7908280,7876388,31892,0.4,history_players_naeherung
 12997216003,2026-10-09T18:02:15Z,verkauf,Makengo,7215,Freiburg,,Jonnhji,14219555,13859838,359717,2.6,history_players_naeherung
 12998184061,2026-10-09T20:13:14Z,verkauf,Chuki,8166,Bremen,,nico,11790541,11697570,92971,0.8,history_players_naeherung
+12998573083,2026-10-09T21:16:09Z,kauf,Höler,2176,Freiburg,Jonnhji,,1040999,1278423,-237424,-18.6,history_players_naeherung
