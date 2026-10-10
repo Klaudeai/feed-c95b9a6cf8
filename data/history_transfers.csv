@@ -737,3 +737,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12997216003,2026-10-09T18:02:15Z,verkauf,Makengo,7215,Freiburg,,Jonnhji,14219555,13859838,359717,2.6,history_players_naeherung
 12998184061,2026-10-09T20:13:14Z,verkauf,Chuki,8166,Bremen,,nico,11790541,11697570,92971,0.8,history_players_naeherung
 12998573083,2026-10-09T21:16:09Z,kauf,Höler,2176,Freiburg,Jonnhji,,1040999,1278423,-237424,-18.6,history_players_naeherung
+13000113229,2026-10-10T00:56:01Z,kauf,Mwene,2232,Mainz,Jonnhji,,9457999,8304551,1153448,13.9,history_players_naeherung
+13000517407,2026-10-10T02:11:31Z,kauf,Finkgräfe,7239,Leipzig,nico,,1885698,509629,1376069,270.0,history_players_naeherung
+13000874242,2026-10-10T03:19:26Z,kauf,Itten,3139,Bremen,nico,,802310,580857,221453,38.1,history_players_naeherung
