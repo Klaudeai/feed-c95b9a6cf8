@@ -740,3 +740,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13000113229,2026-10-10T00:56:01Z,kauf,Mwene,2232,Mainz,Jonnhji,,9457999,8304551,1153448,13.9,history_players_naeherung
 13000517407,2026-10-10T02:11:31Z,kauf,Finkgräfe,7239,Leipzig,nico,,1885698,509629,1376069,270.0,history_players_naeherung
 13000874242,2026-10-10T03:19:26Z,kauf,Itten,3139,Bremen,nico,,802310,580857,221453,38.1,history_players_naeherung
+13002343474,2026-10-10T07:05:51Z,kauf,Sauer,7781,Stuttgart,Jonnhji,,2657999,2746923,-88924,-3.2,history_players_naeherung
+13002599323,2026-10-10T07:40:47Z,kauf,Spalt,12367,Stuttgart,Paul Block,,1610999,500000,1110999,222.2,history_players_naeherung
+13003701412,2026-10-10T10:31:05Z,kauf,Seol,13806,Augsburg,schwungzent,,2850000,631157,2218843,351.6,history_players_naeherung
