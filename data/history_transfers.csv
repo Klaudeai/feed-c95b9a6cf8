@@ -743,3 +743,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13002343474,2026-10-10T07:05:51Z,kauf,Sauer,7781,Stuttgart,Jonnhji,,2657999,2746923,-88924,-3.2,history_players_naeherung
 13002599323,2026-10-10T07:40:47Z,kauf,Spalt,12367,Stuttgart,Paul Block,,1610999,500000,1110999,222.2,history_players_naeherung
 13003701412,2026-10-10T10:31:05Z,kauf,Seol,13806,Augsburg,schwungzent,,2850000,631157,2218843,351.6,history_players_naeherung
+13004296006,2026-10-10T12:11:56Z,kauf,Moreira,15199,Leverkusen,Jonnhji,,16207999,15704945,503054,3.2,history_players_naeherung
+13004377660,2026-10-10T12:25:37Z,kauf,Eichhorn,11680,Leverkusen,Jonnhji,,1857999,802751,1055248,131.5,history_players_naeherung
+13004509714,2026-10-10T12:45:04Z,verkauf,Poulsen,1865,Hamburg,,schwungzent,5389738,6598626,-1208888,-18.3,history_players_naeherung
