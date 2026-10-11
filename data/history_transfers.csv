@@ -757,3 +757,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13015893673,2026-10-11T18:15:29Z,kauf,Günter,89,Freiburg,schwungzent,,3022222,1334557,1687665,126.5,history_players_naeherung
 13016143165,2026-10-11T18:55:53Z,verkauf,Engelhardt,3209,Freiburg,,Felix,15035403,15035403,0,0.0,history_players_naeherung
 13016778649,2026-10-11T20:36:18Z,kauf,Adeline,15283,Hamburg,schwungzent,,2996666,1857844,1138822,61.3,history_players_naeherung
+13017599644,2026-10-11T22:41:38Z,verkauf,Collins,2864,Frankfurt,,Jonnhji,10691585,10691585,0,0.0,mv_history_exakt
