@@ -750,3 +750,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13004758168,2026-10-10T13:23:34Z,kauf,Spalt,12367,Stuttgart,MicheleFerra,Paul Block,4000000,500000,3500000,700.0,history_players_naeherung
 13006077100,2026-10-10T16:48:49Z,kauf,Schlager,9600,Bremen,Jonnhji,,2057999,699330,1358669,194.3,history_players_naeherung
 13009375969,2026-10-11T01:10:47Z,kauf,Olise,8329,Bayern,nico,,69005006,64581650,4423356,6.8,history_players_naeherung
+13014377395,2026-10-11T14:30:17Z,kauf,Njinmah,3228,Bremen,nico,,1323000,842238,480762,57.1,history_players_naeherung
+13015315918,2026-10-11T16:54:00Z,verkauf,Suzuki,11006,Freiburg,,schwungzent,20542496,20454982,87514,0.4,history_players_naeherung
+13015426972,2026-10-11T17:07:02Z,kauf,Aebischer,7684,Union Berlin,schwungzent,,5688888,5011292,677596,13.5,history_players_naeherung
+13015547152,2026-10-11T17:24:52Z,verkauf,Skhiri,2718,Köln,,Kai,11148290,11148290,0,0.0,history_players_naeherung
+13015893673,2026-10-11T18:15:29Z,kauf,Günter,89,Freiburg,schwungzent,,3022222,1334557,1687665,126.5,history_players_naeherung
