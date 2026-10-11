@@ -50,3 +50,7 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3176,Arijon Ibrahimović,Augsburg,MF,6836633,6333717,7.9,1,2026-10-10T13:07:00+00:00,2026-10-10T11:04:23+00:00,2026-10-10T12:52:50+00:00,gewonnen,2026-10-10T13:07:39Z,6836633,ich,eigener Kauf im Transfer-Archiv gefunden (squad.json hatte acquired/purchase_price noch nicht gesetzt)
 11680,Kennet Eichhorn,Leverkusen,MF,1799006,1763028,2.0,1,2026-10-10T12:25:00+00:00,2026-10-10T11:04:23+00:00,2026-10-10T11:04:23+00:00,verloren,2026-10-10T12:25:37Z,1857999,Jonnhji,Kauf durch anderen Manager im Transfer-Archiv gefunden
 15199,Afonso Moreira,Leverkusen,ST,16198000,16192251,0.0,1,2026-10-10T12:11:00+00:00,2026-10-10T11:04:23+00:00,2026-10-10T11:04:23+00:00,verloren,2026-10-10T12:11:56Z,16207999,Jonnhji,Kauf durch anderen Manager im Transfer-Archiv gefunden
+1580,Marvin Schwäbe,Köln,TW,11869003,11680952,1.6,1,2026-10-12T04:30:00+00:00,2026-10-11T22:17:02+00:00,2026-10-11T22:17:02+00:00,offen,,,,
+3281,Ludovit Reis,Bremen,MF,7348882,6846251,7.3,1,2026-10-12T03:20:00+00:00,2026-10-11T22:17:02+00:00,2026-10-11T22:17:02+00:00,offen,,,,
+11556,Han-Noah Massengo,Augsburg,MF,8530002,8491053,0.5,1,2026-10-12T00:23:00+00:00,2026-10-11T22:17:02+00:00,2026-10-11T22:17:02+00:00,offen,,,,
+11665,Kacper Potulski,Mainz,ABW,7633320,7515446,1.6,1,2026-10-12T00:45:00+00:00,2026-10-11T22:17:02+00:00,2026-10-11T22:17:02+00:00,offen,,,,
