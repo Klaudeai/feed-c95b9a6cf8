@@ -758,3 +758,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13016143165,2026-10-11T18:55:53Z,verkauf,Engelhardt,3209,Freiburg,,Felix,15035403,15035403,0,0.0,history_players_naeherung
 13016778649,2026-10-11T20:36:18Z,kauf,Adeline,15283,Hamburg,schwungzent,,2996666,1857844,1138822,61.3,history_players_naeherung
 13017599644,2026-10-11T22:41:38Z,verkauf,Collins,2864,Frankfurt,,Jonnhji,10691585,10691585,0,0.0,mv_history_exakt
+13018201132,2026-10-12T00:24:06Z,kauf,Massengo,11556,Augsburg,schwungzent,,9385214,8491053,894161,10.5,history_players_naeherung
+13018320721,2026-10-12T00:46:25Z,kauf,Potulski,11665,Mainz,Paul Block,,7859999,7515446,344553,4.6,history_players_naeherung
