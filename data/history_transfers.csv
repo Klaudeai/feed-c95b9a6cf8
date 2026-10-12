@@ -772,3 +772,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13040064352,2026-10-12T17:59:44Z,kauf,Becker,2762,Schalke,Jonnhji,,6567999,6261528,306471,4.9,history_players_naeherung
 13040893558,2026-10-12T20:07:52Z,verkauf,Rondic,10121,Köln,,Paul Block,2432155,2590149,-157994,-6.1,history_players_naeherung
 13040894461,2026-10-12T20:08:02Z,verkauf,Fábio Silva,9698,Dortmund,,Paul Block,13952360,13952360,0,0.0,mv_history_exakt
+13041279382,2026-10-12T21:02:48Z,kauf,Sylla,8222,Schalke,Kai,,4922000,4499924,422076,9.4,history_players_naeherung
