@@ -764,3 +764,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13019621896,2026-10-12T04:30:36Z,kauf,Schwäbe,1580,Köln,Kai,,11869003,11680952,188051,1.6,history_players_naeherung
 13020172633,2026-10-12T05:35:25Z,kauf,Baum,7325,Frankfurt,Aaron,,7400000,7308600,91400,1.3,history_players_naeherung
 13020613240,2026-10-12T06:30:41Z,kauf,Scherhant,4335,Freiburg,Aaron,nico,17000000,16879270,120730,0.7,history_players_naeherung
+13021980874,2026-10-12T09:54:49Z,kauf,Goto,14048,Freiburg,Paul Block,,2259999,1422566,837433,58.9,history_players_naeherung
+13022530948,2026-10-12T11:19:19Z,kauf,Nwaneri,17309,Dortmund,1. FC Infantino,Aaron,16000001,11578958,4421043,38.2,history_players_naeherung
