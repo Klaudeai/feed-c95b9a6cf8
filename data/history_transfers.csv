@@ -776,3 +776,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13042459771,2026-10-13T00:00:59Z,kauf,Tillman,2846,Leverkusen,Kai,,6136699,5855192,281507,4.8,history_players_naeherung
 13042493764,2026-10-13T00:07:03Z,kauf,Fleck,12243,M'gladbach,Felix,,666666,500000,166666,33.3,history_players_naeherung
 13044207988,2026-10-13T04:53:23Z,kauf,Kuruçay,4606,Schalke,schwungzent,Aaron,13450000,10527533,2922467,27.8,history_players_naeherung
+13044891250,2026-10-13T06:15:40Z,kauf,Vázquez,3754,Leverkusen,nico,,2342300,2070228,272072,13.1,history_players_naeherung
+13045199068,2026-10-13T06:57:43Z,kauf,Schallenberg,2876,Schalke,Kai,,2008693,1578447,430246,27.3,history_players_naeherung
+13045527154,2026-10-13T07:43:52Z,kauf,Saibari,14251,Bayern,Felix,nico,30000000,28221131,1778869,6.3,history_players_naeherung
+13045528555,2026-10-13T07:44:22Z,verkauf,Rohr,3284,Elversberg,,Felix,12912139,12912139,0,0.0,history_players_naeherung
+13045588171,2026-10-13T07:52:54Z,kauf,Castro-Montes,11958,Köln,nico,,2612359,2446729,165630,6.8,history_players_naeherung
