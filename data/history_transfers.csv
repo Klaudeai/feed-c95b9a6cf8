@@ -783,3 +783,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13045588171,2026-10-13T07:52:54Z,kauf,Castro-Montes,11958,Köln,nico,,2612359,2446729,165630,6.8,history_players_naeherung
 13046069557,2026-10-13T09:07:54Z,kauf,Neuhaus,2261,M'gladbach,Aaron,,8829344,8829344,0,0.0,history_players_naeherung
 13047251330,2026-10-13T12:28:30Z,kauf,Džeko,1012,Schalke,Paul Block,,3508999,3404805,104194,3.1,history_players_naeherung
+13047682772,2026-10-13T13:44:27Z,verkauf,Atubolu,3019,Frankfurt,,Kai,13658689,13658689,0,0.0,history_players_naeherung
