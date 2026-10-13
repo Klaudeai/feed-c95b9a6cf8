@@ -454,7 +454,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 12697388363,2026-09-13T08:29:56Z,kauf,Zentner,1590,Mainz,nico,,12100000,14372632,-2272632,-15.8,history_players_naeherung
 12697399496,2026-09-13T08:31:06Z,verkauf,Wisbereit,13671,Augsburg,,nico,500000,500000,0,0.0,history_players_naeherung
 12697876772,2026-09-13T09:20:52Z,kauf,Collins,2864,Frankfurt,Jonnhji,,5377999,5554126,-176127,-3.2,history_players_naeherung
-12699564977,2026-09-13T12:34:54Z,kauf,Spalt,12367,Stuttgart,Kai,,1876769,,,,unbekannt
+12699564977,2026-09-13T12:34:54Z,kauf,Spalt,12367,Stuttgart,Kai,,1876769,2495270,-618501,-24.8,history_players_naeherung
 12701770394,2026-09-13T16:43:09Z,kauf,Saibari,14251,Bayern,nico,,28250000,30423109,-2173109,-7.1,history_players_naeherung
 12702014378,2026-09-13T17:10:27Z,verkauf,Brown,3543,Bayern,,schwungzent,25185434,28221657,-3036223,-10.8,history_players_naeherung
 12702094547,2026-09-13T17:20:04Z,kauf,Skarke,2491,Union Berlin,Jonnhji,,7007999,5852452,1155547,19.7,history_players_naeherung
@@ -781,3 +781,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13045527154,2026-10-13T07:43:52Z,kauf,Saibari,14251,Bayern,Felix,nico,30000000,28221131,1778869,6.3,history_players_naeherung
 13045528555,2026-10-13T07:44:22Z,verkauf,Rohr,3284,Elversberg,,Felix,12912139,12912139,0,0.0,history_players_naeherung
 13045588171,2026-10-13T07:52:54Z,kauf,Castro-Montes,11958,Köln,nico,,2612359,2446729,165630,6.8,history_players_naeherung
+13046069557,2026-10-13T09:07:54Z,kauf,Neuhaus,2261,M'gladbach,Aaron,,8829344,8829344,0,0.0,history_players_naeherung
