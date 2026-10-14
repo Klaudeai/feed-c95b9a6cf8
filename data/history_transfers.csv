@@ -786,3 +786,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13047682772,2026-10-13T13:44:27Z,verkauf,Atubolu,3019,Frankfurt,,Kai,13658689,13658689,0,0.0,history_players_naeherung
 13049089217,2026-10-13T17:56:09Z,kauf,Onyedika,16369,Frankfurt,Kai,,7820003,7766950,53053,0.7,history_players_naeherung
 13050459884,2026-10-13T21:28:34Z,kauf,Gray,15301,Union Berlin,nico,,525000,500000,25000,5.0,history_players_naeherung
+13051979357,2026-10-14T01:45:46Z,kauf,Imeri,17306,Union Berlin,Paul Block,,2869999,2251563,618436,27.5,history_players_naeherung
