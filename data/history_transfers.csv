@@ -791,3 +791,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13054677254,2026-10-14T08:30:28Z,kauf,Lemke,13433,Hamburg,Aaron,,1700000,1281802,418198,32.6,history_players_naeherung
 13057843742,2026-10-14T17:51:56Z,kauf,Adamu,6172,Schalke,Paul Block,,4250999,3766140,484859,12.9,history_players_naeherung
 13058121377,2026-10-14T18:42:37Z,kauf,Stanišić,2300,Bayern,Jonnhji,,14079999,13918224,161775,1.2,history_players_naeherung
+13059735089,2026-10-14T22:53:21Z,verkauf,Stanišić,2300,Bayern,,Jonnhji,14085182,13918224,166958,1.2,history_players_naeherung
