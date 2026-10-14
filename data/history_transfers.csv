@@ -788,3 +788,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13050459884,2026-10-13T21:28:34Z,kauf,Gray,15301,Union Berlin,nico,,525000,500000,25000,5.0,history_players_naeherung
 13051979357,2026-10-14T01:45:46Z,kauf,Imeri,17306,Union Berlin,Paul Block,,2869999,2251563,618436,27.5,history_players_naeherung
 13053272282,2026-10-14T05:11:43Z,verkauf,Moreira,15199,Leverkusen,,Jonnhji,16808698,16645382,163316,1.0,history_players_naeherung
+13054677254,2026-10-14T08:30:28Z,kauf,Lemke,13433,Hamburg,Aaron,,1700000,1281802,418198,32.6,history_players_naeherung
