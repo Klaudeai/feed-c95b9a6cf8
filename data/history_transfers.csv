@@ -806,3 +806,9 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13067923580,2026-10-15T20:30:34Z,verkauf,Höler,2176,Freiburg,,Jonnhji,2594221,1570026,1024195,65.2,history_players_naeherung
 13067923958,2026-10-15T20:30:36Z,verkauf,Becker,2762,Schalke,,Jonnhji,7236868,6565139,671729,10.2,history_players_naeherung
 13067924996,2026-10-15T20:30:42Z,verkauf,Schmetgens,10134,Bremen,,Jonnhji,2140344,1415604,724740,51.2,history_players_naeherung
+13068394430,2026-10-15T21:14:18Z,verkauf,Herold,4292,M'gladbach,,nico,3698211,2668909,1029302,38.6,history_players_naeherung
+13068394607,2026-10-15T21:14:20Z,verkauf,Itten,3139,Bremen,,nico,2308861,1560805,748056,47.9,history_players_naeherung
+13068394805,2026-10-15T21:14:23Z,verkauf,Njinmah,3228,Bremen,,nico,2571076,1797912,773164,43.0,history_players_naeherung
+13068399362,2026-10-15T21:14:26Z,verkauf,Castro-Montes,11958,Köln,,nico,2769317,2446729,322588,13.2,history_players_naeherung
+13068399590,2026-10-15T21:14:29Z,verkauf,Heskey,15373,Köln,,nico,2337510,1657286,680224,41.0,history_players_naeherung
+13068399827,2026-10-15T21:14:32Z,verkauf,Finkgräfe,7239,Leipzig,,nico,3590873,2646419,944454,35.7,history_players_naeherung
