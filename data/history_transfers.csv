@@ -798,3 +798,11 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13064800928,2026-10-15T12:39:03Z,kauf,Millgramm,12262,Paderborn,Jonnhji,,500000,500000,0,0.0,history_players_naeherung
 13064927738,2026-10-15T13:00:54Z,verkauf,Sylla,8222,Schalke,,Kai,5423725,4847740,575985,11.9,history_players_naeherung
 13066983935,2026-10-15T18:52:07Z,kauf,Ribeiro,12341,Augsburg,1. FC Infantino,,3600000,2553005,1046995,41.0,history_players_naeherung
+13067862479,2026-10-15T20:26:30Z,kauf,Mwene,2232,Mainz,Aaron,Jonnhji,11000000,10196777,803223,7.9,history_players_naeherung
+13067887436,2026-10-15T20:27:51Z,kauf,Posch,2006,Mainz,Jonnhji,1. FC Infantino,10400000,9454531,945469,10.0,history_players_naeherung
+13067922242,2026-10-15T20:30:25Z,verkauf,Schlager,9600,Bremen,,Jonnhji,3369636,2799212,570424,20.4,history_players_naeherung
+13067922569,2026-10-15T20:30:27Z,verkauf,Eichhorn,11680,Leverkusen,,Jonnhji,3459960,2798078,661882,23.7,history_players_naeherung
+13067922929,2026-10-15T20:30:30Z,verkauf,Sauer,7781,Stuttgart,,Jonnhji,3966844,3269234,697610,21.3,history_players_naeherung
+13067923580,2026-10-15T20:30:34Z,verkauf,Höler,2176,Freiburg,,Jonnhji,2594221,1570026,1024195,65.2,history_players_naeherung
+13067923958,2026-10-15T20:30:36Z,verkauf,Becker,2762,Schalke,,Jonnhji,7236868,6565139,671729,10.2,history_players_naeherung
+13067924996,2026-10-15T20:30:42Z,verkauf,Schmetgens,10134,Bremen,,Jonnhji,2140344,1415604,724740,51.2,history_players_naeherung
