@@ -797,3 +797,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13064484308,2026-10-15T11:42:46Z,verkauf,Rômulo,11886,Leipzig,,Jonnhji,11166473,10832327,334146,3.1,history_players_naeherung
 13064800928,2026-10-15T12:39:03Z,kauf,Millgramm,12262,Paderborn,Jonnhji,,500000,500000,0,0.0,history_players_naeherung
 13064927738,2026-10-15T13:00:54Z,verkauf,Sylla,8222,Schalke,,Kai,5423725,4847740,575985,11.9,history_players_naeherung
+13066983935,2026-10-15T18:52:07Z,kauf,Ribeiro,12341,Augsburg,1. FC Infantino,,3600000,2553005,1046995,41.0,history_players_naeherung
