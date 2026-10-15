@@ -793,3 +793,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13058121377,2026-10-14T18:42:37Z,kauf,Stanišić,2300,Bayern,Jonnhji,,14079999,13918224,161775,1.2,history_players_naeherung
 13059735089,2026-10-14T22:53:21Z,verkauf,Stanišić,2300,Bayern,,Jonnhji,14085182,13918224,166958,1.2,history_players_naeherung
 13059954413,2026-10-14T23:30:49Z,kauf,Orban,1246,Leipzig,Jonnhji,,28877999,28640974,237025,0.8,history_players_naeherung
+13060834199,2026-10-15T02:23:52Z,kauf,Heskey,15373,Köln,nico,,2222265,1657286,564979,34.1,history_players_naeherung
