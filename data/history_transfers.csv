@@ -822,3 +822,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13071892556,2026-10-16T05:37:25Z,verkauf,Aebischer,7684,Union Berlin,,schwungzent,6419357,5883992,535365,9.1,history_players_naeherung
 13071898454,2026-10-16T05:37:50Z,verkauf,Adeline,15283,Hamburg,,schwungzent,3902571,2703018,1199553,44.4,history_players_naeherung
 13071906533,2026-10-16T05:38:37Z,verkauf,Günter,89,Freiburg,,schwungzent,3489953,2522751,967202,38.3,history_players_naeherung
+13072021364,2026-10-16T05:50:57Z,verkauf,Baum,7325,Frankfurt,,Aaron,8153236,7559389,593847,7.9,history_players_naeherung
+13072021949,2026-10-16T05:51:05Z,verkauf,Krattenmacher,8252,Elversberg,,Aaron,8044439,7664059,380380,5.0,history_players_naeherung
