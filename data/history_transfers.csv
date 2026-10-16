@@ -818,3 +818,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13069480886,2026-10-15T23:29:27Z,verkauf,Adamu,6172,Schalke,,Paul Block,4503617,3766140,737477,19.6,history_players_naeherung
 13069480940,2026-10-15T23:29:30Z,verkauf,Imeri,17306,Union Berlin,,Paul Block,3475584,2251563,1224021,54.4,history_players_naeherung
 13069905287,2026-10-16T00:46:37Z,kauf,Hendriks,8247,Stuttgart,Felix,,6444999,5125237,1319762,25.8,history_players_naeherung
+13071889592,2026-10-16T05:36:50Z,verkauf,Seol,13806,Augsburg,,schwungzent,4228745,3222325,1006420,31.2,history_players_naeherung
+13071892556,2026-10-16T05:37:25Z,verkauf,Aebischer,7684,Union Berlin,,schwungzent,6419357,5883992,535365,9.1,history_players_naeherung
+13071898454,2026-10-16T05:37:50Z,verkauf,Adeline,15283,Hamburg,,schwungzent,3902571,2703018,1199553,44.4,history_players_naeherung
+13071906533,2026-10-16T05:38:37Z,verkauf,Günter,89,Freiburg,,schwungzent,3489953,2522751,967202,38.3,history_players_naeherung
