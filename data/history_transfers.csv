@@ -817,3 +817,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13069480712,2026-10-15T23:29:17Z,verkauf,Džeko,1012,Schalke,,Paul Block,3996965,3404805,592160,17.4,history_players_naeherung
 13069480886,2026-10-15T23:29:27Z,verkauf,Adamu,6172,Schalke,,Paul Block,4503617,3766140,737477,19.6,history_players_naeherung
 13069480940,2026-10-15T23:29:30Z,verkauf,Imeri,17306,Union Berlin,,Paul Block,3475584,2251563,1224021,54.4,history_players_naeherung
+13069905287,2026-10-16T00:46:37Z,kauf,Hendriks,8247,Stuttgart,Felix,,6444999,5125237,1319762,25.8,history_players_naeherung
