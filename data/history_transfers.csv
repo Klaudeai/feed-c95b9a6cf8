@@ -830,3 +830,9 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13073608766,2026-10-16T09:00:01Z,kauf,Leweling,2988,Stuttgart,Paul Block,,11809999,10584851,1225148,11.6,history_players_naeherung
 13073653028,2026-10-16T09:05:53Z,verkauf,Goto,14048,Freiburg,,Paul Block,2796989,1793310,1003679,56.0,history_players_naeherung
 13073719805,2026-10-16T09:14:53Z,verkauf,Nguefack,16564,M'gladbach,,1. FC Infantino,4420259,3866308,553951,14.3,history_players_naeherung
+13077922943,2026-10-16T17:52:55Z,verkauf,Ibrahimović,3176,Augsburg,,Kai,8152292,7412696,739596,10.0,history_players_naeherung
+13077924005,2026-10-16T17:53:01Z,verkauf,Lee,2476,Mainz,,Kai,9499153,9049863,449290,5.0,history_players_naeherung
+13077924839,2026-10-16T17:53:05Z,verkauf,Schallenberg,2876,Schalke,,Kai,2244213,1578447,665766,42.2,history_players_naeherung
+13077925436,2026-10-16T17:53:08Z,verkauf,Tillman,2846,Leverkusen,,Kai,6703685,6136688,566997,9.2,history_players_naeherung
+13077925991,2026-10-16T17:53:11Z,verkauf,Dinkçi,2939,Bremen,,Kai,7384920,6659169,725751,10.9,history_players_naeherung
+13077931517,2026-10-16T17:53:17Z,verkauf,Onyedika,16369,Frankfurt,,Kai,8455793,7766950,688843,8.9,history_players_naeherung
