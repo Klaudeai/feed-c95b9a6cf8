@@ -838,3 +838,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13077931517,2026-10-16T17:53:17Z,verkauf,Onyedika,16369,Frankfurt,,Kai,8455793,7766950,688843,8.9,history_players_naeherung
 13081125470,2026-10-17T01:29:01Z,kauf,Wolf,1809,Augsburg,Paul Block,,7639279,7160518,478761,6.7,history_players_naeherung
 13082074934,2026-10-17T04:34:42Z,kauf,Poreba,7278,Elversberg,Jonnhji,,9328563,8578457,750106,8.7,history_players_naeherung
+13083851117,2026-10-17T08:59:17Z,verkauf,Uzun,6081,Frankfurt,,Aaron,25986177,25821186,164991,0.6,history_players_naeherung
