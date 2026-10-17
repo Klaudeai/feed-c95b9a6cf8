@@ -836,3 +836,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13077925436,2026-10-16T17:53:08Z,verkauf,Tillman,2846,Leverkusen,,Kai,6703685,6136688,566997,9.2,history_players_naeherung
 13077925991,2026-10-16T17:53:11Z,verkauf,Dinkçi,2939,Bremen,,Kai,7384920,6659169,725751,10.9,history_players_naeherung
 13077931517,2026-10-16T17:53:17Z,verkauf,Onyedika,16369,Frankfurt,,Kai,8455793,7766950,688843,8.9,history_players_naeherung
+13081125470,2026-10-17T01:29:01Z,kauf,Wolf,1809,Augsburg,Paul Block,,7639279,7160518,478761,6.7,history_players_naeherung
