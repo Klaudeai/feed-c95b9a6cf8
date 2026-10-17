@@ -846,3 +846,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13087950083,2026-10-17T20:10:17Z,verkauf,Vázquez,3754,Leverkusen,,nico,2423146,2070228,352918,17.0,history_players_naeherung
 13088509820,2026-10-17T21:44:45Z,kauf,Treu,6209,Freiburg,Aaron,,14000001,13374943,625058,4.7,history_players_naeherung
 13089088475,2026-10-17T22:52:03Z,kauf,Maloney,2399,Mainz,nico,,1400400,583924,816476,139.8,history_players_naeherung
+13089258326,2026-10-17T23:15:13Z,verkauf,Gruber,10122,Mainz,,Felix,10811225,10698382,112843,1.1,history_players_naeherung
