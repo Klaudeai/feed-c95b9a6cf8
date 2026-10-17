@@ -841,3 +841,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13083851117,2026-10-17T08:59:17Z,verkauf,Uzun,6081,Frankfurt,,Aaron,25986177,25821186,164991,0.6,history_players_naeherung
 13083893900,2026-10-17T09:06:30Z,kauf,Bah,9754,Augsburg,schwungzent,,5200000,1981785,3218215,162.4,history_players_naeherung
 13085825756,2026-10-17T14:20:15Z,verkauf,Querfeld,7723,Union Berlin,,Maurice,10795526,12873587,-2078061,-16.1,history_players_naeherung
+13086111326,2026-10-17T15:07:43Z,verkauf,Karetsas,16378,Dortmund,,nico,25518992,26076173,-557181,-2.1,history_players_naeherung
