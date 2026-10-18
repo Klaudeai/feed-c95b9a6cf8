@@ -61,3 +61,5 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 17306,Kastriot Imeri,Union Berlin,MF,3230563,2251563,43.5,1,2026-10-14T01:45:00+00:00,2026-10-12T23:43:41+00:00,2026-10-13T01:23:05+00:00,verloren,2026-10-14T01:45:46Z,2869999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 16369,Raphael Onyedika,Frankfurt,MF,7820003,7766950,0.7,1,2026-10-13T17:55:00+00:00,2026-10-13T14:01:10+00:00,2026-10-13T14:01:10+00:00,gewonnen,2026-10-13T17:56:09Z,7820003,ich,eigener Kauf in squad.json gefunden
 7282,Olivier Deman,Bremen,ABW,11169111,10077205,10.8,1,2026-10-16T06:39:00+00:00,2026-10-15T13:31:02+00:00,2026-10-15T13:31:02+00:00,gewonnen,2026-10-16T06:39:29Z,11169111,ich,eigener Kauf in squad.json gefunden
+620,Alexander Schwolow,Mainz,TW,7510030,7384320,1.7,1,2026-10-18T01:30:00+00:00,2026-10-18T01:00:59+00:00,2026-10-18T01:00:59+00:00,offen,,,,
+2687,Christopher Nkunku,Leipzig,ST,25100036,24902005,0.8,1,2026-10-18T02:20:00+00:00,2026-10-18T01:00:59+00:00,2026-10-18T01:00:59+00:00,offen,,,,
