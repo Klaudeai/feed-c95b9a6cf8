@@ -852,3 +852,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13091049944,2026-10-18T04:52:47Z,kauf,Mane,9440,Dortmund,nico,,2198999,676748,1522251,224.9,history_players_naeherung
 13092469604,2026-10-18T08:23:19Z,verkauf,Gnabry,1961,Bayern,,nico,15561941,15439684,122257,0.8,history_players_naeherung
 13094769575,2026-10-18T14:41:18Z,kauf,Krauß,2358,Köln,Kai,,7610036,6243782,1366254,21.9,history_players_naeherung
+13097695703,2026-10-18T22:29:05Z,kauf,Grifo,118,Freiburg,nico,,6386580,5077144,1309436,25.8,history_players_naeherung
