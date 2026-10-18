@@ -63,3 +63,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 7282,Olivier Deman,Bremen,ABW,11169111,10077205,10.8,1,2026-10-16T06:39:00+00:00,2026-10-15T13:31:02+00:00,2026-10-15T13:31:02+00:00,gewonnen,2026-10-16T06:39:29Z,11169111,ich,eigener Kauf in squad.json gefunden
 620,Alexander Schwolow,Mainz,TW,7510030,7384320,1.7,1,2026-10-18T01:30:00+00:00,2026-10-18T01:00:59+00:00,2026-10-18T01:00:59+00:00,verloren,2026-10-18T01:30:45Z,7723230,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
 2687,Christopher Nkunku,Leipzig,ST,25100036,24902005,0.8,1,2026-10-18T02:20:00+00:00,2026-10-18T01:00:59+00:00,2026-10-18T02:01:02+00:00,verloren,2026-10-18T02:20:55Z,28444999,Felix,Kauf durch anderen Manager im Transfer-Archiv gefunden
+2358,Tom Krauß,Köln,MF,7610036,7399787,2.8,1,2026-10-18T14:40:00+00:00,2026-10-18T13:30:52+00:00,2026-10-18T13:30:52+00:00,offen,,,,
