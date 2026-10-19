@@ -859,3 +859,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13102980407,2026-10-19T12:49:48Z,kauf,Burcu,8381,Union Berlin,Kai,,3651130,1972140,1678990,85.1,history_players_naeherung
 13108224731,2026-10-19T17:01:21Z,kauf,Brown,3543,Bayern,Felix,,16222299,15337348,884951,5.8,history_players_naeherung
 13109364632,2026-10-19T17:08:28Z,kauf,Da Costa,1540,Mainz,nico,,5565600,5448276,117324,2.2,history_players_naeherung
+13114919885,2026-10-19T17:31:22Z,verkauf,Prömel,1671,Stuttgart,,Paul Block,12837581,14546286,-1708705,-11.7,history_players_naeherung
