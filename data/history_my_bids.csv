@@ -68,3 +68,7 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 11007,Cyriaque Irié,Freiburg,MF,1520036,1234625,23.1,1,2026-10-19T09:16:00+00:00,2026-10-19T06:30:52+00:00,2026-10-19T06:30:52+00:00,verloren,2026-10-19T09:17:07Z,1950000,schwungzent,Kauf durch anderen Manager im Transfer-Archiv gefunden
 1540,Danny Da Costa,Mainz,ABW,5230002,5095720,2.6,1,2026-10-19T17:08:00+00:00,2026-10-19T10:01:04+00:00,2026-10-19T15:01:08+00:00,verloren,2026-10-19T17:08:28Z,5565600,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
 3543,Nathaniel Brown,Bayern,ABW,15686000,15640321,0.3,1,2026-10-19T17:01:00+00:00,2026-10-19T15:01:08+00:00,2026-10-19T15:01:08+00:00,verloren,2026-10-19T17:01:21Z,16222299,Felix,Kauf durch anderen Manager im Transfer-Archiv gefunden
+2214,Atakan Karazor,Stuttgart,MF,7110632,6538790,8.7,1,2026-10-19T21:21:00+00:00,2026-10-19T21:00:59+00:00,2026-10-19T21:00:59+00:00,offen,,,,
+2247,Borna Sosa,Köln,ABW,7210368,5471876,31.8,1,2026-10-20T07:00:00+00:00,2026-10-19T21:00:59+00:00,2026-10-19T21:00:59+00:00,offen,,,,
+4654,Mert Kömür,Augsburg,MF,4700362,4416005,6.4,1,2026-10-20T03:36:00+00:00,2026-10-19T21:00:59+00:00,2026-10-19T21:00:59+00:00,offen,,,,
+7277,Farès Chaïbi,Frankfurt,MF,4604528,4239481,8.6,1,2026-10-20T06:40:00+00:00,2026-10-19T21:00:59+00:00,2026-10-19T21:00:59+00:00,offen,,,,
