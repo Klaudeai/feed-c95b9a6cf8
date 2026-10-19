@@ -862,3 +862,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13114919885,2026-10-19T17:31:22Z,verkauf,Prömel,1671,Stuttgart,,Paul Block,12837581,14546286,-1708705,-11.7,history_players_naeherung
 13118605280,2026-10-19T19:08:29Z,kauf,Scherhant,4335,Freiburg,1. FC Infantino,Aaron,19000000,17085676,1914324,11.2,history_players_naeherung
 13118707010,2026-10-19T19:22:05Z,verkauf,Veerman,7737,Dortmund,,1. FC Infantino,14642269,16761819,-2119550,-12.6,history_players_naeherung
+13119460205,2026-10-19T21:21:59Z,kauf,Karazor,2214,Stuttgart,Paul Block,,7689999,4933420,2756579,55.9,history_players_naeherung
