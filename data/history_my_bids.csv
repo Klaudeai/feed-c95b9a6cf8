@@ -72,3 +72,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 2247,Borna Sosa,Köln,ABW,7210368,5471876,31.8,1,2026-10-20T07:00:00+00:00,2026-10-19T21:00:59+00:00,2026-10-20T04:01:07+00:00,gewonnen,2026-10-20T07:00:53Z,7210368,ich,eigener Kauf in squad.json gefunden
 4654,Mert Kömür,Augsburg,MF,4700362,4416005,6.4,1,2026-10-20T03:36:00+00:00,2026-10-19T21:00:59+00:00,2026-10-19T21:30:52+00:00,verloren,2026-10-20T03:36:59Z,4727999,Jonnhji,Kauf durch anderen Manager im Transfer-Archiv gefunden
 7277,Farès Chaïbi,Frankfurt,MF,4604528,4239481,8.6,1,2026-10-20T06:40:00+00:00,2026-10-19T21:00:59+00:00,2026-10-20T04:01:07+00:00,verloren,2026-10-20T06:40:39Z,5100000,schwungzent,Kauf durch anderen Manager im Transfer-Archiv gefunden
+6160,Nicolas Kristof,Elversberg,TW,11230000,11209646,0.2,1,2026-10-20T13:04:00+00:00,2026-10-20T12:01:08+00:00,2026-10-20T12:01:08+00:00,offen,,,,
