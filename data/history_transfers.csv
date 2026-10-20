@@ -872,3 +872,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13123874525,2026-10-20T09:04:55Z,kauf,Albert,11101,Dortmund,Jonnhji,,857999,623685,234314,37.6,history_players_naeherung
 13124105426,2026-10-20T09:44:23Z,verkauf,Wolf,1809,Augsburg,,Paul Block,7316318,7316318,0,0.0,history_players_naeherung
 13125056000,2026-10-20T12:33:00Z,kauf,El Mala,8274,Köln,Aaron,,21000001,20894266,105735,0.5,history_players_naeherung
+13125228089,2026-10-20T13:04:54Z,kauf,Kristof,6160,Elversberg,nico,,11350090,11209646,140444,1.3,history_players_naeherung
