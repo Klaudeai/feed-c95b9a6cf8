@@ -877,3 +877,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13127302202,2026-10-20T17:46:26Z,kauf,Reitz,2897,Leipzig,nico,,11500000,10311746,1188254,11.5,history_players_naeherung
 13128304511,2026-10-20T20:44:09Z,kauf,Schmahl,8296,Elversberg,Paul Block,,1109999,766740,343259,44.8,history_players_naeherung
 13131362933,2026-10-21T05:23:04Z,verkauf,Pieringer,3027,Paderborn,,Aaron,4905564,5335952,-430388,-8.1,history_players_naeherung
+13133443121,2026-10-21T10:47:06Z,kauf,Machino,6199,M'gladbach,Jonnhji,,3814659,3846099,-31440,-0.8,history_players_naeherung
