@@ -882,3 +882,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13137009488,2026-10-21T21:21:24Z,verkauf,Poreba,7278,Elversberg,,Jonnhji,9364308,9310310,53998,0.6,history_players_naeherung
 13137009527,2026-10-21T21:21:27Z,verkauf,Millgramm,12262,Paderborn,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
 13137009560,2026-10-21T21:21:30Z,verkauf,Machino,6199,M'gladbach,,Jonnhji,3775585,3846099,-70514,-1.8,history_players_naeherung
+13137196493,2026-10-21T21:57:41Z,kauf,Burcu,8381,Union Berlin,Jonnhji,Kai,4300000,3613609,686391,19.0,history_players_naeherung
