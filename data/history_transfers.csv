@@ -879,3 +879,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13131362933,2026-10-21T05:23:04Z,verkauf,Pieringer,3027,Paderborn,,Aaron,4905564,5335952,-430388,-8.1,history_players_naeherung
 13133443121,2026-10-21T10:47:06Z,kauf,Machino,6199,M'gladbach,Jonnhji,,3814659,3846099,-31440,-0.8,history_players_naeherung
 13136105765,2026-10-21T18:47:00Z,kauf,Boey,7498,Bayern,Kai,,1007852,623934,383918,61.5,history_players_naeherung
+13137009488,2026-10-21T21:21:24Z,verkauf,Poreba,7278,Elversberg,,Jonnhji,9364308,9310310,53998,0.6,history_players_naeherung
+13137009527,2026-10-21T21:21:27Z,verkauf,Millgramm,12262,Paderborn,,Jonnhji,500000,500000,0,0.0,history_players_naeherung
+13137009560,2026-10-21T21:21:30Z,verkauf,Machino,6199,M'gladbach,,Jonnhji,3775585,3846099,-70514,-1.8,history_players_naeherung
