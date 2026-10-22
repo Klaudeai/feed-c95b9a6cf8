@@ -886,3 +886,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13137862124,2026-10-21T23:34:22Z,kauf,Capaldo,11512,Hamburg,Felix,,10333999,8970127,1363872,15.2,history_players_naeherung
 13137890504,2026-10-21T23:39:26Z,kauf,Ullrich,4333,M'gladbach,Jonnhji,,7127999,6441020,686979,10.7,history_players_naeherung
 13139515646,2026-10-22T04:43:29Z,kauf,Füllkrug,608,Bremen,Paul Block,,24109999,18220541,5889458,32.3,history_players_naeherung
+13140172487,2026-10-22T06:06:07Z,kauf,Ayhan,10916,Schalke,Aaron,,900000,1166335,-266335,-22.8,history_players_naeherung
+13140237923,2026-10-22T06:14:34Z,kauf,Schwolow,620,Mainz,Paul Block,nico,9500000,8084534,1415466,17.5,history_players_naeherung
+13140297599,2026-10-22T06:23:19Z,kauf,Gadou,15211,Dortmund,Paul Block,,22559999,22011871,548128,2.5,history_players_naeherung
