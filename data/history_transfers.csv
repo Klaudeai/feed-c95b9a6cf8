@@ -885,3 +885,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13137196493,2026-10-21T21:57:41Z,kauf,Burcu,8381,Union Berlin,Jonnhji,Kai,4300000,3613609,686391,19.0,history_players_naeherung
 13137862124,2026-10-21T23:34:22Z,kauf,Capaldo,11512,Hamburg,Felix,,10333999,8970127,1363872,15.2,history_players_naeherung
 13137890504,2026-10-21T23:39:26Z,kauf,Ullrich,4333,M'gladbach,Jonnhji,,7127999,6441020,686979,10.7,history_players_naeherung
+13139515646,2026-10-22T04:43:29Z,kauf,Füllkrug,608,Bremen,Paul Block,,24109999,18220541,5889458,32.3,history_players_naeherung
