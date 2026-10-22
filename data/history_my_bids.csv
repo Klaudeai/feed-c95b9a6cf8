@@ -77,5 +77,5 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 8296,Frederik Schmahl,Elversberg,MF,947000,766740,23.5,1,2026-10-20T20:43:00+00:00,2026-10-20T17:47:04+00:00,2026-10-20T17:47:04+00:00,verloren,2026-10-20T20:44:09Z,1109999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 8227,Maarten Vandevoordt,Leipzig,TW,18720420,17757333,5.4,1,2026-10-22T11:02:00+00:00,2026-10-21T08:01:54+00:00,2026-10-22T05:00:55+00:00,gewonnen,2026-10-22T11:02:56Z,18720420,ich,eigener Kauf in squad.json gefunden
 7498,Sacha Boey,Bayern,ABW,1007852,912941,10.4,1,2026-10-21T18:46:00+00:00,2026-10-21T18:31:00+00:00,2026-10-21T18:31:00+00:00,gewonnen,2026-10-21T18:47:00Z,1007852,ich,eigener Kauf in squad.json gefunden
-9540,Isac Lidberg,M'gladbach,ST,5721000,5688166,0.6,1,2026-10-22T16:28:00+00:00,2026-10-22T11:30:54+00:00,2026-10-22T11:30:54+00:00,offen,,,,
-11752,Warmed Omari,Hamburg,ABW,5376000,5288353,1.7,1,2026-10-22T14:32:00+00:00,2026-10-22T11:30:54+00:00,2026-10-22T11:30:54+00:00,offen,,,,
+9540,Isac Lidberg,M'gladbach,ST,5721000,5688166,0.6,1,2026-10-22T16:28:00+00:00,2026-10-22T11:30:54+00:00,2026-10-22T11:30:54+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+11752,Warmed Omari,Hamburg,ABW,5376000,5288353,1.7,1,2026-10-22T14:32:00+00:00,2026-10-22T11:30:54+00:00,2026-10-22T12:31:02+00:00,offen,,,,
