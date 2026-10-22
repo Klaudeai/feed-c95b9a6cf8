@@ -892,3 +892,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13140382835,2026-10-22T06:35:45Z,verkauf,Backhaus,3218,Freiburg,,Paul Block,12293634,12589114,-295480,-2.3,history_players_naeherung
 13142067740,2026-10-22T11:02:56Z,kauf,Vandevoordt,8227,Leipzig,Kai,,18720420,17434538,1285882,7.4,history_players_naeherung
 13142851817,2026-10-22T13:26:06Z,verkauf,Lemperle,2803,Hoffenheim,,Paul Block,11079866,11087488,-7622,-0.1,history_players_naeherung
+13143237779,2026-10-22T14:32:45Z,kauf,Omari,11752,Hamburg,Felix,,6222999,4380975,1842024,42.0,history_players_naeherung
+13143287342,2026-10-22T14:41:26Z,verkauf,Vagnoman,2199,Stuttgart,,schwungzent,15239130,15103923,135207,0.9,history_players_naeherung
+13143291974,2026-10-22T14:42:18Z,verkauf,Diks,11010,M'gladbach,,Felix,9057344,9453960,-396616,-4.2,history_players_naeherung
