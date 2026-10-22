@@ -890,3 +890,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13140237923,2026-10-22T06:14:34Z,kauf,Schwolow,620,Mainz,Paul Block,nico,9500000,8084534,1415466,17.5,history_players_naeherung
 13140297599,2026-10-22T06:23:19Z,kauf,Gadou,15211,Dortmund,Paul Block,,22559999,22011871,548128,2.5,history_players_naeherung
 13140382835,2026-10-22T06:35:45Z,verkauf,Backhaus,3218,Freiburg,,Paul Block,12293634,12589114,-295480,-2.3,history_players_naeherung
+13142067740,2026-10-22T11:02:56Z,kauf,Vandevoordt,8227,Leipzig,Kai,,18720420,17434538,1285882,7.4,history_players_naeherung
