@@ -896,3 +896,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13143287342,2026-10-22T14:41:26Z,verkauf,Vagnoman,2199,Stuttgart,,schwungzent,15239130,15103923,135207,0.9,history_players_naeherung
 13143291974,2026-10-22T14:42:18Z,verkauf,Diks,11010,M'gladbach,,Felix,9057344,9453960,-396616,-4.2,history_players_naeherung
 13144384226,2026-10-22T16:28:37Z,kauf,Lidberg,9540,M'gladbach,Paul Block,,5699999,5169876,530123,10.3,history_players_naeherung
+13144443992,2026-10-22T16:39:59Z,verkauf,Lidberg,9540,M'gladbach,,Paul Block,5688166,5169876,518290,10.0,history_players_naeherung
