@@ -898,3 +898,10 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13144384226,2026-10-22T16:28:37Z,kauf,Lidberg,9540,M'gladbach,Paul Block,,5699999,5169876,530123,10.3,history_players_naeherung
 13144443992,2026-10-22T16:39:59Z,verkauf,Lidberg,9540,M'gladbach,,Paul Block,5688166,5169876,518290,10.0,history_players_naeherung
 13145061212,2026-10-22T18:36:33Z,kauf,Amoako,7394,Hamburg,Jonnhji,,3858999,3631984,227015,6.3,history_players_naeherung
+13145778188,2026-10-22T20:12:27Z,verkauf,Mane,9440,Dortmund,,nico,3461283,2447304,1013979,41.4,history_players_naeherung
+13145778581,2026-10-22T20:12:29Z,kauf,Tapsoba,2783,Leverkusen,schwungzent,Paul Block,28200000,26353313,1846687,7.0,history_players_naeherung
+13145778791,2026-10-22T20:12:30Z,verkauf,Maloney,2399,Mainz,,nico,2920891,2001936,918955,45.9,history_players_naeherung
+13145779292,2026-10-22T20:12:32Z,verkauf,Grifo,118,Freiburg,,nico,7229347,6482541,746806,11.5,history_players_naeherung
+13145795567,2026-10-22T20:13:36Z,verkauf,Irié,11007,Freiburg,,schwungzent,2627399,1583001,1044398,66.0,history_players_naeherung
+13145796650,2026-10-22T20:13:41Z,verkauf,Bah,9754,Augsburg,,schwungzent,6363643,5455366,908277,16.6,history_players_naeherung
+13145825420,2026-10-22T20:15:32Z,verkauf,Aouchiche,13448,Schalke,,schwungzent,11185000,10947994,237006,2.2,history_players_naeherung
