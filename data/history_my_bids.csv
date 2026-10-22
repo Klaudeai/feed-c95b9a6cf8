@@ -73,7 +73,7 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 4654,Mert Kömür,Augsburg,MF,4700362,4416005,6.4,1,2026-10-20T03:36:00+00:00,2026-10-19T21:00:59+00:00,2026-10-19T21:30:52+00:00,verloren,2026-10-20T03:36:59Z,4727999,Jonnhji,Kauf durch anderen Manager im Transfer-Archiv gefunden
 7277,Farès Chaïbi,Frankfurt,MF,4604528,4239481,8.6,1,2026-10-20T06:40:00+00:00,2026-10-19T21:00:59+00:00,2026-10-20T04:01:07+00:00,verloren,2026-10-20T06:40:39Z,5100000,schwungzent,Kauf durch anderen Manager im Transfer-Archiv gefunden
 6160,Nicolas Kristof,Elversberg,TW,11230000,11209646,0.2,1,2026-10-20T13:04:00+00:00,2026-10-20T12:01:08+00:00,2026-10-20T12:01:08+00:00,verloren,2026-10-20T13:04:54Z,11350090,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
-608,Niclas Füllkrug,Bremen,ST,18800367,18459544,1.8,1,2026-10-22T04:43:00+00:00,2026-10-20T17:47:04+00:00,2026-10-21T19:01:06+00:00,offen,,,,
+608,Niclas Füllkrug,Bremen,ST,18800367,18459544,1.8,1,2026-10-22T04:43:00+00:00,2026-10-20T17:47:04+00:00,2026-10-21T19:01:06+00:00,verloren,2026-10-22T04:43:29Z,24109999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 8296,Frederik Schmahl,Elversberg,MF,947000,766740,23.5,1,2026-10-20T20:43:00+00:00,2026-10-20T17:47:04+00:00,2026-10-20T17:47:04+00:00,verloren,2026-10-20T20:44:09Z,1109999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
-8227,Maarten Vandevoordt,Leipzig,TW,18720420,17605070,6.3,1,2026-10-22T11:02:00+00:00,2026-10-21T08:01:54+00:00,2026-10-21T19:01:06+00:00,offen,,,,
+8227,Maarten Vandevoordt,Leipzig,TW,18720420,17757333,5.4,1,2026-10-22T11:02:00+00:00,2026-10-21T08:01:54+00:00,2026-10-22T05:00:55+00:00,offen,,,,
 7498,Sacha Boey,Bayern,ABW,1007852,912941,10.4,1,2026-10-21T18:46:00+00:00,2026-10-21T18:31:00+00:00,2026-10-21T18:31:00+00:00,gewonnen,2026-10-21T18:47:00Z,1007852,ich,eigener Kauf in squad.json gefunden
