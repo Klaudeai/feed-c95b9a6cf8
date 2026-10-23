@@ -908,3 +908,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13146423770,2026-10-22T21:19:10Z,kauf,Burkardt,2255,Frankfurt,nico,Aaron,27200000,26389295,810705,3.1,history_players_naeherung
 13147795520,2026-10-23T00:47:32Z,kauf,Schäfer,3187,Union Berlin,schwungzent,,6069825,4906488,1163337,23.7,history_players_naeherung
 13150077554,2026-10-23T06:30:15Z,kauf,Stöger,619,M'gladbach,Aaron,,3700000,4037067,-337067,-8.3,history_players_naeherung
+13150206593,2026-10-23T06:46:09Z,kauf,Hendriks,8247,Stuttgart,Jonnhji,Felix,8700000,7215302,1484698,20.6,history_players_naeherung
+13150207361,2026-10-23T06:46:22Z,verkauf,Saibari,14251,Bayern,,Felix,28665755,28543002,122753,0.4,history_players_naeherung
