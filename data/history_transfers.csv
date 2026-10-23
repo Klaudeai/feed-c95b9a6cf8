@@ -911,3 +911,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13150206593,2026-10-23T06:46:09Z,kauf,Hendriks,8247,Stuttgart,Jonnhji,Felix,8700000,7215302,1484698,20.6,history_players_naeherung
 13150207361,2026-10-23T06:46:22Z,verkauf,Saibari,14251,Bayern,,Felix,28665755,28543002,122753,0.4,history_players_naeherung
 13150548716,2026-10-23T07:28:41Z,verkauf,Chaïbi,7277,Frankfurt,,schwungzent,5448384,4239481,1208903,28.5,history_players_naeherung
+13150704515,2026-10-23T07:49:30Z,verkauf,Kömür,4654,Augsburg,,Jonnhji,5481228,4416005,1065223,24.1,history_players_naeherung
+13150705088,2026-10-23T07:49:37Z,verkauf,Ullrich,4333,M'gladbach,,Jonnhji,7337829,6441020,896809,13.9,history_players_naeherung
+13150708949,2026-10-23T07:49:51Z,verkauf,Burcu,8381,Union Berlin,,Jonnhji,4340366,3613609,726757,20.1,history_players_naeherung
+13150709114,2026-10-23T07:49:53Z,verkauf,Amoako,7394,Hamburg,,Jonnhji,3980548,3631984,348564,9.6,history_players_naeherung
+13150709228,2026-10-23T07:49:55Z,verkauf,Posch,2006,Mainz,,Jonnhji,11177504,10605627,571877,5.4,history_players_naeherung
