@@ -917,3 +917,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13150709114,2026-10-23T07:49:53Z,verkauf,Amoako,7394,Hamburg,,Jonnhji,3980548,3631984,348564,9.6,history_players_naeherung
 13150709228,2026-10-23T07:49:55Z,verkauf,Posch,2006,Mainz,,Jonnhji,11177504,10605627,571877,5.4,history_players_naeherung
 13154882357,2026-10-23T17:30:44Z,verkauf,Undav,7158,Stuttgart,,nico,29649903,29533564,116339,0.4,history_players_naeherung
+13154890607,2026-10-23T17:31:07Z,verkauf,Kristof,6160,Elversberg,,nico,11534635,11209646,324989,2.9,history_players_naeherung
+13155126554,2026-10-23T17:44:44Z,kauf,Sebulonsen,11570,Köln,Maurice,,5810000,4751662,1058338,22.3,history_players_naeherung
+13155257510,2026-10-23T17:52:51Z,verkauf,Krauß,2358,Köln,,Kai,8910569,8052134,858435,10.7,history_players_naeherung
+13155257906,2026-10-23T17:52:54Z,verkauf,Curda,6197,Paderborn,,Kai,10389904,10299043,90861,0.9,history_players_naeherung
+13155258377,2026-10-23T17:52:57Z,verkauf,Schwäbe,1580,Köln,,Kai,12652467,12510900,141567,1.1,history_players_naeherung
