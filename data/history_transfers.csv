@@ -910,3 +910,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13150077554,2026-10-23T06:30:15Z,kauf,Stöger,619,M'gladbach,Aaron,,3700000,4037067,-337067,-8.3,history_players_naeherung
 13150206593,2026-10-23T06:46:09Z,kauf,Hendriks,8247,Stuttgart,Jonnhji,Felix,8700000,7215302,1484698,20.6,history_players_naeherung
 13150207361,2026-10-23T06:46:22Z,verkauf,Saibari,14251,Bayern,,Felix,28665755,28543002,122753,0.4,history_players_naeherung
+13150548716,2026-10-23T07:28:41Z,verkauf,Chaïbi,7277,Frankfurt,,schwungzent,5448384,4239481,1208903,28.5,history_players_naeherung
