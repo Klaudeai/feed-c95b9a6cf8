@@ -923,3 +923,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13155257906,2026-10-23T17:52:54Z,verkauf,Curda,6197,Paderborn,,Kai,10389904,10299043,90861,0.9,history_players_naeherung
 13155258377,2026-10-23T17:52:57Z,verkauf,Schwäbe,1580,Köln,,Kai,12652467,12510900,141567,1.1,history_players_naeherung
 13155676310,2026-10-23T18:29:18Z,kauf,Hollerbach,6111,Mainz,Aaron,,3400000,3577233,-177233,-5.0,history_players_naeherung
+13155712061,2026-10-23T18:34:45Z,verkauf,Fleck,12243,M'gladbach,,Felix,500000,500000,0,0.0,history_players_naeherung
