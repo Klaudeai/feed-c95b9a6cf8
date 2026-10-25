@@ -938,3 +938,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13170716651,2026-10-25T12:46:35Z,kauf,Henrichs,1689,Leipzig,Jonnhji,,4959999,4930399,29600,0.6,history_players_naeherung
 13173230969,2026-10-25T19:47:31Z,kauf,Honorat,6319,M'gladbach,Paul Block,,3849999,3889253,-39254,-1.0,history_players_naeherung
 13174227725,2026-10-25T22:44:56Z,verkauf,Gyamerah,859,Elversberg,,nico,3807982,3909030,-101048,-2.6,history_players_naeherung
+13174244174,2026-10-25T22:48:36Z,verkauf,Reitz,2897,Leipzig,,nico,11673774,11429781,243993,2.1,history_players_naeherung
