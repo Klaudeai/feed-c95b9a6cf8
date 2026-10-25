@@ -935,3 +935,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13165519421,2026-10-24T22:05:20Z,verkauf,Gray,15301,Union Berlin,,nico,957154,968388,-11234,-1.2,history_players_naeherung
 13168183121,2026-10-25T06:02:38Z,kauf,Nebel,2895,Mainz,Paul Block,,6899999,5972139,927860,15.5,history_players_naeherung
 13169836211,2026-10-25T10:17:17Z,kauf,Tigges,2749,Paderborn,nico,,6123250,5463984,659266,12.1,history_players_naeherung
+13170716651,2026-10-25T12:46:35Z,kauf,Henrichs,1689,Leipzig,Jonnhji,,4959999,4930399,29600,0.6,history_players_naeherung
