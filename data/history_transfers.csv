@@ -940,3 +940,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13174227725,2026-10-25T22:44:56Z,verkauf,Gyamerah,859,Elversberg,,nico,3807982,3909030,-101048,-2.6,history_players_naeherung
 13174244174,2026-10-25T22:48:36Z,verkauf,Reitz,2897,Leipzig,,nico,11673774,11429781,243993,2.1,history_players_naeherung
 13175566112,2026-10-26T02:49:48Z,kauf,Castrop,2862,M'gladbach,nico,,3888980,3483008,405972,11.7,history_players_naeherung
+13176379250,2026-10-26T05:16:55Z,kauf,Skarke,2491,Union Berlin,Jonnhji,,4332559,4332554,5,0.0,history_players_naeherung
