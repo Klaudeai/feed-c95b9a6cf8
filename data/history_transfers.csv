@@ -946,3 +946,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13178555408,2026-10-26T10:30:26Z,kauf,Baumgartner,2275,Leipzig,nico,,15500000,10289727,5210273,50.6,history_players_naeherung
 13179217259,2026-10-26T12:26:36Z,kauf,Van den Bosch,14917,Union Berlin,Felix,,8777999,7857630,920369,11.7,history_players_naeherung
 13180343093,2026-10-26T15:55:24Z,kauf,Haberer,1553,Union Berlin,nico,,3800500,3683793,116707,3.2,history_players_naeherung
+13180514708,2026-10-26T16:28:03Z,verkauf,Brackelmann,7283,Augsburg,,Kai,13516840,13516840,0,0.0,history_players_naeherung
