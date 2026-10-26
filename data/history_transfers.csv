@@ -943,3 +943,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13176379250,2026-10-26T05:16:55Z,kauf,Skarke,2491,Union Berlin,Jonnhji,,4332559,4332554,5,0.0,history_players_naeherung
 13176749567,2026-10-26T06:03:55Z,kauf,Scally,2941,M'gladbach,Jonnhji,,6707999,6618061,89938,1.4,history_players_naeherung
 13177091162,2026-10-26T06:46:01Z,verkauf,Henrichs,1689,Leipzig,,Jonnhji,5031212,5031212,0,0.0,history_players_naeherung
+13178555408,2026-10-26T10:30:26Z,kauf,Baumgartner,2275,Leipzig,nico,,15500000,10289727,5210273,50.6,history_players_naeherung
