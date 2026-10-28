@@ -963,3 +963,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13204097102,2026-10-27T22:51:17Z,verkauf,Deman,7282,Bremen,,Kai,11428307,11704365,-276058,-2.4,history_players_naeherung
 13206076385,2026-10-28T04:55:01Z,kauf,Grüll,7721,Bremen,schwungzent,,19999999,16972116,3027883,17.8,history_players_naeherung
 13206523496,2026-10-28T05:55:13Z,kauf,Marino,3336,Paderborn,Kai,,6742069,6062868,679201,11.2,history_players_naeherung
+13206602147,2026-10-28T06:04:45Z,kauf,Prass,7717,Hoffenheim,Jonnhji,,6617999,6236817,381182,6.1,history_players_naeherung
+13206675689,2026-10-28T06:13:55Z,verkauf,Nadir,15478,Hamburg,,Jonnhji,5372468,5287752,84716,1.6,history_players_naeherung
