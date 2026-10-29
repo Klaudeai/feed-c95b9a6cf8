@@ -974,3 +974,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13212968744,2026-10-29T00:07:42Z,kauf,Schnitzer,12263,Augsburg,Jonnhji,,708999,500000,208999,41.8,history_players_naeherung
 13215117110,2026-10-29T06:27:59Z,verkauf,Stöger,619,M'gladbach,,Aaron,2878361,3144876,-266515,-8.5,history_players_naeherung
 13217698064,2026-10-29T13:28:44Z,verkauf,Stiller,2694,Stuttgart,,Jonnhji,28547534,28405953,141581,0.5,history_players_naeherung
+13217964791,2026-10-29T14:17:25Z,kauf,Makengo,7215,Freiburg,Jonnhji,,16077999,15677983,400016,2.6,history_players_naeherung
