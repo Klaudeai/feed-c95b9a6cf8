@@ -972,3 +972,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13212213308,2026-10-28T22:08:40Z,kauf,Pinckert,6148,Elversberg,Maurice,,15200000,14312196,887804,6.2,history_players_naeherung
 13212944906,2026-10-29T00:03:39Z,kauf,Rosenfelder,7216,Freiburg,Jonnhji,,1625999,938636,687363,73.2,history_players_naeherung
 13212968744,2026-10-29T00:07:42Z,kauf,Schnitzer,12263,Augsburg,Jonnhji,,708999,500000,208999,41.8,history_players_naeherung
+13215117110,2026-10-29T06:27:59Z,verkauf,Stöger,619,M'gladbach,,Aaron,2878361,3144876,-266515,-8.5,history_players_naeherung
