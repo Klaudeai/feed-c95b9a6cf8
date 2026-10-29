@@ -947,6 +947,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13179217259,2026-10-26T12:26:36Z,kauf,Van den Bosch,14917,Union Berlin,Felix,,8777999,7857630,920369,11.7,history_players_naeherung
 13180343093,2026-10-26T15:55:24Z,kauf,Haberer,1553,Union Berlin,nico,,3800500,3683793,116707,3.2,history_players_naeherung
 13180514708,2026-10-26T16:28:03Z,verkauf,Brackelmann,7283,Augsburg,,Kai,13516840,13516840,0,0.0,history_players_naeherung
+13180803734,2026-10-26T17:20:11Z,auto_verkauf_mvp,Olise,8329,Bayern,,nico,65053868,64880837,173031,0.3,history_players_naeherung
 13187475233,2026-10-26T18:14:35Z,kauf,Chukwuemeka,10114,Dortmund,Paul Block,,1969999,1762701,207298,11.8,history_players_naeherung
 13191797312,2026-10-26T18:33:59Z,verkauf,Schwolow,620,Mainz,,Paul Block,8963604,8963604,0,0.0,history_players_naeherung
 13194317486,2026-10-26T20:43:45Z,kauf,Nyland,1728,Leipzig,Paul Block,,1100009,597013,502996,84.3,history_players_naeherung
