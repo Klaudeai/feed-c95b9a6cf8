@@ -857,6 +857,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13100051822,2026-10-19T05:14:49Z,kauf,Tiago Tomás,3193,Stuttgart,Paul Block,,3738789,4247365,-508576,-12.0,history_players_naeherung
 13101735650,2026-10-19T09:17:07Z,kauf,Irié,11007,Freiburg,schwungzent,,1950000,1122787,827213,73.7,history_players_naeherung
 13102980407,2026-10-19T12:49:48Z,kauf,Burcu,8381,Union Berlin,Kai,,3651130,1972140,1678990,85.1,history_players_naeherung
+13104111557,2026-10-19T16:20:40Z,auto_verkauf_mvp,Díaz,11675,Bayern,,Jonnhji,47443899,47542256,-98357,-0.2,mv_history_exakt
 13108224731,2026-10-19T17:01:21Z,kauf,Brown,3543,Bayern,Felix,,16222299,15337348,884951,5.8,history_players_naeherung
 13109364632,2026-10-19T17:08:28Z,kauf,Da Costa,1540,Mainz,nico,,5565600,5448276,117324,2.2,history_players_naeherung
 13114919885,2026-10-19T17:31:22Z,verkauf,Prömel,1671,Stuttgart,,Paul Block,12837581,14546286,-1708705,-11.7,history_players_naeherung
