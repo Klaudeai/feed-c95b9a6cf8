@@ -979,3 +979,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13217964791,2026-10-29T14:17:25Z,kauf,Makengo,7215,Freiburg,Jonnhji,,16077999,15677983,400016,2.6,history_players_naeherung
 13218693407,2026-10-29T16:32:54Z,verkauf,Prass,7717,Hoffenheim,,Jonnhji,6855172,6236817,618355,9.9,history_players_naeherung
 13219892276,2026-10-29T20:22:13Z,kauf,Demirović,2854,Stuttgart,Jonnhji,,13777999,13337717,440282,3.3,history_players_naeherung
+13220181725,2026-10-29T21:09:02Z,verkauf,Coufal,7745,Hoffenheim,,schwungzent,22391644,21966166,425478,1.9,history_players_naeherung
+13220298410,2026-10-29T21:17:15Z,verkauf,Jóhannesson,7219,Köln,,nico,9567525,8663072,904453,10.4,history_players_naeherung
+13220308649,2026-10-29T21:17:54Z,verkauf,Hansen,6292,Paderborn,,nico,6727553,6053767,673786,11.1,history_players_naeherung
+13220310851,2026-10-29T21:18:10Z,verkauf,Tigges,2749,Paderborn,,nico,7494061,6565814,928247,14.1,history_players_naeherung
+13220312894,2026-10-29T21:18:24Z,verkauf,Da Costa,1540,Mainz,,nico,8359305,7529822,829483,11.0,history_players_naeherung
