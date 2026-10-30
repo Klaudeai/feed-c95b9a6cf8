@@ -994,3 +994,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13225701386,2026-10-30T10:24:32Z,verkauf,Treu,6209,Freiburg,,Aaron,14160530,14032772,127758,0.9,history_players_naeherung
 13227298145,2026-10-30T14:25:56Z,kauf,Burger,11631,Hoffenheim,nico,,18500009,15916717,2583292,16.2,history_players_naeherung
 13228805774,2026-10-30T17:32:05Z,kauf,Engelhardt,3209,Freiburg,Aaron,,13500001,13967534,-467533,-3.3,history_players_naeherung
+13229414441,2026-10-30T18:37:29Z,verkauf,Sebulonsen,11570,Köln,,Maurice,7407727,6600438,807289,12.2,history_players_naeherung
