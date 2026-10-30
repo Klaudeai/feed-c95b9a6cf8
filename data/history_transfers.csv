@@ -986,3 +986,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13220312894,2026-10-29T21:18:24Z,verkauf,Da Costa,1540,Mainz,,nico,8359305,7529822,829483,11.0,history_players_naeherung
 13220919386,2026-10-29T22:34:11Z,kauf,Ljubičić,3029,Schalke,nico,,2200050,895183,1304867,145.8,history_players_naeherung
 13221307235,2026-10-29T23:23:35Z,verkauf,Boey,7498,Bayern,,Kai,2011717,1893880,117837,6.2,history_players_naeherung
+13224902879,2026-10-30T08:31:04Z,verkauf,Rosenfelder,7216,Freiburg,,Jonnhji,1814309,938636,875673,93.3,history_players_naeherung
+13224902876,2026-10-30T08:31:04Z,verkauf,Adam,12317,Elversberg,,Jonnhji,3352851,2303560,1049291,45.6,history_players_naeherung
+13224902873,2026-10-30T08:31:04Z,kauf,Kade,3183,Augsburg,Aaron,Jonnhji,14600001,13892363,707638,5.1,history_players_naeherung
+13225023203,2026-10-30T08:47:13Z,kauf,Ryerson,2395,Dortmund,nico,,19100600,15497551,3603049,23.2,history_players_naeherung
