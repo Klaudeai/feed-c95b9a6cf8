@@ -999,3 +999,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13229772578,2026-10-30T19:02:40Z,verkauf,Marino,3336,Paderborn,,Kai,7006903,6062868,944035,15.6,history_players_naeherung
 13229773136,2026-10-30T19:02:46Z,verkauf,Assignon,11043,Stuttgart,,Kai,6357878,5539752,818126,14.8,history_players_naeherung
 13234922333,2026-10-31T09:13:08Z,kauf,Laimer,2038,Bayern,Paul Block,,22854269,22242401,611868,2.8,history_players_naeherung
+13237229261,2026-10-31T15:50:37Z,verkauf,Nyland,1728,Leipzig,,Paul Block,1827565,867420,960145,110.7,history_players_naeherung
+13237229384,2026-10-31T15:50:42Z,verkauf,Honorat,6319,M'gladbach,,Paul Block,4390295,3921677,468618,11.9,history_players_naeherung
+13237229948,2026-10-31T15:50:53Z,verkauf,Maksimović,9776,Leipzig,,Paul Block,7237705,6488668,749037,11.5,history_players_naeherung
