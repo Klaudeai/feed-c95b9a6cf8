@@ -1003,7 +1003,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13237229384,2026-10-31T15:50:42Z,verkauf,Honorat,6319,M'gladbach,,Paul Block,4390295,3921677,468618,11.9,history_players_naeherung
 13237229948,2026-10-31T15:50:53Z,verkauf,Maksimović,9776,Leipzig,,Paul Block,7237705,6488668,749037,11.5,history_players_naeherung
 13237958585,2026-10-31T17:58:53Z,kauf,Gruda,4596,Leipzig,Kai,,18767693,17144696,1622997,9.5,history_players_naeherung
-13238511485,2026-10-31T19:33:56Z,kauf,Abraha,14908,Hoffenheim,Paul Block,,850999,,,,unbekannt
+13238511485,2026-10-31T19:33:56Z,kauf,Abraha,14908,Hoffenheim,Paul Block,,850999,500000,350999,70.2,history_players_naeherung
 13238657000,2026-10-31T19:55:09Z,verkauf,Ulrich,3559,Paderborn,,Felix,7542290,6506808,1035482,15.9,history_players_naeherung
 13238657549,2026-10-31T19:55:33Z,verkauf,Omari,11752,Hamburg,,Felix,8178754,7241822,936932,12.9,history_players_naeherung
 13238662733,2026-10-31T19:55:51Z,verkauf,Nkunku,2687,Leipzig,,Felix,26237385,25961628,275757,1.1,history_players_naeherung
