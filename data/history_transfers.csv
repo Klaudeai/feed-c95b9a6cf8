@@ -1008,3 +1008,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13238657549,2026-10-31T19:55:33Z,verkauf,Omari,11752,Hamburg,,Felix,8178754,7241822,936932,12.9,history_players_naeherung
 13238662733,2026-10-31T19:55:51Z,verkauf,Nkunku,2687,Leipzig,,Felix,26237385,25961628,275757,1.1,history_players_naeherung
 13239097865,2026-10-31T21:11:35Z,verkauf,Haberer,1553,Union Berlin,,nico,4983985,3925725,1058260,27.0,history_players_naeherung
+13239563720,2026-10-31T22:34:43Z,kauf,Götze,1964,Paderborn,nico,,3666699,3159666,507033,16.0,history_players_naeherung
