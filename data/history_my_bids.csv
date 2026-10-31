@@ -94,3 +94,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3336,Stefano Marino,Paderborn,ST,6742069,6394005,5.4,1,2026-10-28T05:54:00+00:00,2026-10-27T23:58:39+00:00,2026-10-28T05:01:13+00:00,gewonnen,2026-10-28T05:55:13Z,6742069,ich,eigener Kauf in squad.json gefunden
 17288,Youri Regeer,Bremen,MF,14273888,13094087,9.0,1,2026-10-28T15:24:00+00:00,2026-10-28T08:01:05+00:00,2026-10-28T10:30:55+00:00,gewonnen,2026-10-28T15:24:46Z,14273888,ich,eigener Kauf in squad.json gefunden
 3029,Dejan Ljubičić,Schalke,MF,1432000,1430669,0.1,1,2026-10-29T22:34:00+00:00,2026-10-29T22:31:02+00:00,2026-10-29T22:31:02+00:00,verloren,2026-10-29T22:34:11Z,2200050,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
+4596,Brajan Gruda,Leipzig,MF,18767693,17976567,4.4,1,2026-10-31T17:58:00+00:00,2026-10-31T11:31:02+00:00,2026-10-31T11:31:02+00:00,offen,,,,
