@@ -1002,3 +1002,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13237229261,2026-10-31T15:50:37Z,verkauf,Nyland,1728,Leipzig,,Paul Block,1827565,867420,960145,110.7,history_players_naeherung
 13237229384,2026-10-31T15:50:42Z,verkauf,Honorat,6319,M'gladbach,,Paul Block,4390295,3921677,468618,11.9,history_players_naeherung
 13237229948,2026-10-31T15:50:53Z,verkauf,Maksimović,9776,Leipzig,,Paul Block,7237705,6488668,749037,11.5,history_players_naeherung
+13237958585,2026-10-31T17:58:53Z,kauf,Gruda,4596,Leipzig,Kai,,18767693,17144696,1622997,9.5,history_players_naeherung
