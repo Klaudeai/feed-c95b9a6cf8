@@ -1012,3 +1012,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13240094936,2026-10-31T23:42:33Z,kauf,Fábio Silva,9698,Dortmund,nico,,9500500,9391620,108880,1.2,history_players_naeherung
 13240661216,2026-11-01T01:09:23Z,kauf,Atubolu,3019,Frankfurt,Paul Block,,14085999,14042066,43933,0.3,history_players_naeherung
 13241274905,2026-11-01T03:07:44Z,kauf,Karl,10789,Bayern,Felix,,15999999,14746449,1253550,8.5,history_players_naeherung
+13243347815,2026-11-01T09:11:47Z,verkauf,Mwene,2232,Mainz,,Aaron,11289628,11695848,-406220,-3.5,history_players_naeherung
