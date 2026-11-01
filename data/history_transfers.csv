@@ -1010,3 +1010,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13239097865,2026-10-31T21:11:35Z,verkauf,Haberer,1553,Union Berlin,,nico,4983985,3925725,1058260,27.0,history_players_naeherung
 13239563720,2026-10-31T22:34:43Z,kauf,Götze,1964,Paderborn,nico,,3666699,3159666,507033,16.0,history_players_naeherung
 13240094936,2026-10-31T23:42:33Z,kauf,Fábio Silva,9698,Dortmund,nico,,9500500,9391620,108880,1.2,history_players_naeherung
+13240661216,2026-11-01T01:09:23Z,kauf,Atubolu,3019,Frankfurt,Paul Block,,14085999,14042066,43933,0.3,history_players_naeherung
