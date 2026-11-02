@@ -1019,3 +1019,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13249147310,2026-11-02T01:25:07Z,kauf,Urbig,3072,Bayern,Jonnhji,,7739999,7621307,118692,1.6,history_players_naeherung
 13249239710,2026-11-02T01:44:52Z,kauf,Daka,15472,Hamburg,Jonnhji,,1577999,1129703,448296,39.7,history_players_naeherung
 13249532399,2026-11-02T02:47:06Z,kauf,Nandja,11949,Hamburg,Jonnhji,,2537999,1803330,734669,40.7,history_players_naeherung
+13254776914,2026-11-02T17:21:26Z,auto_verkauf_mvp,Nusa,9507,Leipzig,,nico,30587435,30452417,135018,0.4,history_players_naeherung
