@@ -96,4 +96,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3029,Dejan Ljubičić,Schalke,MF,1432000,1430669,0.1,1,2026-10-29T22:34:00+00:00,2026-10-29T22:31:02+00:00,2026-10-29T22:31:02+00:00,verloren,2026-10-29T22:34:11Z,2200050,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
 4596,Brajan Gruda,Leipzig,MF,18767693,17976567,4.4,1,2026-10-31T17:58:00+00:00,2026-10-31T11:31:02+00:00,2026-10-31T11:31:02+00:00,gewonnen,2026-10-31T17:58:53Z,18767693,ich,eigener Kauf in squad.json gefunden
 14896,Abdoul Koné,Leipzig,ABW,2820069,2684385,5.1,1,2026-11-02T17:51:00+00:00,2026-11-02T14:01:07+00:00,2026-11-02T14:01:07+00:00,verloren,2026-11-02T17:51:35Z,3089999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
-10134,Mick Schmetgens,Bremen,ABW,2686666,2340558,14.8,1,2026-11-03T10:43:00+00:00,2026-11-03T08:01:29+00:00,2026-11-03T08:01:29+00:00,offen,,,,
+10134,Mick Schmetgens,Bremen,ABW,3162222,2340558,35.1,1,2026-11-03T10:43:00+00:00,2026-11-03T08:01:29+00:00,2026-11-03T08:30:57+00:00,offen,,,,
