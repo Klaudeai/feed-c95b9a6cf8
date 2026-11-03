@@ -1024,3 +1024,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13268126266,2026-11-02T21:30:29Z,verkauf,Castrop,2862,M'gladbach,,nico,5273341,5128242,145099,2.8,history_players_naeherung
 13269150943,2026-11-03T00:11:48Z,kauf,Becker,2762,Schalke,nico,,6767000,6562002,204998,3.1,history_players_naeherung
 13272028642,2026-11-03T07:59:42Z,kauf,Beier,2714,Dortmund,nico,,22002000,21822003,179997,0.8,history_players_naeherung
+13272991360,2026-11-03T10:36:12Z,kauf,Sander,2560,M'gladbach,Felix,,9444999,8873484,571515,6.4,history_players_naeherung
+13273032139,2026-11-03T10:43:17Z,kauf,Schmetgens,10134,Bremen,Kai,,3162222,2340558,821664,35.1,history_players_naeherung
