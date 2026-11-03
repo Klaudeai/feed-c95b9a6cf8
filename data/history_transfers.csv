@@ -1026,3 +1026,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13272028642,2026-11-03T07:59:42Z,kauf,Beier,2714,Dortmund,nico,,22002000,21822003,179997,0.8,history_players_naeherung
 13272991360,2026-11-03T10:36:12Z,kauf,Sander,2560,M'gladbach,Felix,,9444999,8873484,571515,6.4,history_players_naeherung
 13273032139,2026-11-03T10:43:17Z,kauf,Schmetgens,10134,Bremen,Kai,,3162222,2340558,821664,35.1,history_players_naeherung
+13273407841,2026-11-03T11:48:15Z,verkauf,Van den Bosch,14917,Union Berlin,,Felix,8474613,8474613,0,0.0,history_players_naeherung
