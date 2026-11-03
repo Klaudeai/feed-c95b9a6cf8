@@ -1023,3 +1023,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13255646527,2026-11-02T17:51:35Z,kauf,Koné,14896,Leipzig,Paul Block,,3089999,2321055,768944,33.1,history_players_naeherung
 13268126266,2026-11-02T21:30:29Z,verkauf,Castrop,2862,M'gladbach,,nico,5273341,5128242,145099,2.8,history_players_naeherung
 13269150943,2026-11-03T00:11:48Z,kauf,Becker,2762,Schalke,nico,,6767000,6562002,204998,3.1,history_players_naeherung
+13272028642,2026-11-03T07:59:42Z,kauf,Beier,2714,Dortmund,nico,,22002000,21822003,179997,0.8,history_players_naeherung
