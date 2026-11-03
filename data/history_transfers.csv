@@ -1028,3 +1028,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13273032139,2026-11-03T10:43:17Z,kauf,Schmetgens,10134,Bremen,Kai,,3162222,2340558,821664,35.1,history_players_naeherung
 13273407841,2026-11-03T11:48:15Z,verkauf,Van den Bosch,14917,Union Berlin,,Felix,8474613,8474613,0,0.0,history_players_naeherung
 13273743874,2026-11-03T12:48:04Z,verkauf,Urbig,3072,Bayern,,Jonnhji,7868091,7868091,0,0.0,history_players_naeherung
+13274308678,2026-11-03T14:33:58Z,kauf,Rômulo,11886,Leipzig,Felix,,16889999,14405063,2484936,17.3,history_players_naeherung
