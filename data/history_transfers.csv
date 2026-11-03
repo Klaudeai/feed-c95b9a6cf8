@@ -1022,3 +1022,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13254776914,2026-11-02T17:21:26Z,auto_verkauf_mvp,Nusa,9507,Leipzig,,nico,30587435,30452417,135018,0.4,history_players_naeherung
 13255646527,2026-11-02T17:51:35Z,kauf,Koné,14896,Leipzig,Paul Block,,3089999,2321055,768944,33.1,history_players_naeherung
 13268126266,2026-11-02T21:30:29Z,verkauf,Castrop,2862,M'gladbach,,nico,5273341,5128242,145099,2.8,history_players_naeherung
+13269150943,2026-11-03T00:11:48Z,kauf,Becker,2762,Schalke,nico,,6767000,6562002,204998,3.1,history_players_naeherung
