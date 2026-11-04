@@ -98,3 +98,5 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 14896,Abdoul Koné,Leipzig,ABW,2820069,2684385,5.1,1,2026-11-02T17:51:00+00:00,2026-11-02T14:01:07+00:00,2026-11-02T14:01:07+00:00,verloren,2026-11-02T17:51:35Z,3089999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 10134,Mick Schmetgens,Bremen,ABW,3162222,2340558,35.1,1,2026-11-03T10:43:00+00:00,2026-11-03T08:01:29+00:00,2026-11-03T08:30:57+00:00,gewonnen,2026-11-03T10:43:17Z,3162222,ich,eigener Kauf in squad.json gefunden
 11886,Rômulo,Leipzig,ST,14731118,14405063,2.3,1,2026-11-03T14:33:00+00:00,2026-11-03T12:31:01+00:00,2026-11-03T12:31:01+00:00,verloren,2026-11-03T14:33:58Z,16889999,Felix,Kauf durch anderen Manager im Transfer-Archiv gefunden
+2552,Marius Bülter,Köln,ST,7378000,7376657,0.0,1,2026-11-04T05:18:00+00:00,2026-11-04T00:01:13+00:00,2026-11-04T00:01:13+00:00,offen,,,,
+7325,Elias Baum,Frankfurt,ABW,8762222,8303085,5.5,1,2026-11-04T03:15:00+00:00,2026-11-04T00:01:13+00:00,2026-11-04T00:01:13+00:00,offen,,,,
