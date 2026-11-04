@@ -1034,3 +1034,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13279191727,2026-11-04T03:16:11Z,kauf,Baum,7325,Frankfurt,Felix,,9888899,7941553,1947346,24.5,history_players_naeherung
 13279887487,2026-11-04T05:19:08Z,kauf,Bülter,2552,Köln,Kai,,7378000,7308374,69626,1.0,history_players_naeherung
 13280322394,2026-11-04T06:12:20Z,verkauf,Lemke,13433,Hamburg,,Aaron,3674644,3779964,-105320,-2.8,history_players_naeherung
+13281608341,2026-11-04T09:20:03Z,verkauf,Castro-Montes,11958,Köln,,Felix,4071805,4104284,-32479,-0.8,history_players_naeherung
