@@ -1040,3 +1040,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13284492901,2026-11-04T18:16:47Z,verkauf,Schnitzer,12263,Augsburg,,Jonnhji,1616293,1459797,156496,10.7,history_players_naeherung
 13284645607,2026-11-04T18:46:40Z,kauf,Sirch,8301,Elversberg,Aaron,,4400000,3864222,535778,13.9,history_players_naeherung
 13285260607,2026-11-04T20:43:29Z,kauf,Gomis,10113,Leipzig,Maurice,,13100000,12119294,980706,8.1,history_players_naeherung
+13285916038,2026-11-04T22:30:36Z,verkauf,Hofmann,78,Leverkusen,,nico,5479388,5216848,262540,5.0,history_players_naeherung
