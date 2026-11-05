@@ -1044,3 +1044,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13287038194,2026-11-05T01:41:03Z,kauf,El Mala,8273,Köln,Jonnhji,,1527999,500000,1027999,205.6,history_players_naeherung
 13291319542,2026-11-05T13:36:13Z,kauf,Nartey,2120,Stuttgart,Paul Block,,2969999,1896187,1073812,56.6,history_players_naeherung
 13291445299,2026-11-05T13:59:02Z,verkauf,Karazor,2214,Stuttgart,,Paul Block,9892884,10309478,-416594,-4.0,history_players_naeherung
+13293617425,2026-11-05T20:31:03Z,kauf,Ilicevic,15529,Frankfurt,Aaron,,1000000,,,,unbekannt
