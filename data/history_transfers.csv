@@ -1049,3 +1049,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13299055765,2026-11-06T09:38:45Z,verkauf,Baumann,524,Hoffenheim,,Paul Block,11599915,11452484,147431,1.3,history_players_naeherung
 13299057112,2026-11-06T09:39:10Z,verkauf,Koné,14896,Leipzig,,Paul Block,3968640,3047667,920973,30.2,history_players_naeherung
 13299272227,2026-11-06T10:11:12Z,kauf,Onyedika,16369,Frankfurt,Aaron,,11000001,10287976,712025,6.9,history_players_naeherung
+13300537108,2026-11-06T13:17:32Z,verkauf,Götze,1964,Paderborn,,nico,4648227,3861464,786763,20.4,history_players_naeherung
+13300537585,2026-11-06T13:17:45Z,verkauf,Becker,2762,Schalke,,nico,7345979,6562002,783977,11.9,history_players_naeherung
