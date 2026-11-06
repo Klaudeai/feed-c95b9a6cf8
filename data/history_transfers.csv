@@ -1051,3 +1051,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13299272227,2026-11-06T10:11:12Z,kauf,Onyedika,16369,Frankfurt,Aaron,,11000001,10287976,712025,6.9,history_players_naeherung
 13300537108,2026-11-06T13:17:32Z,verkauf,Götze,1964,Paderborn,,nico,4648227,3861464,786763,20.4,history_players_naeherung
 13300537585,2026-11-06T13:17:45Z,verkauf,Becker,2762,Schalke,,nico,7345979,6562002,783977,11.9,history_players_naeherung
+13301292004,2026-11-06T15:10:27Z,verkauf,Scally,2941,M'gladbach,,Jonnhji,8975729,8321198,654531,7.9,history_players_naeherung
