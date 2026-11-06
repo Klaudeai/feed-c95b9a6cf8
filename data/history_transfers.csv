@@ -1056,3 +1056,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13302364276,2026-11-06T17:27:57Z,verkauf,Svensson,10115,Dortmund,,schwungzent,21527576,21282958,244618,1.1,history_players_naeherung
 13302506203,2026-11-06T17:46:51Z,verkauf,Nandja,11949,Hamburg,,Jonnhji,3659770,2577460,1082310,42.0,history_players_naeherung
 13302817330,2026-11-06T18:29:50Z,kauf,Widmer,3041,Mainz,Kai,,1100000,503086,596914,118.7,history_players_naeherung
+13303126444,2026-11-06T18:54:56Z,verkauf,Tietz,2030,Mainz,,Kai,22933782,22857863,75919,0.3,history_players_naeherung
+13303126741,2026-11-06T18:54:59Z,verkauf,Philippe,6217,Paderborn,,Kai,4928525,4061249,867276,21.4,history_players_naeherung
+13303127092,2026-11-06T18:55:02Z,verkauf,Bülter,2552,Köln,,Kai,7506354,7308374,197980,2.7,history_players_naeherung
