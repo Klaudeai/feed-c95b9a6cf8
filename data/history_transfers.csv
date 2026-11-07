@@ -1065,3 +1065,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13308334345,2026-11-07T09:12:11Z,kauf,Dinkçi,2939,Bremen,nico,,8250000,7138905,1111095,15.6,history_players_naeherung
 13308488293,2026-11-07T09:36:58Z,kauf,Muheim,3277,Hamburg,Paul Block,,10689999,9539290,1150709,12.1,history_players_naeherung
 13310413783,2026-11-07T15:08:45Z,verkauf,Chukwuemeka,10114,Dortmund,,Paul Block,6512520,5117830,1394690,27.3,history_players_naeherung
+13310775262,2026-11-07T16:06:51Z,verkauf,Baum,7325,Frankfurt,,Felix,9269635,7941553,1328082,16.7,history_players_naeherung
