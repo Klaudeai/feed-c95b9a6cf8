@@ -103,6 +103,6 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3176,Arijon Ibrahimović,Augsburg,MF,9893333,9694658,2.0,1,2026-11-04T17:13:00+00:00,2026-11-04T12:31:06+00:00,2026-11-04T14:31:09+00:00,gewonnen,2026-11-04T17:13:38Z,9893333,ich,eigener Kauf in squad.json gefunden
 11161,Koki Machida,Hoffenheim,ABW,10121229,9755328,3.8,1,2026-11-04T14:07:00+00:00,2026-11-04T12:31:06+00:00,2026-11-04T12:31:06+00:00,verloren,2026-11-04T14:08:03Z,11277999,Jonnhji,Kauf durch anderen Manager im Transfer-Archiv gefunden
 2294,Amos Pieper,Bremen,ABW,16111189,14658256,9.9,1,2026-11-06T17:26:00+00:00,2026-11-05T13:01:09+00:00,2026-11-05T13:01:09+00:00,verloren,2026-11-06T17:27:09Z,17622200,schwungzent,Kauf durch anderen Manager im Transfer-Archiv gefunden
-2939,Eren Sami Dinkçi,Bremen,MF,8077800,8060696,0.2,1,2026-11-07T09:11:00+00:00,2026-11-07T01:01:03+00:00,2026-11-07T07:01:15+00:00,offen,,,,
-3277,Miro Muheim,Hamburg,ABW,10660026,10241026,4.1,1,2026-11-07T09:36:00+00:00,2026-11-07T01:01:03+00:00,2026-11-07T07:01:15+00:00,offen,,,,
+2939,Eren Sami Dinkçi,Bremen,MF,8077800,8060696,0.2,1,2026-11-07T09:11:00+00:00,2026-11-07T01:01:03+00:00,2026-11-07T07:01:15+00:00,verloren,2026-11-07T09:12:11Z,8250000,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
+3277,Miro Muheim,Hamburg,ABW,10660026,10241026,4.1,1,2026-11-07T09:36:00+00:00,2026-11-07T01:01:03+00:00,2026-11-07T09:31:03+00:00,offen,,,,
 16378,Konstantinos Karetsas,Dortmund,MF,18620003,18025539,3.3,1,2026-11-07T06:38:00+00:00,2026-11-07T01:01:03+00:00,2026-11-07T01:01:03+00:00,verloren,2026-11-07T06:38:53Z,20555999,Felix,Kauf durch anderen Manager im Transfer-Archiv gefunden
