@@ -1060,3 +1060,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13303126741,2026-11-06T18:54:59Z,verkauf,Philippe,6217,Paderborn,,Kai,4928525,4061249,867276,21.4,history_players_naeherung
 13303127092,2026-11-06T18:55:02Z,verkauf,Bülter,2552,Köln,,Kai,7506354,7308374,197980,2.7,history_players_naeherung
 13303371616,2026-11-06T19:19:00Z,verkauf,Bellingham,11099,Dortmund,,Maurice,18464703,18092811,371892,2.1,history_players_naeherung
+13305348007,2026-11-07T00:19:05Z,kauf,Gruber,10122,Mainz,nico,,8100200,6914671,1185529,17.1,history_players_naeherung
