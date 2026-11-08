@@ -3735,476 +3735,476 @@ nr,archived_at,player_id,player,position,team,market_value,season_points,matchda
 8,2026-11-02T22:37:29+01:00,12297,Tanaka,MF,Schalke,7184888,401,-24,50.1,-3.3,38635,5761,2,fit,,,Aaron,ja,96,startelf,0,0,46
 8,2026-11-02T22:37:29+01:00,13431,Siebeking,TW,Schalke,500000,,0,,0.0,,,5,fit,,,,ja,0,bank,0,0,
 8,2026-11-02T22:37:29+01:00,13448,Aouchiche,MF,Schalke,8941427,518,4,64.8,0.4,37396,5761,1,fit,,,,ja,96,startelf,0,0,29
-9,2026-11-08T22:22:26+01:00,4199,García,MF,Leverkusen,39324101,1329,271,147.7,6.9,51200,5807,2,fit,gekauft,42680003,Kai,vorlaeufig,97,startelf,1,0,161
-9,2026-11-08T22:22:26+01:00,6080,Pavlović,MF,Bayern,37461110,1459,157,162.1,4.2,40580,6006,3,fit,gekauft,34676324,Kai,vorlaeufig,100,startelf,0,0,137
-9,2026-11-08T22:22:26+01:00,11255,Katic,ABW,Schalke,16896496,899,42,99.9,2.5,50280,6038,1,fit,gekauft,12430089,Kai,vorlaeufig,101,startelf,0,0,62
-9,2026-11-08T22:22:26+01:00,1704,Anton,ABW,Dortmund,36526481,1373,99,152.6,2.7,52950,5972,1,angeschlagen,gekauft,34740039,Kai,vorlaeufig,100,startelf,0,0,79
-9,2026-11-08T22:22:26+01:00,2746,Schick,ST,Leverkusen,32721024,1423,178,158.1,5.4,45533,5807,1,fit,gekauft,30783332,Kai,vorlaeufig,97,startelf,1,0,78
-9,2026-11-08T22:22:26+01:00,3120,Bischof,MF,Bayern,19359977,555,31,61.7,1.6,18349,1662,3,fit,gekauft,17420035,Kai,vorlaeufig,28,eingewechselt,0,0,21
-9,2026-11-08T22:22:26+01:00,2247,Sosa,ABW,Köln,11066462,580,62,64.4,5.6,31196,5807,1,fit,gekauft,7210368,Kai,vorlaeufig,97,startelf,0,0,82
-9,2026-11-08T22:22:26+01:00,8227,Vandevoordt,TW,Leipzig,19791876,1274,143,141.6,7.2,46252,5756,1,fit,gekauft,18720420,Kai,vorlaeufig,96,startelf,0,0,113
-9,2026-11-08T22:22:26+01:00,8292,Castañeda,MF,Paderborn,13352201,1032,113,114.7,8.5,51570,5744,1,fit,gekauft,11720036,Kai,vorlaeufig,96,startelf,0,0,113
-9,2026-11-08T22:22:26+01:00,17288,Regeer,MF,Bremen,14877943,823,81,91.4,5.4,42893,5714,1,fit,gekauft,14273888,Kai,vorlaeufig,95,startelf,0,0,101
-9,2026-11-08T22:22:26+01:00,4596,Gruda,MF,Leipzig,19428718,851,223,94.6,11.5,28281,4082,3,fit,gekauft,18767693,Kai,vorlaeufig,68,startelf,0,2,103
-9,2026-11-08T22:22:26+01:00,10134,Schmetgens,ABW,Bremen,3874443,192,0,21.3,0.0,13874,0,5,fit,gekauft,3162222,Kai,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3176,Ibrahimović,MF,Augsburg,10550703,625,17,69.4,1.6,29788,2897,3,fit,gekauft,9893333,Kai,vorlaeufig,48,startelf,0,0,27
-9,2026-11-08T22:22:26+01:00,3041,Widmer,ABW,Mainz,1717327,74,16,8.2,9.3,9222,4449,2,fit,gekauft,1100000,Kai,vorlaeufig,74,startelf,0,0,41
-9,2026-11-08T22:22:26+01:00,577,Batz,TW,M'gladbach,2791244,375,184,41.7,65.9,11476,8554,1,fit,gekauft,3683399,Kai,vorlaeufig,96,startelf,0,0,209
-9,2026-11-08T22:22:26+01:00,3754,Vázquez,ABW,Leverkusen,2560067,62,0,6.9,0.0,8814,0,3,fit,gekauft,3633663,Kai,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,10024,Schmied,ABW,Köln,3426812,243,32,27.0,9.3,17161,5807,2,fit,gekauft,4733338,Kai,vorlaeufig,97,startelf,0,0,52
-9,2026-11-08T22:22:26+01:00,60,Kohr,ABW,Mainz,500000,96,0,10.7,0.0,4824,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,550,Bell,ABW,Mainz,500000,,0,,0.0,,,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,620,Schwolow,TW,Mainz,4653866,582,0,64.7,0.0,29575,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1540,Da Costa,ABW,Mainz,6657494,537,12,59.7,1.8,34875,6006,2,fit,,,,vorlaeufig,100,startelf,0,0,77
-9,2026-11-08T22:22:26+01:00,1590,Zentner,TW,Mainz,8267517,381,125,42.3,15.1,23360,6006,1,fit,,,,vorlaeufig,100,startelf,0,0,145
-9,2026-11-08T22:22:26+01:00,1639,Amiri,MF,Mainz,29632126,909,74,101.0,2.5,49441,6006,1,fit,,,Felix,vorlaeufig,100,startelf,0,0,94
-9,2026-11-08T22:22:26+01:00,2006,Posch,ABW,Mainz,7362007,485,0,53.9,0.0,40834,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2030,Tietz,ST,Mainz,22816519,1051,97,116.8,4.3,46595,1877,2,fit,,,,vorlaeufig,31,eingewechselt,1,0,27
-9,2026-11-08T22:22:26+01:00,2232,Mwene,ABW,Mainz,7782085,644,0,71.6,0.0,43610,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2399,Maloney,MF,Mainz,2624310,75,0,8.3,0.0,3850,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2476,Lee,MF,Mainz,8954225,646,19,71.8,2.1,31586,4130,3,fit,,,,vorlaeufig,69,startelf,0,0,44
-9,2026-11-08T22:22:26+01:00,2646,Becker,ST,Mainz,19464681,975,31,108.3,1.6,42684,4438,2,fit,,,schwungzent,vorlaeufig,74,startelf,0,0,56
-9,2026-11-08T22:22:26+01:00,2702,Martel,MF,Mainz,3546879,102,-9,11.3,-2.5,8484,763,3,fit,,,,vorlaeufig,13,eingewechselt,0,0,1
-9,2026-11-08T22:22:26+01:00,2822,Silas,ST,Mainz,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2895,Nebel,MF,Mainz,6421329,20,0,2.2,0.0,7595,1875,3,fit,,,,vorlaeufig,31,eingewechselt,0,0,10
-9,2026-11-08T22:22:26+01:00,3318,Königsdörffer,ST,Mainz,2937677,265,39,29.4,13.3,17545,4129,4,fit,,,,vorlaeufig,69,startelf,0,0,64
-9,2026-11-08T22:22:26+01:00,3470,Caci,ABW,Mainz,15414978,1135,72,126.1,4.7,43146,5243,1,fit,,,schwungzent,vorlaeufig,87,startelf,0,0,97
-9,2026-11-08T22:22:26+01:00,6111,Hollerbach,ST,Mainz,1900696,253,67,28.1,35.3,6540,1567,4,fit,,,Aaron,vorlaeufig,26,eingewechselt,0,1,32
-9,2026-11-08T22:22:26+01:00,8307,Sano,MF,Mainz,22150964,910,23,101.1,1.0,50919,6006,1,fit,,,Jonnhji,vorlaeufig,100,startelf,0,0,43
-9,2026-11-08T22:22:26+01:00,10122,Gruber,ABW,Mainz,8208733,577,108,64.1,13.2,35347,6006,2,fit,,,nico,vorlaeufig,100,startelf,0,0,128
-9,2026-11-08T22:22:26+01:00,11261,Kawasaki,MF,Mainz,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11665,Potulski,ABW,Mainz,10105645,671,63,74.6,6.2,46553,6006,1,fit,,,,vorlaeufig,100,startelf,0,0,83
-9,2026-11-08T22:22:26+01:00,11666,Kinzig,TW,Mainz,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13438,Ruoppi,MF,Mainz,500000,85,0,9.4,0.0,2479,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,17179,Nakuzola,ABW,Mainz,500000,66,12,7.3,24.0,3074,1557,5,fit,,,,vorlaeufig,26,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,1664,Mittelstädt,ABW,Stuttgart,30190970,1344,293,149.3,9.7,41384,5714,2,fit,,,nico,vorlaeufig,95,startelf,1,0,163
-9,2026-11-08T22:22:26+01:00,1671,Prömel,MF,Stuttgart,10994119,739,187,82.1,17.0,38066,5714,3,fit,,,,vorlaeufig,95,startelf,0,1,102
-9,2026-11-08T22:22:26+01:00,2068,Zagadou,ABW,Stuttgart,500000,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2120,Nartey,MF,Stuttgart,3046121,90,63,10.0,20.7,3796,1752,3,fit,,,Paul Block,vorlaeufig,29,eingewechselt,0,0,44
-9,2026-11-08T22:22:26+01:00,2172,Führich,MF,Stuttgart,20672452,774,101,86.0,4.9,34148,5074,2,fit,,,Jonnhji,vorlaeufig,85,startelf,0,0,73
-9,2026-11-08T22:22:26+01:00,2199,Vagnoman,ABW,Stuttgart,6755904,717,0,79.7,0.0,33594,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2214,Karazor,MF,Stuttgart,7911969,383,34,42.6,4.3,20374,649,4,fit,,,,vorlaeufig,11,eingewechselt,0,0,19
-9,2026-11-08T22:22:26+01:00,2237,Bredlow,TW,Stuttgart,2228407,396,0,44.0,0.0,23185,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2445,Funk,TW,Stuttgart,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2694,Stiller,MF,Stuttgart,20815876,713,0,79.2,0.0,35837,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2854,Demirović,ST,Stuttgart,15674097,711,12,79.0,0.8,35126,640,3,fit,,,Jonnhji,vorlaeufig,11,eingewechselt,0,0,-3
-9,2026-11-08T22:22:26+01:00,2988,Leweling,MF,Stuttgart,13520901,519,89,57.7,6.6,27023,3973,3,fit,,,Paul Block,vorlaeufig,66,startelf,0,0,57
-9,2026-11-08T22:22:26+01:00,3190,Chabot,ABW,Stuttgart,21333043,942,149,104.7,7.0,43769,5714,2,fit,,,,vorlaeufig,95,startelf,0,0,99
-9,2026-11-08T22:22:26+01:00,3193,Tiago Tomás,ST,Stuttgart,3079297,73,38,8.1,12.3,5521,1741,4,fit,,,,vorlaeufig,29,eingewechselt,0,0,19
-9,2026-11-08T22:22:26+01:00,4296,Pejčinović,ST,Stuttgart,6182568,230,0,25.6,0.0,23483,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4589,Diehl,ST,Stuttgart,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,6085,Seimen,TW,Stuttgart,12036301,544,160,60.4,13.3,28855,5714,1,fit,,,nico,vorlaeufig,95,startelf,0,0,90
-9,2026-11-08T22:22:26+01:00,7158,Undav,ST,Stuttgart,28797140,525,96,58.3,3.3,37826,5714,2,fit,,,,vorlaeufig,95,startelf,0,0,66
-9,2026-11-08T22:22:26+01:00,7257,Stergiou,ABW,Stuttgart,500000,-8,0,-0.9,0.0,1286,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7349,Jeltsch,ABW,Stuttgart,9671412,599,61,66.6,6.3,39997,2325,3,fit,,,,vorlaeufig,39,eingewechselt,0,0,37
-9,2026-11-08T22:22:26+01:00,7781,Sauer,MF,Stuttgart,1943569,71,0,7.9,0.0,7538,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,8247,Hendriks,ABW,Stuttgart,10430841,665,143,73.9,13.7,40480,5714,3,fit,,,Jonnhji,vorlaeufig,95,startelf,0,0,93
-9,2026-11-08T22:22:26+01:00,9615,Al Dakhil,ABW,Stuttgart,500000,19,0,2.1,0.0,638,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,10112,Jaquez,ABW,Stuttgart,4965623,143,84,15.9,16.9,7422,3389,3,fit,,,,vorlaeufig,56,startelf,0,0,49
-9,2026-11-08T22:22:26+01:00,11043,Assignon,ABW,Stuttgart,4122337,22,0,2.4,0.0,3849,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11955,El Khannouss,MF,Stuttgart,15995015,756,112,84.0,7.0,29546,3962,3,fit,,,MicheleFerra,vorlaeufig,66,startelf,0,0,86
-9,2026-11-08T22:22:26+01:00,12367,Spalt,MF,Stuttgart,2033751,144,105,16.0,51.6,9238,5065,2,fit,,,MicheleFerra,vorlaeufig,84,startelf,0,0,69
-9,2026-11-08T22:22:26+01:00,524,Baumann,TW,Hoffenheim,11629231,702,139,78.0,12.0,47144,0,1,fit,,,,vorlaeufig,101,startelf,0,0,119
-9,2026-11-08T22:22:26+01:00,1815,Kramarić,MF,Hoffenheim,8698242,297,37,33.0,4.3,18021,4235,3,fit,,,,vorlaeufig,71,startelf,0,0,12
-9,2026-11-08T22:22:26+01:00,1954,Bernardo,ABW,Hoffenheim,3720719,87,19,9.7,5.1,8939,1330,3,fit,,,,vorlaeufig,22,eingewechselt,0,0,9
-9,2026-11-08T22:22:26+01:00,2373,Kabak,ABW,Hoffenheim,21143534,1045,126,116.1,6.0,47332,6038,1,fit,,,MicheleFerra,vorlaeufig,101,startelf,0,0,106
-9,2026-11-08T22:22:26+01:00,2803,Lemperle,ST,Hoffenheim,7085038,293,179,32.6,25.3,23446,0,2,fit,,,,vorlaeufig,96,startelf,1,0,79
-9,2026-11-08T22:22:26+01:00,2852,Philipp,TW,Hoffenheim,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3124,Wimmer,MF,Hoffenheim,1809051,224,0,24.9,0.0,13207,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,3158,Asllani,ST,Hoffenheim,16377380,728,238,80.9,14.5,25156,4713,1,fit,,,Jonnhji,vorlaeufig,79,startelf,1,1,78
-9,2026-11-08T22:22:26+01:00,3204,Conté,ST,Hoffenheim,13970917,793,0,88.1,0.0,29471,0,5,angeschlagen,,,1. FC Infantino,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3471,Hložek,ST,Hoffenheim,10238269,655,62,72.8,6.1,31276,0,4,angeschlagen,,,Clainsman,vorlaeufig,30,eingewechselt,0,0,52
-9,2026-11-08T22:22:26+01:00,7543,Moerstedt,ST,Hoffenheim,500000,118,16,13.1,32.0,8182,255,5,angeschlagen,,,,vorlaeufig,4,eingewechselt,0,0,1
-9,2026-11-08T22:22:26+01:00,7673,Hajdari,ABW,Hoffenheim,2345947,230,0,25.6,0.0,20201,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,7717,Prass,MF,Hoffenheim,9517218,443,127,49.2,13.3,12591,0,3,angeschlagen,,,,vorlaeufig,101,startelf,0,0,107
-9,2026-11-08T22:22:26+01:00,7745,Coufal,ABW,Hoffenheim,20585532,744,150,82.7,7.3,39789,0,4,angeschlagen,,,,vorlaeufig,101,startelf,0,0,130
-9,2026-11-08T22:22:26+01:00,7750,Hranác,ABW,Hoffenheim,3226632,159,0,17.7,0.0,11597,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,8289,Petersson,TW,Hoffenheim,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9598,Gendrey,ABW,Hoffenheim,1002127,40,0,4.4,0.0,2148,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,11161,Machida,ABW,Hoffenheim,10894899,580,170,64.4,15.6,29581,0,1,fit,,,Jonnhji,vorlaeufig,101,startelf,0,0,150
-9,2026-11-08T22:22:26+01:00,11162,Avdullahu,MF,Hoffenheim,14607751,784,87,87.1,6.0,51908,6038,1,fit,,,1. FC Infantino,vorlaeufig,101,startelf,0,0,67
-9,2026-11-08T22:22:26+01:00,11591,Lenz,MF,Hoffenheim,939806,-8,0,-0.9,0.0,475,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11631,Burger,MF,Hoffenheim,17309040,647,128,71.9,7.4,38677,0,1,fit,,,nico,vorlaeufig,101,startelf,0,0,108
-9,2026-11-08T22:22:26+01:00,11959,Daghim,ST,Hoffenheim,15913927,902,24,100.2,1.5,40601,1324,2,fit,,,Felix,vorlaeufig,22,eingewechselt,0,0,14
-9,2026-11-08T22:22:26+01:00,14908,Abraha,ABW,Hoffenheim,2464861,35,0,3.9,0.0,5763,0,2,fit,,,Paul Block,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,15193,Rots,ABW,Hoffenheim,8517314,479,81,53.2,9.5,30996,0,3,fit,,,,vorlaeufig,78,startelf,0,0,56
-9,2026-11-08T22:22:26+01:00,15262,De Cat,MF,Hoffenheim,849876,-11,0,-1.2,0.0,2514,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,49,Ginter,ABW,Freiburg,28722868,1262,173,140.2,6.0,51877,5720,1,fit,,,Felix,vorlaeufig,95,startelf,0,0,118
-9,2026-11-08T22:22:26+01:00,89,Günter,ABW,Freiburg,500000,,0,,0.0,,,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,118,Grifo,MF,Freiburg,5552673,383,-14,42.6,-2.5,9859,1644,5,fit,,,,vorlaeufig,27,eingewechselt,0,0,-33
-9,2026-11-08T22:22:26+01:00,1257,Kübler,ABW,Freiburg,3915727,300,35,33.3,8.9,15173,610,3,fit,,,,vorlaeufig,10,eingewechselt,0,0,20
-9,2026-11-08T22:22:26+01:00,1645,Eggestein,MF,Freiburg,22092528,1094,134,121.6,6.1,51877,5720,1,fit,,,Maurice,vorlaeufig,95,startelf,0,0,89
-9,2026-11-08T22:22:26+01:00,1767,Huth,TW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1858,Jung,ABW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1910,Müller,TW,Freiburg,500000,,0,,0.0,,,5,fehlt,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2084,Lienhart,ABW,Freiburg,19583414,958,145,106.4,7.4,49210,5720,3,fit,,,1. FC Infantino,vorlaeufig,95,startelf,0,0,90
-9,2026-11-08T22:22:26+01:00,2125,Beste,MF,Freiburg,12189547,784,182,87.1,14.9,40511,5720,2,fit,,,,vorlaeufig,95,startelf,0,0,137
-9,2026-11-08T22:22:26+01:00,2176,Höler,ST,Freiburg,2777966,150,50,16.7,18.0,13327,610,3,fit,,,,vorlaeufig,10,eingewechselt,0,0,35
-9,2026-11-08T22:22:26+01:00,2722,Osterhage,MF,Freiburg,4414478,76,39,8.4,8.8,5894,1213,5,angeschlagen,,,,vorlaeufig,20,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,3209,Engelhardt,MF,Freiburg,14650901,937,109,104.1,7.4,41271,4506,1,fit,,,Aaron,vorlaeufig,75,startelf,0,0,70
-9,2026-11-08T22:22:26+01:00,3218,Backhaus,TW,Freiburg,10878493,787,103,87.4,9.5,51877,5720,1,fit,,,,vorlaeufig,95,startelf,0,0,28
-9,2026-11-08T22:22:26+01:00,3304,Matanović,ST,Freiburg,26835650,1153,53,128.1,2.0,39272,4067,3,fit,,,Maurice,vorlaeufig,68,startelf,0,0,22
-9,2026-11-08T22:22:26+01:00,4335,Scherhant,MF,Freiburg,20403161,1158,218,128.7,10.7,42015,4075,1,fit,,,1. FC Infantino,vorlaeufig,68,startelf,0,1,136
-9,2026-11-08T22:22:26+01:00,6209,Treu,ABW,Freiburg,10482198,614,122,68.2,11.6,38187,5109,3,fit,,,,vorlaeufig,85,startelf,0,0,73
-9,2026-11-08T22:22:26+01:00,7215,Makengo,ABW,Freiburg,17133036,1046,132,116.2,7.7,51877,5720,3,fit,,,Jonnhji,vorlaeufig,95,startelf,0,0,77
-9,2026-11-08T22:22:26+01:00,7216,Rosenfelder,ABW,Freiburg,3921441,72,0,8.0,0.0,3733,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8363,Yilmaz,ABW,Freiburg,500000,24,0,2.7,0.0,780,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8364,Ogbus,ABW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11006,Suzuki,MF,Freiburg,19589539,977,215,108.6,11.0,38474,5110,1,fit,,,,vorlaeufig,85,startelf,1,0,84
-9,2026-11-08T22:22:26+01:00,11007,Irié,MF,Freiburg,4181936,288,0,32.0,0.0,8882,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14048,Goto,ST,Freiburg,4674887,297,64,33.0,13.7,12396,1652,4,fit,,,,vorlaeufig,28,eingewechselt,0,0,47
-9,2026-11-08T22:22:26+01:00,15196,Yamamoto,MF,Freiburg,3097850,-2,0,-0.2,0.0,2321,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4,Blaswich,TW,Leverkusen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,72,Flekken,TW,Leverkusen,9900178,751,130,83.4,13.1,52736,5807,1,fit,,,,vorlaeufig,97,startelf,0,0,110
-9,2026-11-08T22:22:26+01:00,78,Hofmann,MF,Leverkusen,4993154,97,14,10.8,2.8,7331,1190,3,fit,,,,vorlaeufig,20,eingewechselt,0,0,-1
-9,2026-11-08T22:22:26+01:00,663,Andrich,ABW,Leverkusen,4213230,313,21,34.8,5.0,12438,489,4,fit,,,,vorlaeufig,8,eingewechselt,0,0,11
-9,2026-11-08T22:22:26+01:00,2661,Diaby,ST,Leverkusen,15409626,502,0,55.8,0.0,24735,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2783,Tapsoba,ABW,Leverkusen,27215930,783,65,87.0,2.4,52736,5807,1,fit,,,schwungzent,vorlaeufig,97,startelf,0,0,45
-9,2026-11-08T22:22:26+01:00,2846,Tillman,MF,Leverkusen,6221141,380,69,42.2,11.1,21205,4617,3,fit,,,,vorlaeufig,77,startelf,0,0,49
-9,2026-11-08T22:22:26+01:00,3759,Gutiérrez,ABW,Leverkusen,27686591,1322,129,146.9,4.7,52103,5807,1,fit,,,nico,vorlaeufig,97,startelf,0,0,109
-9,2026-11-08T22:22:26+01:00,4318,Oermann,ABW,Leverkusen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4563,Badé,ABW,Leverkusen,727132,83,32,9.2,44.0,7005,497,5,fit,,,,vorlaeufig,8,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,6061,Maza,MF,Leverkusen,33271949,1399,194,155.4,5.8,49885,5317,1,fit,,,nico,vorlaeufig,89,startelf,0,1,124
-9,2026-11-08T22:22:26+01:00,6745,Boniface,ST,Leverkusen,508190,49,0,5.4,0.0,1442,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7269,Tella,MF,Leverkusen,5350947,106,0,11.8,0.0,7223,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7963,Quansah,ABW,Leverkusen,19278512,921,149,102.3,7.7,45247,5807,1,fit,,,1. FC Infantino,vorlaeufig,97,startelf,0,0,129
-9,2026-11-08T22:22:26+01:00,8374,Terrier,ST,Leverkusen,500000,39,0,4.3,0.0,3012,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,11513,Kofane,ST,Leverkusen,5879634,311,0,34.6,0.0,8923,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11680,Eichhorn,MF,Leverkusen,1682439,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11756,Culbreath,MF,Leverkusen,1342267,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11956,Fernández,MF,Leverkusen,15619942,786,128,87.3,8.2,37830,5807,1,fit,,,Clainsman,vorlaeufig,97,startelf,0,0,108
-9,2026-11-08T22:22:26+01:00,11957,Ben Seghir,MF,Leverkusen,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13888,Doué,ABW,Leverkusen,2202606,40,0,4.4,0.0,1989,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14241,Medina,ABW,Leverkusen,17465685,847,68,94.1,3.9,45912,5310,1,fit,,,Jonnhji,vorlaeufig,88,startelf,0,0,43
-9,2026-11-08T22:22:26+01:00,15199,Moreira,ST,Leverkusen,15074753,545,42,60.6,2.8,42409,5807,1,fit,,,,vorlaeufig,97,startelf,0,0,22
-9,2026-11-08T22:22:26+01:00,1225,Zingerle,TW,Leipzig,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1246,Orban,ABW,Leipzig,30592298,1284,71,142.7,2.3,50801,4541,1,fit,,,Jonnhji,vorlaeufig,76,startelf,0,0,81
-9,2026-11-08T22:22:26+01:00,1333,Klostermann,ABW,Leipzig,500000,-22,0,-2.4,0.0,3656,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1689,Henrichs,ABW,Leipzig,7995771,501,37,55.7,4.6,22881,1661,3,fit,,,,vorlaeufig,28,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,1728,Nyland,TW,Leipzig,1145581,132,0,14.7,0.0,5764,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2141,Baku,ABW,Leipzig,16630415,788,92,87.6,5.5,25476,4095,3,fit,,,,vorlaeufig,68,startelf,0,0,62
-9,2026-11-08T22:22:26+01:00,2275,Baumgartner,MF,Leipzig,13435779,297,125,33.0,9.3,5026,1681,4,fit,,,nico,vorlaeufig,28,eingewechselt,1,0,20
-9,2026-11-08T22:22:26+01:00,2522,Raum,ABW,Leipzig,30180168,1162,332,129.1,11.0,46252,5756,1,fit,,,Felix,vorlaeufig,96,startelf,1,0,167
-9,2026-11-08T22:22:26+01:00,2687,Nkunku,ST,Leipzig,27182095,1088,281,120.9,10.3,28510,5756,2,fit,,,,vorlaeufig,96,startelf,1,1,116
-9,2026-11-08T22:22:26+01:00,2897,Reitz,MF,Leipzig,11232756,390,0,43.3,0.0,18244,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6104,Guiu,ST,Leipzig,500000,-13,0,-1.4,0.0,1327,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6176,Seiwald,MF,Leipzig,3873581,272,0,30.2,0.0,20303,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6300,Ouédraogo,MF,Leipzig,501022,61,0,6.8,0.0,2047,0,5,verletzt,,,Clainsman,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,7224,Castello Jr.,ABW,Leipzig,17543676,767,116,85.2,6.6,32304,4815,3,fit,,,nico,vorlaeufig,80,startelf,0,0,81
-9,2026-11-08T22:22:26+01:00,7239,Finkgräfe,ABW,Leipzig,1727151,188,0,20.9,0.0,8400,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8061,Bakayoko,ST,Leipzig,788937,69,0,7.7,0.0,5798,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9507,Nusa,MF,Leipzig,31340595,1599,113,177.7,3.6,41011,1673,3,fit,,,,vorlaeufig,28,eingewechselt,0,1,53
-9,2026-11-08T22:22:26+01:00,9776,Maksimović,MF,Leipzig,5166341,383,0,42.6,0.0,12183,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,10113,Gomis,ST,Leipzig,13057525,948,118,105.3,9.0,31390,5756,2,fit,,,Maurice,vorlaeufig,96,startelf,0,0,88
-9,2026-11-08T22:22:26+01:00,11008,Banzuzi,MF,Leipzig,12192994,971,231,107.9,18.9,43660,5756,3,fit,,,Maurice,vorlaeufig,96,startelf,1,0,111
-9,2026-11-08T22:22:26+01:00,11886,Rômulo,ST,Leipzig,15400741,885,151,98.3,9.8,25534,4074,3,fit,,,Felix,vorlaeufig,68,startelf,1,0,41
-9,2026-11-08T22:22:26+01:00,14249,El Aynaoui,MF,Leipzig,16317397,785,143,87.2,8.8,42744,5756,2,fit,,,Paul Block,vorlaeufig,96,startelf,0,0,113
-9,2026-11-08T22:22:26+01:00,14896,Koné,ABW,Leipzig,4066902,141,33,15.7,8.1,1701,1215,5,fit,,,,vorlaeufig,20,eingewechselt,0,0,23
-9,2026-11-08T22:22:26+01:00,15376,Estève,ABW,Leipzig,5241271,448,25,49.8,4.8,19711,941,3,fit,,,,vorlaeufig,16,eingewechselt,0,0,15
-9,2026-11-08T22:22:26+01:00,51,Khedira,MF,Union Berlin,6471530,339,-33,37.7,-5.1,52849,5720,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,-8
-9,2026-11-08T22:22:26+01:00,1223,Friedrich,ABW,Union Berlin,2230297,147,66,16.3,29.6,11361,5720,2,fit,,,,vorlaeufig,95,startelf,0,0,91
-9,2026-11-08T22:22:26+01:00,1553,Haberer,MF,Union Berlin,6454262,458,28,50.9,4.3,34480,5720,1,fit,,,,vorlaeufig,95,startelf,0,0,53
-9,2026-11-08T22:22:26+01:00,1955,Burke,ST,Union Berlin,1733922,26,-28,2.9,-16.1,7061,3068,3,fit,,,,vorlaeufig,51,eingewechselt,0,0,-3
-9,2026-11-08T22:22:26+01:00,2065,Uduokhai,ABW,Union Berlin,4654416,410,0,45.6,0.0,30515,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2279,Rönnow,TW,Union Berlin,10372781,921,259,102.3,25.0,46688,5720,1,fit,,,Maurice,vorlaeufig,95,startelf,0,0,284
-9,2026-11-08T22:22:26+01:00,2302,Jeong,MF,Union Berlin,4044857,323,-24,35.9,-5.9,32621,3068,3,fit,,,,vorlaeufig,51,eingewechselt,0,0,1
-9,2026-11-08T22:22:26+01:00,2400,Trimmel,ABW,Union Berlin,990166,60,0,6.7,0.0,8833,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2491,Skarke,MF,Union Berlin,3966109,410,-21,45.6,-5.3,27015,2715,3,fit,,,,vorlaeufig,45,startelf,0,0,-6
-9,2026-11-08T22:22:26+01:00,2717,Skov,MF,Union Berlin,500000,-12,0,-1.3,0.0,742,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3102,Rothe,ABW,Union Berlin,7871239,543,-11,60.3,-1.4,42096,608,4,fit,,,,vorlaeufig,10,eingewechselt,0,0,4
-9,2026-11-08T22:22:26+01:00,3187,Schäfer,MF,Union Berlin,8157648,517,10,57.4,1.2,41228,5720,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,80
-9,2026-11-08T22:22:26+01:00,3364,Klaus,TW,Union Berlin,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3419,Raab,TW,Union Berlin,500000,9,0,1.0,0.0,6161,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3453,Köhn,ABW,Union Berlin,2071749,130,42,14.4,20.3,12288,5111,2,fit,,,,vorlaeufig,85,startelf,0,0,67
-9,2026-11-08T22:22:26+01:00,4352,Nsoki,ABW,Union Berlin,500000,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4446,Kemlein,MF,Union Berlin,1482196,90,0,10.0,0.0,16856,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4598,Juranović,ABW,Union Berlin,4177722,300,0,33.3,0.0,16940,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7684,Aebischer,MF,Union Berlin,5487551,250,4,27.8,0.7,45253,4590,1,fit,,,schwungzent,vorlaeufig,76,startelf,0,0,29
-9,2026-11-08T22:22:26+01:00,7723,Querfeld,ABW,Union Berlin,9189485,514,0,57.1,0.0,22678,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8381,Burcu,MF,Union Berlin,2721427,258,-14,28.7,-5.1,23873,4075,3,fit,,,,vorlaeufig,68,startelf,0,0,11
-9,2026-11-08T22:22:26+01:00,9683,Ilic,ST,Union Berlin,947426,-7,-7,-0.8,-7.4,1644,,5,fit,,,,vorlaeufig,27,eingewechselt,0,0,8
-9,2026-11-08T22:22:26+01:00,10106,Ljubičić,ST,Union Berlin,500000,4,0,0.4,0.0,14522,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,12763,Latte Lath,ST,Union Berlin,4121391,113,0,12.6,0.0,19013,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13629,Güther,MF,Union Berlin,500000,-2,-4,-0.2,-8.0,1326,1129,5,fit,,,1. FC Infantino,vorlaeufig,19,eingewechselt,0,0,11
-9,2026-11-08T22:22:26+01:00,14917,Van den Bosch,ABW,Union Berlin,6772009,450,23,50.0,3.4,42118,5720,1,fit,,,,vorlaeufig,95,startelf,0,0,48
-9,2026-11-08T22:22:26+01:00,15301,Gray,ST,Union Berlin,3000700,76,0,8.4,0.0,5548,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,17306,Imeri,MF,Union Berlin,2609125,137,-5,15.2,-1.9,13044,2715,2,fit,,,,vorlaeufig,45,startelf,0,0,10
-9,2026-11-08T22:22:26+01:00,173,Tah,ABW,Bayern,29051908,781,129,86.8,4.4,30356,6006,3,fit,,,,vorlaeufig,100,startelf,0,0,109
-9,2026-11-08T22:22:26+01:00,237,Neuer,TW,Bayern,6944763,537,54,59.7,7.8,26096,2662,3,angeschlagen,,,,vorlaeufig,44,startelf,0,0,34
-9,2026-11-08T22:22:26+01:00,383,Ulreich,TW,Bayern,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1685,Kimmich,MF,Bayern,60079043,1756,292,195.1,4.9,42435,5482,1,fit,,,Jonnhji,vorlaeufig,91,startelf,1,0,177
-9,2026-11-08T22:22:26+01:00,1961,Gnabry,MF,Bayern,11427419,320,0,35.6,0.0,10643,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,1991,Upamecano,ABW,Bayern,32098980,1610,184,178.9,5.7,50221,6006,3,fit,,,Jonnhji,vorlaeufig,100,startelf,0,0,164
-9,2026-11-08T22:22:26+01:00,2038,Laimer,ABW,Bayern,24386877,801,113,89.0,4.6,32668,5475,3,fit,,,Paul Block,vorlaeufig,91,startelf,0,0,88
-9,2026-11-08T22:22:26+01:00,2300,Stanišić,ABW,Bayern,14544234,654,68,72.7,4.7,31737,4353,3,fit,,,,vorlaeufig,73,startelf,0,0,43
-9,2026-11-08T22:22:26+01:00,2366,Davies,ABW,Bayern,23686672,1008,32,112.0,1.4,32316,1653,3,fit,,,Paul Block,vorlaeufig,28,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,2804,Musiala,MF,Bayern,21601514,446,0,49.6,0.0,9727,0,5,Aufbautraining,,,nico,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3072,Urbig,TW,Bayern,7720919,468,59,52.0,7.6,27013,3343,3,fit,,,,vorlaeufig,56,eingewechselt,0,0,44
-9,2026-11-08T22:22:26+01:00,3089,Ito,ABW,Bayern,1741788,47,18,5.2,10.3,1172,531,3,fit,,,,vorlaeufig,9,eingewechselt,0,0,8
-9,2026-11-08T22:22:26+01:00,3543,Brown,ABW,Bayern,19345967,889,104,98.8,5.4,33918,6006,2,fit,,,Felix,vorlaeufig,100,startelf,0,0,84
-9,2026-11-08T22:22:26+01:00,6668,Minjae,ABW,Bayern,12339036,539,0,59.9,0.0,24665,0,2,fit,,,Clainsman,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7226,Kane,ST,Bayern,65623819,1669,261,185.4,4.0,46511,6006,1,fit,,,Paul Block,vorlaeufig,100,startelf,0,2,161
-9,2026-11-08T22:22:26+01:00,7498,Boey,ABW,Bayern,782180,86,16,9.6,20.5,3662,524,3,fit,,,,vorlaeufig,9,eingewechselt,0,0,6
-9,2026-11-08T22:22:26+01:00,8329,Olise,MF,Bayern,65457508,2529,241,281.0,3.7,48946,6006,2,fit,,,,vorlaeufig,100,startelf,0,0,221
-9,2026-11-08T22:22:26+01:00,10789,Karl,MF,Bayern,16520687,687,224,76.3,13.6,21527,4344,2,fit,,,Felix,vorlaeufig,72,startelf,1,0,109
-9,2026-11-08T22:22:26+01:00,11675,Díaz,ST,Bayern,40571279,1174,0,130.4,0.0,28331,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,12314,Ndiaye,MF,Bayern,806390,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14251,Saibari,ST,Bayern,21160758,859,0,95.4,0.0,23349,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,15502,Binder,MF,Bayern,1369890,,0,,0.0,,,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,357,Grahl,TW,Frankfurt,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,461,Chandler,ABW,Frankfurt,500000,12,0,1.3,0.0,1847,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,513,Götze,MF,Frankfurt,3426550,239,0,26.6,0.0,12116,0,5,angeschlagen,,,MicheleFerra,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2144,Koch,ABW,Frankfurt,25345508,997,63,110.8,2.5,49428,5744,3,fit,,,1. FC Infantino,vorlaeufig,96,startelf,0,0,63
-9,2026-11-08T22:22:26+01:00,2255,Burkardt,ST,Frankfurt,27157043,978,244,108.7,9.0,42714,5744,3,fit,,,nico,vorlaeufig,96,startelf,2,0,74
-9,2026-11-08T22:22:26+01:00,2863,Knauff,MF,Frankfurt,3329405,172,31,19.1,9.3,16099,2838,3,angeschlagen,,,,vorlaeufig,47,startelf,0,0,31
-9,2026-11-08T22:22:26+01:00,2864,Collins,ABW,Frankfurt,6743476,240,50,26.7,7.4,20589,2965,3,fit,,,,vorlaeufig,49,eingewechselt,0,0,50
-9,2026-11-08T22:22:26+01:00,2887,Dōan,MF,Frankfurt,17263228,592,49,65.8,2.8,40387,3942,3,fit,,,Paul Block,vorlaeufig,66,startelf,0,0,49
-9,2026-11-08T22:22:26+01:00,3019,Atubolu,TW,Frankfurt,14351404,907,94,100.8,6.5,52256,5744,1,fit,,,Paul Block,vorlaeufig,96,startelf,0,0,39
-9,2026-11-08T22:22:26+01:00,6081,Uzun,MF,Frankfurt,24666179,767,37,85.2,1.5,36367,3937,3,fit,,,Jonnhji,vorlaeufig,66,startelf,0,0,37
-9,2026-11-08T22:22:26+01:00,7275,Santos,TW,Frankfurt,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7277,Chaïbi,MF,Frankfurt,10438463,643,178,71.4,17.1,31548,5744,1,fit,,,,vorlaeufig,96,startelf,0,1,133
-9,2026-11-08T22:22:26+01:00,7325,Baum,ABW,Frankfurt,9444306,573,8,63.7,0.8,39603,4629,5,gesperrt (Gelb-Rot),,,Felix,vorlaeufig,77,startelf,0,0,-22
-9,2026-11-08T22:22:26+01:00,7417,Aséko,MF,Frankfurt,9659039,397,21,44.1,2.2,25814,2838,2,fit,,,,vorlaeufig,47,startelf,0,0,21
-9,2026-11-08T22:22:26+01:00,8351,Højlund,MF,Frankfurt,500000,44,39,4.9,78.0,6755,2965,5,fit,,,,vorlaeufig,49,eingewechselt,0,0,39
-9,2026-11-08T22:22:26+01:00,10004,Ebnoutalib,ST,Frankfurt,23294011,930,25,103.3,1.1,37831,1806,3,fit,,,,vorlaeufig,30,eingewechselt,0,0,25
-9,2026-11-08T22:22:26+01:00,11186,Maluze,ABW,Frankfurt,5443545,396,0,44.0,0.0,11959,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,12284,Kosugi,ABW,Frankfurt,6898997,411,0,45.7,0.0,34822,0,3,fit,,,Clainsman,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,12285,Arrhov,MF,Frankfurt,537339,-11,9,-1.2,16.7,3274,523,5,fit,,,,vorlaeufig,9,eingewechselt,0,0,4
-9,2026-11-08T22:22:26+01:00,12294,Amaimouni,MF,Frankfurt,500000,82,0,9.1,0.0,7711,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14920,Pimpong,ST,Frankfurt,500000,-12,0,-1.3,0.0,2139,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,15529,Ilicevic,MF,Frankfurt,1650844,70,4,7.8,2.4,2340,,5,fit,,,Aaron,vorlaeufig,30,eingewechselt,0,0,4
-9,2026-11-08T22:22:26+01:00,15589,Otávio,ABW,Frankfurt,500000,-1,0,-0.1,0.0,611,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,16369,Onyedika,MF,Frankfurt,11013822,517,52,57.4,4.7,51733,5221,1,fit,,,Aaron,vorlaeufig,87,startelf,0,0,57
-9,2026-11-08T22:22:26+01:00,17285,Brassier,ABW,Frankfurt,18138755,777,79,86.3,4.4,46095,5744,1,fit,,,nico,vorlaeufig,96,startelf,0,0,124
-9,2026-11-08T22:22:26+01:00,43,Weiser,ABW,Bremen,7185323,399,0,44.3,0.0,12194,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,157,Stark,ABW,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,608,Füllkrug,ST,Bremen,22968432,1280,73,142.2,3.2,47348,5714,1,fit,,,Paul Block,vorlaeufig,95,startelf,0,0,93
-9,2026-11-08T22:22:26+01:00,1996,Friedl,ABW,Bremen,16176307,945,67,105.0,4.1,52552,5714,1,fit,,,Maurice,vorlaeufig,95,startelf,0,0,87
-9,2026-11-08T22:22:26+01:00,2294,Pieper,ABW,Bremen,15117282,965,96,107.2,6.4,46521,5714,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,116
-9,2026-11-08T22:22:26+01:00,2842,Agu,ABW,Bremen,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2939,Dinkçi,MF,Bremen,8278447,609,50,67.7,6.0,34295,5272,1,fit,,,nico,vorlaeufig,88,startelf,0,0,70
-9,2026-11-08T22:22:26+01:00,3139,Itten,ST,Bremen,500000,94,-5,10.4,-10.0,7399,442,5,fit,,,,vorlaeufig,7,eingewechselt,0,0,10
-9,2026-11-08T22:22:26+01:00,3166,Topp,ST,Bremen,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3228,Njinmah,ST,Bremen,1912954,23,21,2.6,11.0,5361,1611,5,fit,,,,vorlaeufig,27,eingewechselt,0,0,36
-9,2026-11-08T22:22:26+01:00,3281,Reis,MF,Bremen,12623795,914,63,101.6,5.0,48328,5714,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,83
-9,2026-11-08T22:22:26+01:00,3450,Kolke,TW,Bremen,500000,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3481,Stage,MF,Bremen,670547,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6174,Arthur,ABW,Bremen,10990444,651,49,72.3,4.5,42066,5714,1,fit,,,Clainsman,vorlaeufig,95,startelf,0,0,69
-9,2026-11-08T22:22:26+01:00,7167,Lynen,MF,Bremen,2558889,59,37,6.6,14.5,8184,4109,5,fit,,,,vorlaeufig,68,startelf,0,0,57
-9,2026-11-08T22:22:26+01:00,7282,Deman,ABW,Bremen,8622570,725,39,80.6,4.5,48276,5714,1,fit,,,,vorlaeufig,95,startelf,0,0,59
-9,2026-11-08T22:22:26+01:00,7721,Grüll,MF,Bremen,19199502,1335,41,148.3,2.1,50428,4102,1,angeschlagen,,,schwungzent,vorlaeufig,68,startelf,0,0,61
-9,2026-11-08T22:22:26+01:00,8166,Chuki,MF,Bremen,9802218,692,23,76.9,2.3,41011,1605,1,fit,,,Aaron,vorlaeufig,27,eingewechselt,0,0,38
-9,2026-11-08T22:22:26+01:00,9513,Hein,TW,Bremen,13450260,1189,85,132.1,6.3,52590,5714,1,fit,,,Jonnhji,vorlaeufig,95,startelf,0,0,105
-9,2026-11-08T22:22:26+01:00,9600,Schlager,TW,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,10131,Stalmach,MF,Bremen,500000,253,0,28.1,0.0,8396,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11262,Musah,ST,Bremen,500000,26,0,2.9,0.0,3874,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,13449,Ndiaye,ABW,Bremen,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14923,Quetant,ST,Bremen,925068,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14926,Soylu,MF,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,15256,Wójcik,ABW,Bremen,3318455,264,0,29.3,0.0,8513,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,15313,Erevbenagie,ST,Bremen,500000,92,0,10.2,0.0,3927,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,54,Can,ABW,Dortmund,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,75,Drewes,TW,Dortmund,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1856,Sabitzer,MF,Dortmund,4906938,368,21,40.9,4.3,16260,526,3,fit,,,Clainsman,vorlaeufig,9,eingewechselt,0,0,6
-9,2026-11-08T22:22:26+01:00,1873,Kobel,TW,Dortmund,18937914,1160,136,128.9,7.2,52950,5972,1,fit,,,Clainsman,vorlaeufig,100,startelf,0,0,116
-9,2026-11-08T22:22:26+01:00,1920,Guirassy,ST,Dortmund,33448996,1009,0,112.1,0.0,45259,0,5,angeschlagen,,,MicheleFerra,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2148,Meyer,TW,Dortmund,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2383,Schlotterbeck,ABW,Dortmund,30999035,1091,132,121.2,4.3,40189,5972,1,fit,,,Paul Block,vorlaeufig,100,startelf,0,0,112
-9,2026-11-08T22:22:26+01:00,2395,Ryerson,ABW,Dortmund,17097019,659,46,73.2,2.7,33969,1685,2,fit,,,nico,vorlaeufig,28,eingewechselt,0,0,31
-9,2026-11-08T22:22:26+01:00,2714,Beier,ST,Dortmund,22466718,920,105,102.2,4.7,36982,3978,3,fit,,,nico,vorlaeufig,66,eingewechselt,0,1,50
-9,2026-11-08T22:22:26+01:00,2736,Bensebaini,ABW,Dortmund,7136754,322,53,35.8,7.4,9057,1676,5,fit,,,,vorlaeufig,28,eingewechselt,0,0,38
-9,2026-11-08T22:22:26+01:00,3069,Nmecha,MF,Dortmund,29235323,1217,336,135.2,11.5,42607,5972,3,fit,,,Jonnhji,vorlaeufig,100,startelf,2,0,136
-9,2026-11-08T22:22:26+01:00,7737,Veerman,MF,Dortmund,14505821,770,139,85.6,9.6,31324,5972,3,fit,,,Felix,vorlaeufig,100,startelf,0,0,119
-9,2026-11-08T22:22:26+01:00,9440,Mane,ABW,Dortmund,2079791,64,0,7.1,0.0,3152,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9698,Fábio Silva,ST,Dortmund,11158690,725,114,80.6,10.2,22122,5441,2,fit,,,nico,vorlaeufig,91,startelf,0,1,49
-9,2026-11-08T22:22:26+01:00,10114,Chukwuemeka,MF,Dortmund,6753311,263,62,29.2,9.2,9609,1993,3,angeschlagen,,,Paul Block,vorlaeufig,33,startelf,0,0,47
-9,2026-11-08T22:22:26+01:00,10115,Svensson,ABW,Dortmund,21622354,993,94,110.3,4.3,51400,5972,3,fit,,,,vorlaeufig,100,startelf,0,0,74
-9,2026-11-08T22:22:26+01:00,11099,Bellingham,MF,Dortmund,18655240,908,117,100.9,6.3,41791,5445,3,fit,,,,vorlaeufig,91,startelf,0,0,97
-9,2026-11-08T22:22:26+01:00,11100,Inácio,MF,Dortmund,686320,-53,0,-5.9,0.0,673,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11101,Albert,ST,Dortmund,742136,17,0,1.9,0.0,1590,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13472,Reggiani,ABW,Dortmund,603324,57,0,6.3,0.0,1999,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14662,Lerma,MF,Dortmund,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,14899,Prates,ABW,Dortmund,500000,34,0,3.8,0.0,632,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,15211,Gadou,ABW,Dortmund,24486128,907,82,100.8,3.3,43228,4296,1,fit,,,Paul Block,vorlaeufig,72,startelf,0,0,62
-9,2026-11-08T22:22:26+01:00,16378,Karetsas,MF,Dortmund,18285206,469,93,52.1,5.1,18456,4287,3,fit,,,Felix,vorlaeufig,71,startelf,0,0,73
-9,2026-11-08T22:22:26+01:00,16948,Konstantelias,MF,Dortmund,830844,181,0,20.1,0.0,3348,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,17309,Nwaneri,MF,Dortmund,9240315,505,25,56.1,2.7,21824,531,3,fit,,,1. FC Infantino,vorlaeufig,9,eingewechselt,0,0,10
-9,2026-11-08T22:22:26+01:00,493,Gregoritsch,ST,Augsburg,15771413,867,0,96.3,0.0,32729,0,3,fit,,,Clainsman,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1809,Wolf,MF,Augsburg,7071733,573,0,63.7,0.0,27413,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1811,Gouweleeuw,ABW,Augsburg,7634339,341,29,37.9,3.8,22677,5756,1,fit,,,,vorlaeufig,96,startelf,0,0,59
-9,2026-11-08T22:22:26+01:00,2195,Dahmen,TW,Augsburg,16783179,1055,34,117.2,2.0,53057,5756,1,fit,,,Felix,vorlaeufig,96,startelf,0,0,64
-9,2026-11-08T22:22:26+01:00,2764,Keitel,MF,Augsburg,5070706,98,22,10.9,4.3,15065,5756,1,fit,,,,vorlaeufig,96,startelf,0,0,52
-9,2026-11-08T22:22:26+01:00,3183,Kade,ST,Augsburg,13584581,543,134,60.3,9.9,26723,5373,2,fit,,,Aaron,vorlaeufig,90,startelf,1,0,89
-9,2026-11-08T22:22:26+01:00,4654,Kömür,MF,Augsburg,3286701,294,-4,32.7,-1.2,13249,382,4,fit,,,,vorlaeufig,6,eingewechselt,0,0,6
-9,2026-11-08T22:22:26+01:00,6168,Fellhauer,MF,Augsburg,9270679,624,8,69.3,0.9,42894,5756,3,fit,,,Clainsman,vorlaeufig,96,startelf,0,0,38
-9,2026-11-08T22:22:26+01:00,7283,Brackelmann,ABW,Augsburg,7115277,650,0,72.2,0.0,34819,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7336,Suso,MF,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7676,Rieder,MF,Augsburg,23237605,1207,107,134.1,4.6,52415,5756,1,fit,,,Maurice,vorlaeufig,96,startelf,0,1,92
-9,2026-11-08T22:22:26+01:00,7696,Labrović,TW,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8355,Banks,ABW,Augsburg,1901256,398,0,44.2,0.0,23079,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,9642,Matsima,ABW,Augsburg,17577349,917,102,101.9,5.8,53057,5756,1,fit,,,Paul Block,vorlaeufig,96,startelf,0,0,132
-9,2026-11-08T22:22:26+01:00,9684,Claude-Maurice,MF,Augsburg,5463536,277,65,30.8,11.9,10434,2927,3,fit,,,,vorlaeufig,49,eingewechselt,0,0,85
-9,2026-11-08T22:22:26+01:00,9754,Bah,ABW,Augsburg,2869032,139,0,15.4,0.0,12317,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9965,Sakar,MF,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,10049,Behrens,ABW,Augsburg,14367285,868,47,96.4,3.3,53057,5756,1,fit,,,Maurice,vorlaeufig,96,startelf,0,0,77
-9,2026-11-08T22:22:26+01:00,11556,Massengo,MF,Augsburg,11525417,667,22,74.1,1.9,47477,4533,1,fit,,,schwungzent,vorlaeufig,76,startelf,0,0,57
-9,2026-11-08T22:22:26+01:00,12263,Schnitzer,MF,Augsburg,810873,13,13,1.4,16.0,1222,,5,fit,,,,vorlaeufig,20,eingewechselt,0,0,23
-9,2026-11-08T22:22:26+01:00,12341,Ribeiro,ST,Augsburg,3352854,214,-1,23.8,-0.3,19229,4538,3,fit,,,1. FC Infantino,vorlaeufig,76,startelf,0,0,34
-9,2026-11-08T22:22:26+01:00,13479,Ogundu,ST,Augsburg,500000,123,105,13.7,210.0,1934,1218,5,fit,,,,vorlaeufig,20,eingewechselt,1,0,35
-9,2026-11-08T22:22:26+01:00,13671,Wisbereit,TW,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13806,Seol,ABW,Augsburg,1194667,142,0,15.8,0.0,9525,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,619,Stöger,MF,M'gladbach,1687467,-4,0,-0.4,0.0,10285,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,849,Kleindienst,ST,M'gladbach,4409090,9,0,1.0,0.0,13737,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1883,Nicolas,TW,M'gladbach,8705546,642,0,71.3,0.0,41416,0,5,angeschlagen,,,1. FC Infantino,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2074,Hack,MF,M'gladbach,6075235,223,126,24.8,20.7,25073,6234,1,fit,,,Clainsman,vorlaeufig,57,startelf,1,0,61
-9,2026-11-08T22:22:26+01:00,2126,Kühn,MF,M'gladbach,2314840,57,0,6.3,0.0,2598,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2261,Neuhaus,MF,M'gladbach,9490945,471,82,52.3,8.6,28747,8554,2,fit,,,Aaron,vorlaeufig,96,startelf,0,0,107
-9,2026-11-08T22:22:26+01:00,2560,Sander,MF,M'gladbach,8209478,486,26,54.0,3.2,52892,8554,1,fit,,,Felix,vorlaeufig,96,startelf,0,0,51
-9,2026-11-08T22:22:26+01:00,2850,Olschowsky,TW,M'gladbach,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2862,Castrop,MF,M'gladbach,4174219,-9,-23,-1.0,-5.5,1851,835,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,-8
-9,2026-11-08T22:22:26+01:00,2941,Scally,ABW,M'gladbach,9293384,619,56,68.8,6.0,44376,8554,1,fit,,,,vorlaeufig,96,startelf,0,1,46
-9,2026-11-08T22:22:26+01:00,3063,Chiarodia,ABW,M'gladbach,4525520,268,38,29.8,8.4,22131,8554,2,fit,,,,vorlaeufig,96,startelf,0,0,63
-9,2026-11-08T22:22:26+01:00,3129,Itakura,ABW,M'gladbach,5946185,97,-53,10.8,-8.9,26721,2994,5,gesperrt (Gelb-Rot),,,,vorlaeufig,50,startelf,0,0,-38
-9,2026-11-08T22:22:26+01:00,3516,Leopold,MF,M'gladbach,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,4292,Herold,ABW,M'gladbach,689897,41,0,4.6,0.0,9610,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4333,Ullrich,ABW,M'gladbach,5472055,484,30,53.8,5.5,43601,7730,5,verletzt,,,,vorlaeufig,82,startelf,0,0,55
-9,2026-11-08T22:22:26+01:00,6199,Machino,ST,M'gladbach,7302000,251,19,27.9,2.6,22708,7724,1,fit,,,,vorlaeufig,82,startelf,0,0,44
-9,2026-11-08T22:22:26+01:00,6319,Honorat,MF,M'gladbach,5517474,249,-9,27.7,-1.6,16005,823,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,6
-9,2026-11-08T22:22:26+01:00,7774,Konoplia,ABW,M'gladbach,2627432,19,0,2.1,0.0,1461,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9540,Lidberg,ST,M'gladbach,3252265,191,27,21.2,8.3,20649,830,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,42
-9,2026-11-08T22:22:26+01:00,11010,Diks,ABW,M'gladbach,7607735,232,-15,25.8,-2.0,37771,2319,4,fit,,,,vorlaeufig,39,eingewechselt,0,0,10
-9,2026-11-08T22:22:26+01:00,11748,Mohya,MF,M'gladbach,10715390,560,61,62.2,5.7,34487,8555,1,fit,,,1. FC Infantino,vorlaeufig,96,startelf,0,0,86
-9,2026-11-08T22:22:26+01:00,12243,Fleck,MF,M'gladbach,500000,0,0,0.0,0.0,999,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13442,Bolin,MF,M'gladbach,7480842,511,0,56.8,0.0,36107,0,5,angeschlagen,,,MicheleFerra,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,15181,Leszczynski,ABW,M'gladbach,1896239,104,0,11.6,0.0,12476,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,15202,Uno,MF,M'gladbach,3873026,168,45,18.7,11.6,23177,7718,1,fit,,,Clainsman,vorlaeufig,82,startelf,0,0,70
-9,2026-11-08T22:22:26+01:00,15613,Hashioka,ABW,M'gladbach,3828320,227,0,25.2,0.0,24775,2822,4,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,16564,Nguefack,MF,M'gladbach,1054232,38,0,4.2,0.0,9921,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,16567,Danfa,ST,M'gladbach,500000,-21,0,-2.3,0.0,922,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1863,Heuer Fernandes,TW,Hamburg,12100144,926,127,102.9,10.5,52319,5732,1,fit,,,Aaron,vorlaeufig,96,startelf,0,0,102
-9,2026-11-08T22:22:26+01:00,1865,Poulsen,ST,Hamburg,4662920,400,32,44.4,6.9,17861,870,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,17
-9,2026-11-08T22:22:26+01:00,1889,Jatta,MF,Hamburg,500000,32,0,3.6,0.0,6359,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1978,Torunarigha,ABW,Hamburg,5353809,234,0,26.0,0.0,25278,0,2,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2725,Bornauw,ABW,Hamburg,7434337,528,118,58.7,15.9,34484,5360,3,fit,,,,vorlaeufig,89,startelf,0,0,93
-9,2026-11-08T22:22:26+01:00,3277,Muheim,ABW,Hamburg,10350449,743,213,82.6,20.6,25597,5732,2,fit,,,Paul Block,vorlaeufig,96,startelf,1,0,98
-9,2026-11-08T22:22:26+01:00,6201,Remberg,MF,Hamburg,1607683,214,0,23.8,0.0,25254,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,7350,Stange,ST,Hamburg,1053541,20,0,2.2,0.0,13898,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7394,Amoako,MF,Hamburg,2354220,87,38,9.7,16.1,3807,862,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,23
-9,2026-11-08T22:22:26+01:00,8367,Sambi Lokonga,MF,Hamburg,5181392,381,164,42.3,31.7,32244,4870,1,fit,,,nico,vorlaeufig,81,startelf,0,1,79
-9,2026-11-08T22:22:26+01:00,9605,Grønbæk,MF,Hamburg,8228901,640,297,71.1,36.1,33902,4861,1,fit,,,,vorlaeufig,81,startelf,1,1,137
-9,2026-11-08T22:22:26+01:00,10120,Røssing-Lelesiit,ST,Hamburg,1038011,138,57,15.3,54.9,4630,1913,4,fit,,,,vorlaeufig,32,eingewechselt,0,0,37
-9,2026-11-08T22:22:26+01:00,11512,Capaldo,ABW,Hamburg,6858460,520,0,57.8,0.0,34663,0,4,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11752,Omari,ABW,Hamburg,5482417,405,94,45.0,17.1,36441,5732,1,fit,,,,vorlaeufig,96,startelf,0,0,69
-9,2026-11-08T22:22:26+01:00,11949,Nandja,ABW,Hamburg,3998274,155,155,17.2,38.8,23103,3818,3,fit,,,,vorlaeufig,64,startelf,1,0,35
-9,2026-11-08T22:22:26+01:00,11967,Vieira,MF,Hamburg,7238730,252,0,28.0,0.0,21487,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,12368,Tangvik,TW,Hamburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13433,Lemke,ABW,Hamburg,3244884,115,0,12.8,0.0,20584,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14256,El Ouahdi,ABW,Hamburg,5095341,307,108,34.1,21.2,30419,5732,2,fit,,,MicheleFerra,vorlaeufig,96,startelf,0,0,83
-9,2026-11-08T22:22:26+01:00,14425,Møller Wolfe,ABW,Hamburg,5132736,433,128,48.1,24.9,44977,5732,1,fit,,,,vorlaeufig,96,startelf,0,0,103
-9,2026-11-08T22:22:26+01:00,15283,Adeline,MF,Hamburg,3691694,314,75,34.9,20.3,31472,3824,3,fit,,,,vorlaeufig,64,startelf,0,0,55
-9,2026-11-08T22:22:26+01:00,15472,Daka,ST,Hamburg,3366925,143,72,15.9,21.4,21001,5732,3,fit,,,Jonnhji,vorlaeufig,96,startelf,0,0,47
-9,2026-11-08T22:22:26+01:00,15478,Nadir,MF,Hamburg,2925051,147,0,16.3,0.0,12987,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,17203,Moffi,ST,Hamburg,5372704,316,33,35.1,6.1,22265,1907,3,fit,,,,vorlaeufig,32,eingewechselt,0,0,13
-9,2026-11-08T22:22:26+01:00,417,Zieler,TW,Köln,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,737,Waldschmidt,MF,Köln,694428,39,-9,4.3,-13.0,3918,750,5,fit,,,,vorlaeufig,12,eingewechselt,0,0,6
-9,2026-11-08T22:22:26+01:00,1580,Schwäbe,TW,Köln,13439436,1045,132,116.1,9.8,52418,5807,1,fit,,,,vorlaeufig,97,startelf,0,0,152
-9,2026-11-08T22:22:26+01:00,2069,Hübers,ABW,Köln,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2201,Maina,ST,Köln,9477972,574,10,63.8,1.1,40112,4514,2,fit,,,MicheleFerra,vorlaeufig,75,startelf,0,0,30
-9,2026-11-08T22:22:26+01:00,2358,Krauß,MF,Köln,8554682,645,45,71.7,5.3,45768,4502,1,fit,,,,vorlaeufig,75,startelf,0,0,65
-9,2026-11-08T22:22:26+01:00,2536,Köbbing,TW,Köln,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2552,Bülter,ST,Köln,7591590,388,36,43.1,4.7,36180,4513,1,fit,,,,vorlaeufig,75,startelf,0,0,56
-9,2026-11-08T22:22:26+01:00,2718,Skhiri,MF,Köln,3129703,405,0,45.0,0.0,19285,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2765,Thielmann,MF,Köln,685646,128,0,14.2,0.0,9850,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2855,Ache,ST,Köln,5275628,251,0,27.9,0.0,12132,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7219,Jóhannesson,MF,Köln,7203524,548,-7,60.9,-1.0,36296,1305,4,fit,,,,vorlaeufig,22,eingewechselt,0,0,8
-9,2026-11-08T22:22:26+01:00,8001,Lochoshvili,ABW,Köln,7789690,549,0,61.0,0.0,39689,0,4,fit,,,Aaron,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8273,El Mala,ST,Köln,2358301,150,56,16.7,23.7,2525,1294,5,fit,,,Jonnhji,vorlaeufig,22,eingewechselt,0,1,26
-9,2026-11-08T22:22:26+01:00,8274,El Mala,MF,Köln,22267264,673,140,74.8,6.3,37822,5807,1,fit,,,Aaron,vorlaeufig,97,startelf,1,0,80
-9,2026-11-08T22:22:26+01:00,10121,Rondic,ST,Köln,500000,7,0,0.8,0.0,988,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,11570,Sebulonsen,ABW,Köln,4539113,289,48,32.1,10.6,27881,5060,3,fit,,,,vorlaeufig,84,startelf,0,0,68
-9,2026-11-08T22:22:26+01:00,11875,van den Berg,ABW,Köln,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,11958,Castro-Montes,MF,Köln,3822785,309,-4,34.3,-1.0,23703,747,3,fit,,,,vorlaeufig,12,eingewechselt,0,0,11
-9,2026-11-08T22:22:26+01:00,12321,Simpson-Pusey,ABW,Köln,11850003,798,45,88.7,3.8,52418,5807,1,fit,,,Aaron,vorlaeufig,97,startelf,0,0,65
-9,2026-11-08T22:22:26+01:00,14140,Mensah,ABW,Köln,2773929,230,0,25.6,0.0,21221,0,5,fit,,,MicheleFerra,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14300,Okon-Engstler,MF,Köln,3847171,243,63,27.0,16.4,20879,5807,2,fit,,,,vorlaeufig,97,startelf,0,0,83
-9,2026-11-08T22:22:26+01:00,15373,Heskey,MF,Köln,500000,0,-1,0.0,-2.0,3906,1293,5,fit,,,,vorlaeufig,22,eingewechselt,0,0,14
-9,2026-11-08T22:22:26+01:00,16945,Dallinga,ST,Köln,500000,258,0,28.7,0.0,9678,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,17282,Moore,MF,Köln,5733260,387,4,43.0,0.7,31652,5057,2,fit,,,Felix,vorlaeufig,84,startelf,0,0,24
-9,2026-11-08T22:22:26+01:00,168,Michel,ST,Paderborn,500000,35,0,3.9,0.0,990,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,1964,Götze,ABW,Paderborn,4439367,232,0,25.8,0.0,5175,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2015,Obermair,MF,Paderborn,9528970,871,201,96.8,21.1,48052,4029,1,fit,,,MicheleFerra,vorlaeufig,67,startelf,1,0,111
-9,2026-11-08T22:22:26+01:00,2301,Batista Meier,MF,Paderborn,500000,-28,0,-3.1,0.0,3629,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2471,Schubert,TW,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2498,Baack,MF,Paderborn,3701222,266,55,29.6,14.9,17099,5744,3,fit,,,Maurice,vorlaeufig,96,startelf,0,0,55
-9,2026-11-08T22:22:26+01:00,2749,Tigges,ST,Paderborn,5934513,504,6,56.0,1.0,21832,336,3,fit,,,,vorlaeufig,6,eingewechselt,0,0,11
-9,2026-11-08T22:22:26+01:00,2977,Noll,TW,Paderborn,16076420,1149,29,127.7,1.8,51570,5744,1,fit,,,MicheleFerra,vorlaeufig,96,startelf,0,0,29
-9,2026-11-08T22:22:26+01:00,3027,Pieringer,ST,Paderborn,2949154,340,116,37.8,39.3,31365,1723,3,fit,,,,vorlaeufig,29,eingewechselt,1,0,36
-9,2026-11-08T22:22:26+01:00,3081,Vidović,MF,Paderborn,4827114,494,28,54.9,5.8,41643,2838,1,fit,,,,vorlaeufig,47,startelf,0,0,28
-9,2026-11-08T22:22:26+01:00,3336,Marino,ST,Paderborn,8075682,492,55,54.7,6.8,36191,4544,2,fit,,,,vorlaeufig,76,startelf,0,0,50
-9,2026-11-08T22:22:26+01:00,3491,Klaas,MF,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3492,Hoffmeier,ABW,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3559,Ulrich,MF,Paderborn,5997535,466,0,51.8,0.0,34171,0,3,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6197,Curda,ABW,Paderborn,11973991,858,85,95.3,7.1,49972,5744,1,fit,,,,vorlaeufig,96,startelf,0,0,85
-9,2026-11-08T22:22:26+01:00,6217,Philippe,ST,Paderborn,4740313,292,0,32.4,0.0,11480,1200,4,fit,,,,vorlaeufig,20,eingewechselt,0,0,5
-9,2026-11-08T22:22:26+01:00,6292,Hansen,ABW,Paderborn,8413265,791,106,87.9,12.6,47306,5744,1,fit,,,,vorlaeufig,96,startelf,0,0,106
-9,2026-11-08T22:22:26+01:00,6751,Pruhs,TW,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,7320,Scheller,ABW,Paderborn,10916550,897,111,99.7,10.2,51056,5744,1,fit,,,Clainsman,vorlaeufig,96,startelf,0,0,111
-9,2026-11-08T22:22:26+01:00,7616,ter Horst,ABW,Paderborn,7222264,713,104,79.2,14.4,47290,5744,3,fit,,,MicheleFerra,vorlaeufig,96,startelf,0,0,104
-9,2026-11-08T22:22:26+01:00,8872,Sticker,ABW,Paderborn,500000,128,0,14.2,0.0,4642,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8984,Awortwie-Grant,ABW,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9283,Zeitler,ST,Paderborn,500000,6,6,0.7,12.0,2629,,5,fit,,,,vorlaeufig,44,eingewechselt,0,0,1
-9,2026-11-08T22:22:26+01:00,10048,Duric,MF,Paderborn,500000,-16,0,-1.8,0.0,1010,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,11170,Müller,MF,Paderborn,500000,90,81,10.0,162.0,5217,4020,5,fit,,,,vorlaeufig,67,startelf,0,1,36
-9,2026-11-08T22:22:26+01:00,12262,Millgramm,ST,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,14911,Lippmann,ABW,Paderborn,500000,1,22,0.1,44.0,3494,1715,5,fit,,,,vorlaeufig,29,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,14914,Gayret,MF,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,859,Gyamerah,ABW,Elversberg,2113342,264,0,29.3,0.0,24900,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,1745,Condé,MF,Elversberg,500000,43,0,4.8,0.0,2123,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2495,Boss,TW,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2928,Petkov,MF,Elversberg,12805746,884,108,98.2,8.4,51850,5972,1,fit,,,Maurice,vorlaeufig,100,startelf,0,0,128
-9,2026-11-08T22:22:26+01:00,3026,Günther,ABW,Elversberg,8131413,579,28,64.3,3.4,45848,4956,1,fit,,,,vorlaeufig,83,startelf,0,0,53
-9,2026-11-08T22:22:26+01:00,3232,Pfeiffer,ST,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3284,Rohr,ABW,Elversberg,16175755,1000,86,111.1,5.3,52101,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,106
-9,2026-11-08T22:22:26+01:00,3350,Keidel,ABW,Elversberg,10659071,928,100,103.1,9.4,51316,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,120
-9,2026-11-08T22:22:26+01:00,6148,Pinckert,ABW,Elversberg,12211774,810,7,90.0,0.6,49197,2213,1,angeschlagen,,,Maurice,vorlaeufig,37,startelf,0,0,22
-9,2026-11-08T22:22:26+01:00,6149,Lehmann,TW,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6158,Schnellbacher,ST,Elversberg,500000,36,0,4.0,0.0,2386,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,6160,Kristof,TW,Elversberg,12039687,910,114,101.1,9.5,52956,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,134
-9,2026-11-08T22:22:26+01:00,6183,Futkeu,ST,Elversberg,2576367,194,87,21.6,33.8,11655,1023,5,fit,,,,vorlaeufig,17,eingewechselt,1,0,17
-9,2026-11-08T22:22:26+01:00,7278,Poreba,MF,Elversberg,9980761,652,33,72.4,3.3,52956,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,53
-9,2026-11-08T22:22:26+01:00,7441,Campbell,MF,Elversberg,5963665,445,44,49.4,7.4,21191,1676,3,fit,,,,vorlaeufig,28,eingewechselt,0,0,59
-9,2026-11-08T22:22:26+01:00,7463,Onyeka,MF,Elversberg,7075563,342,-9,38.0,-1.3,20035,4295,1,fit,,,Clainsman,vorlaeufig,72,startelf,0,0,11
-9,2026-11-08T22:22:26+01:00,7514,Le Joncour,ABW,Elversberg,500000,99,79,11.0,158.0,4614,3759,5,fit,,,,vorlaeufig,63,eingewechselt,0,1,54
-9,2026-11-08T22:22:26+01:00,8252,Krattenmacher,MF,Elversberg,10658347,716,-6,79.6,-0.6,29969,4949,3,fit,,,,vorlaeufig,82,startelf,0,0,19
-9,2026-11-08T22:22:26+01:00,8296,Schmahl,MF,Elversberg,3115444,104,0,11.6,0.0,9918,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8301,Sirch,ABW,Elversberg,5326056,321,23,35.7,4.3,26642,4944,1,fit,,,Aaron,vorlaeufig,82,startelf,0,0,48
-9,2026-11-08T22:22:26+01:00,9224,Zimmerschied,MF,Elversberg,998715,0,0,0.0,0.0,3624,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,9384,Darvich,MF,Elversberg,3202354,138,0,15.3,0.0,16627,0,4,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,9995,Mokwa,ST,Elversberg,7723189,453,-13,50.3,-1.7,41333,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,7
-9,2026-11-08T22:22:26+01:00,11253,Mickelson,ABW,Elversberg,771247,142,2,15.8,2.6,6278,1027,5,fit,,,,vorlaeufig,17,eingewechselt,0,0,12
-9,2026-11-08T22:22:26+01:00,12317,Adam,ST,Elversberg,2309462,53,12,5.9,5.2,5051,1015,5,fit,,,,vorlaeufig,17,eingewechselt,0,0,22
-9,2026-11-08T22:22:26+01:00,32,Karius,TW,Schalke,16528895,1071,-21,119.0,-1.3,49903,3132,1,fit,,,schwungzent,vorlaeufig,52,startelf,0,0,49
-9,2026-11-08T22:22:26+01:00,670,Karaman,ST,Schalke,5190378,301,54,33.4,10.4,34590,6038,1,fit,,,Aaron,vorlaeufig,101,startelf,0,0,74
-9,2026-11-08T22:22:26+01:00,755,Müller,TW,Schalke,500000,52,52,5.8,104.0,2906,,5,fit,,,,vorlaeufig,48,eingewechselt,0,0,62
-9,2026-11-08T22:22:26+01:00,1012,Džeko,ST,Schalke,1714123,63,22,7.0,12.8,14424,1408,3,fit,,,,vorlaeufig,23,eingewechselt,0,0,17
-9,2026-11-08T22:22:26+01:00,1691,Porath,MF,Schalke,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2449,Hwang,ST,Schalke,3965961,167,43,18.6,10.8,17055,0,3,fit,,,,vorlaeufig,101,startelf,0,0,63
-9,2026-11-08T22:22:26+01:00,2762,Becker,ABW,Schalke,7641874,559,0,62.1,0.0,39423,0,1,fit,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,2876,Schallenberg,MF,Schalke,500000,-53,0,-5.9,0.0,6263,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,2967,El-Faouzi,MF,Schalke,5007283,408,38,45.3,7.6,37555,0,2,fit,,,,vorlaeufig,101,startelf,0,0,58
-9,2026-11-08T22:22:26+01:00,3022,Lasme,ST,Schalke,500000,-30,0,-3.3,0.0,596,0,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,3029,Ljubičić,MF,Schalke,3930563,184,57,20.4,14.5,18225,4630,2,fit,,,nico,vorlaeufig,77,startelf,0,0,82
-9,2026-11-08T22:22:26+01:00,3307,Bachmann,MF,Schalke,500000,57,0,6.3,0.0,4055,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,4406,Dina Ebimbe,MF,Schalke,4017983,355,63,39.4,15.7,27102,1795,4,fit,,,,vorlaeufig,30,eingewechselt,0,0,73
-9,2026-11-08T22:22:26+01:00,4606,Kuruçay,ABW,Schalke,10718395,727,78,80.8,7.3,49709,6038,1,fit,,,schwungzent,vorlaeufig,101,startelf,0,0,98
-9,2026-11-08T22:22:26+01:00,6172,Adamu,ST,Schalke,2592542,163,113,18.1,43.6,24031,0,3,fit,,,,vorlaeufig,30,eingewechselt,1,0,33
-9,2026-11-08T22:22:26+01:00,7156,Wöber,ABW,Schalke,2421127,227,0,25.2,0.0,12753,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
-9,2026-11-08T22:22:26+01:00,7242,Gosens,ABW,Schalke,5146305,471,52,52.3,10.1,31434,3123,3,fit,,,,vorlaeufig,52,startelf,0,0,77
-9,2026-11-08T22:22:26+01:00,8222,Sylla,ST,Schalke,2059221,57,0,6.3,0.0,18120,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8235,Gantenbein,ABW,Schalke,2612012,161,0,17.9,0.0,8581,0,5,Aufbautraining,,,Clainsman,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,8277,Becker,ABW,Schalke,3973927,148,28,16.4,7.0,17023,0,3,fit,,,,vorlaeufig,49,eingewechselt,0,0,38
-9,2026-11-08T22:22:26+01:00,10916,Ayhan,ABW,Schalke,2214786,58,12,6.4,5.4,10706,4243,4,fit,,,Aaron,vorlaeufig,71,startelf,0,0,37
-9,2026-11-08T22:22:26+01:00,12158,Vozar,MF,Schalke,500000,5,0,0.6,0.0,1178,0,4,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,12297,Tanaka,MF,Schalke,7920520,416,15,46.2,1.9,42883,4248,1,fit,,,Aaron,vorlaeufig,71,startelf,0,0,40
-9,2026-11-08T22:22:26+01:00,13431,Siebeking,TW,Schalke,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
-9,2026-11-08T22:22:26+01:00,13448,Aouchiche,MF,Schalke,8043919,641,123,71.2,15.3,43434,6038,1,fit,,,,vorlaeufig,101,startelf,0,0,143
+9,2026-11-08T23:28:51+01:00,4199,García,MF,Leverkusen,39364530,1329,271,147.7,6.9,51200,5807,2,fit,gekauft,42680003,Kai,vorlaeufig,97,startelf,1,0,161
+9,2026-11-08T23:28:51+01:00,6080,Pavlović,MF,Bayern,37516856,1459,157,162.1,4.2,40580,6006,3,fit,gekauft,34676324,Kai,vorlaeufig,100,startelf,0,0,137
+9,2026-11-08T23:28:51+01:00,11255,Katic,ABW,Schalke,16801832,899,42,99.9,2.5,50280,6038,1,fit,gekauft,12430089,Kai,vorlaeufig,101,startelf,0,0,62
+9,2026-11-08T23:28:51+01:00,1704,Anton,ABW,Dortmund,36582468,1373,99,152.6,2.7,52950,5972,1,angeschlagen,gekauft,34740039,Kai,vorlaeufig,100,startelf,0,0,79
+9,2026-11-08T23:28:51+01:00,2746,Schick,ST,Leverkusen,32807248,1423,178,158.1,5.4,45533,5807,1,fit,gekauft,30783332,Kai,vorlaeufig,97,startelf,1,0,78
+9,2026-11-08T23:28:51+01:00,3120,Bischof,MF,Bayern,19471841,555,31,61.7,1.6,18349,1662,3,fit,gekauft,17420035,Kai,vorlaeufig,28,eingewechselt,0,0,21
+9,2026-11-08T23:28:51+01:00,2247,Sosa,ABW,Köln,11126574,580,62,64.4,5.6,31196,5807,1,fit,gekauft,7210368,Kai,vorlaeufig,97,startelf,0,0,82
+9,2026-11-08T23:28:51+01:00,8227,Vandevoordt,TW,Leipzig,19866074,1274,143,141.6,7.2,46252,5756,1,fit,gekauft,18720420,Kai,vorlaeufig,96,startelf,0,0,113
+9,2026-11-08T23:28:51+01:00,8292,Castañeda,MF,Paderborn,13509524,1032,113,114.7,8.4,51570,5744,1,fit,gekauft,11720036,Kai,vorlaeufig,96,startelf,0,0,113
+9,2026-11-08T23:28:51+01:00,17288,Regeer,MF,Bremen,15047872,823,81,91.4,5.4,42893,5714,1,fit,gekauft,14273888,Kai,vorlaeufig,95,startelf,0,0,101
+9,2026-11-08T23:28:51+01:00,4596,Gruda,MF,Leipzig,19623870,851,223,94.6,11.4,28281,4082,3,fit,gekauft,18767693,Kai,vorlaeufig,68,startelf,0,2,103
+9,2026-11-08T23:28:51+01:00,10134,Schmetgens,ABW,Bremen,4178501,192,0,21.3,0.0,13874,0,5,fit,gekauft,3162222,Kai,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3176,Ibrahimović,MF,Augsburg,10724717,625,17,69.4,1.6,29788,2897,3,fit,gekauft,9893333,Kai,vorlaeufig,48,startelf,0,0,27
+9,2026-11-08T23:28:51+01:00,3041,Widmer,ABW,Mainz,2192524,74,16,8.2,7.3,9222,4449,2,fit,gekauft,1100000,Kai,vorlaeufig,74,startelf,0,0,41
+9,2026-11-08T23:28:51+01:00,577,Batz,TW,M'gladbach,3261927,375,184,41.7,56.4,11476,8554,1,fit,gekauft,3683399,Kai,vorlaeufig,96,startelf,0,0,209
+9,2026-11-08T23:28:51+01:00,3754,Vázquez,ABW,Leverkusen,2990392,62,0,6.9,0.0,8814,0,3,fit,gekauft,3633663,Kai,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,10024,Schmied,ABW,Köln,3853560,243,32,27.0,8.3,17161,5807,2,fit,gekauft,4733338,Kai,vorlaeufig,97,startelf,0,0,52
+9,2026-11-08T23:28:51+01:00,60,Kohr,ABW,Mainz,500000,96,0,10.7,0.0,4824,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,550,Bell,ABW,Mainz,500000,,0,,0.0,,,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,620,Schwolow,TW,Mainz,4653866,582,0,64.7,0.0,29575,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1540,Da Costa,ABW,Mainz,6657494,537,12,59.7,1.8,34875,6006,2,fit,,,,vorlaeufig,100,startelf,0,0,77
+9,2026-11-08T23:28:51+01:00,1590,Zentner,TW,Mainz,8267517,381,125,42.3,15.1,23360,6006,1,fit,,,,vorlaeufig,100,startelf,0,0,145
+9,2026-11-08T23:28:51+01:00,1639,Amiri,MF,Mainz,29632126,909,74,101.0,2.5,49441,6006,1,fit,,,Felix,vorlaeufig,100,startelf,0,0,94
+9,2026-11-08T23:28:51+01:00,2006,Posch,ABW,Mainz,7362007,485,0,53.9,0.0,40834,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2030,Tietz,ST,Mainz,22816519,1051,97,116.8,4.3,46595,1877,2,fit,,,,vorlaeufig,31,eingewechselt,1,0,27
+9,2026-11-08T23:28:51+01:00,2232,Mwene,ABW,Mainz,7782085,644,0,71.6,0.0,43610,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2399,Maloney,MF,Mainz,2624310,75,0,8.3,0.0,3850,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2476,Lee,MF,Mainz,8954225,646,19,71.8,2.1,31586,4130,3,fit,,,,vorlaeufig,69,startelf,0,0,44
+9,2026-11-08T23:28:51+01:00,2646,Becker,ST,Mainz,19464681,975,31,108.3,1.6,42684,4438,2,fit,,,schwungzent,vorlaeufig,74,startelf,0,0,56
+9,2026-11-08T23:28:51+01:00,2702,Martel,MF,Mainz,3546879,102,-9,11.3,-2.5,8484,763,3,fit,,,,vorlaeufig,13,eingewechselt,0,0,1
+9,2026-11-08T23:28:51+01:00,2822,Silas,ST,Mainz,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2895,Nebel,MF,Mainz,6421329,20,0,2.2,0.0,7595,1875,3,fit,,,,vorlaeufig,31,eingewechselt,0,0,10
+9,2026-11-08T23:28:51+01:00,3318,Königsdörffer,ST,Mainz,2937677,265,39,29.4,13.3,17545,4129,4,fit,,,,vorlaeufig,69,startelf,0,0,64
+9,2026-11-08T23:28:51+01:00,3470,Caci,ABW,Mainz,15414978,1135,72,126.1,4.7,43146,5243,1,fit,,,schwungzent,vorlaeufig,87,startelf,0,0,97
+9,2026-11-08T23:28:51+01:00,6111,Hollerbach,ST,Mainz,1900696,253,67,28.1,35.3,6540,1567,4,fit,,,Aaron,vorlaeufig,26,eingewechselt,0,1,32
+9,2026-11-08T23:28:51+01:00,8307,Sano,MF,Mainz,22150964,910,23,101.1,1.0,50919,6006,1,fit,,,Jonnhji,vorlaeufig,100,startelf,0,0,43
+9,2026-11-08T23:28:51+01:00,10122,Gruber,ABW,Mainz,8208733,577,108,64.1,13.2,35347,6006,2,fit,,,nico,vorlaeufig,100,startelf,0,0,128
+9,2026-11-08T23:28:51+01:00,11261,Kawasaki,MF,Mainz,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11665,Potulski,ABW,Mainz,10105645,671,63,74.6,6.2,46553,6006,1,fit,,,,vorlaeufig,100,startelf,0,0,83
+9,2026-11-08T23:28:51+01:00,11666,Kinzig,TW,Mainz,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13438,Ruoppi,MF,Mainz,500000,85,0,9.4,0.0,2479,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,17179,Nakuzola,ABW,Mainz,500000,66,12,7.3,24.0,3074,1557,5,fit,,,,vorlaeufig,26,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,1664,Mittelstädt,ABW,Stuttgart,30190970,1344,293,149.3,9.7,41384,5714,2,fit,,,nico,vorlaeufig,95,startelf,1,0,163
+9,2026-11-08T23:28:51+01:00,1671,Prömel,MF,Stuttgart,10994119,739,187,82.1,17.0,38066,5714,3,fit,,,,vorlaeufig,95,startelf,0,1,102
+9,2026-11-08T23:28:51+01:00,2068,Zagadou,ABW,Stuttgart,500000,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2120,Nartey,MF,Stuttgart,3046121,90,63,10.0,20.7,3796,1752,3,fit,,,Paul Block,vorlaeufig,29,eingewechselt,0,0,44
+9,2026-11-08T23:28:51+01:00,2172,Führich,MF,Stuttgart,20672452,774,101,86.0,4.9,34148,5074,2,fit,,,Jonnhji,vorlaeufig,85,startelf,0,0,73
+9,2026-11-08T23:28:51+01:00,2199,Vagnoman,ABW,Stuttgart,6755904,717,0,79.7,0.0,33594,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2214,Karazor,MF,Stuttgart,7911969,383,34,42.6,4.3,20374,649,4,fit,,,,vorlaeufig,11,eingewechselt,0,0,19
+9,2026-11-08T23:28:51+01:00,2237,Bredlow,TW,Stuttgart,2228407,396,0,44.0,0.0,23185,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2445,Funk,TW,Stuttgart,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2694,Stiller,MF,Stuttgart,20815876,713,0,79.2,0.0,35837,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2854,Demirović,ST,Stuttgart,15674097,711,12,79.0,0.8,35126,640,3,fit,,,Jonnhji,vorlaeufig,11,eingewechselt,0,0,-3
+9,2026-11-08T23:28:51+01:00,2988,Leweling,MF,Stuttgart,13520901,519,89,57.7,6.6,27023,3973,3,fit,,,Paul Block,vorlaeufig,66,startelf,0,0,57
+9,2026-11-08T23:28:51+01:00,3190,Chabot,ABW,Stuttgart,21333043,942,149,104.7,7.0,43769,5714,2,fit,,,,vorlaeufig,95,startelf,0,0,99
+9,2026-11-08T23:28:51+01:00,3193,Tiago Tomás,ST,Stuttgart,3079297,73,38,8.1,12.3,5521,1741,4,fit,,,,vorlaeufig,29,eingewechselt,0,0,19
+9,2026-11-08T23:28:51+01:00,4296,Pejčinović,ST,Stuttgart,6182568,230,0,25.6,0.0,23483,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4589,Diehl,ST,Stuttgart,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,6085,Seimen,TW,Stuttgart,12036301,544,160,60.4,13.3,28855,5714,1,fit,,,nico,vorlaeufig,95,startelf,0,0,90
+9,2026-11-08T23:28:51+01:00,7158,Undav,ST,Stuttgart,28797140,525,96,58.3,3.3,37826,5714,2,fit,,,,vorlaeufig,95,startelf,0,0,66
+9,2026-11-08T23:28:51+01:00,7257,Stergiou,ABW,Stuttgart,500000,-8,0,-0.9,0.0,1286,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7349,Jeltsch,ABW,Stuttgart,9671412,599,61,66.6,6.3,39997,2325,3,fit,,,,vorlaeufig,39,eingewechselt,0,0,37
+9,2026-11-08T23:28:51+01:00,7781,Sauer,MF,Stuttgart,1943569,71,0,7.9,0.0,7538,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,8247,Hendriks,ABW,Stuttgart,10430841,665,143,73.9,13.7,40480,5714,3,fit,,,Jonnhji,vorlaeufig,95,startelf,0,0,93
+9,2026-11-08T23:28:51+01:00,9615,Al Dakhil,ABW,Stuttgart,500000,19,0,2.1,0.0,638,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,10112,Jaquez,ABW,Stuttgart,4965623,143,84,15.9,16.9,7422,3389,3,fit,,,,vorlaeufig,56,startelf,0,0,49
+9,2026-11-08T23:28:51+01:00,11043,Assignon,ABW,Stuttgart,4122337,22,0,2.4,0.0,3849,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11955,El Khannouss,MF,Stuttgart,15995015,756,112,84.0,7.0,29546,3962,3,fit,,,MicheleFerra,vorlaeufig,66,startelf,0,0,86
+9,2026-11-08T23:28:51+01:00,12367,Spalt,MF,Stuttgart,2033751,144,105,16.0,51.6,9238,5065,2,fit,,,MicheleFerra,vorlaeufig,84,startelf,0,0,69
+9,2026-11-08T23:28:51+01:00,524,Baumann,TW,Hoffenheim,11629231,841,139,93.4,12.0,53182,6038,1,fit,,,,vorlaeufig,101,startelf,0,0,119
+9,2026-11-08T23:28:51+01:00,1815,Kramarić,MF,Hoffenheim,8698242,297,37,33.0,4.3,18021,4235,3,fit,,,,vorlaeufig,71,startelf,0,0,12
+9,2026-11-08T23:28:51+01:00,1954,Bernardo,ABW,Hoffenheim,3720719,87,19,9.7,5.1,8939,1330,3,fit,,,,vorlaeufig,22,eingewechselt,0,0,9
+9,2026-11-08T23:28:51+01:00,2373,Kabak,ABW,Hoffenheim,21143534,1045,126,116.1,6.0,47332,6038,1,fit,,,MicheleFerra,vorlaeufig,101,startelf,0,0,106
+9,2026-11-08T23:28:51+01:00,2803,Lemperle,ST,Hoffenheim,7085038,472,179,52.4,25.3,29229,5783,2,fit,,,,vorlaeufig,96,startelf,1,0,79
+9,2026-11-08T23:28:51+01:00,2852,Philipp,TW,Hoffenheim,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3124,Wimmer,MF,Hoffenheim,1809051,224,0,24.9,0.0,13207,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,3158,Asllani,ST,Hoffenheim,16377380,728,238,80.9,14.5,25156,4713,1,fit,,,Jonnhji,vorlaeufig,79,startelf,1,1,78
+9,2026-11-08T23:28:51+01:00,3204,Conté,ST,Hoffenheim,13970917,793,0,88.1,0.0,29471,0,5,angeschlagen,,,1. FC Infantino,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3471,Hložek,ST,Hoffenheim,10238269,717,62,79.7,6.1,33079,1803,4,angeschlagen,,,Clainsman,vorlaeufig,30,eingewechselt,0,0,52
+9,2026-11-08T23:28:51+01:00,7543,Moerstedt,ST,Hoffenheim,500000,118,16,13.1,32.0,8182,255,5,angeschlagen,,,,vorlaeufig,4,eingewechselt,0,0,1
+9,2026-11-08T23:28:51+01:00,7673,Hajdari,ABW,Hoffenheim,2345947,230,0,25.6,0.0,20201,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,7717,Prass,MF,Hoffenheim,9517218,570,127,63.3,13.3,18629,6038,3,angeschlagen,,,,vorlaeufig,101,startelf,0,0,107
+9,2026-11-08T23:28:51+01:00,7745,Coufal,ABW,Hoffenheim,20585532,894,150,99.3,7.3,45827,6038,4,angeschlagen,,,,vorlaeufig,101,startelf,0,0,130
+9,2026-11-08T23:28:51+01:00,7750,Hranác,ABW,Hoffenheim,3226632,159,0,17.7,0.0,11597,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,8289,Petersson,TW,Hoffenheim,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9598,Gendrey,ABW,Hoffenheim,1002127,40,0,4.4,0.0,2148,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,11161,Machida,ABW,Hoffenheim,10894899,750,170,83.3,15.6,35619,6038,1,fit,,,Jonnhji,vorlaeufig,101,startelf,0,0,150
+9,2026-11-08T23:28:51+01:00,11162,Avdullahu,MF,Hoffenheim,14607751,784,87,87.1,6.0,51908,6038,1,fit,,,1. FC Infantino,vorlaeufig,101,startelf,0,0,67
+9,2026-11-08T23:28:51+01:00,11591,Lenz,MF,Hoffenheim,939806,-8,0,-0.9,0.0,475,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11631,Burger,MF,Hoffenheim,17309040,775,128,86.1,7.4,44715,6038,1,fit,,,nico,vorlaeufig,101,startelf,0,0,108
+9,2026-11-08T23:28:51+01:00,11959,Daghim,ST,Hoffenheim,15913927,902,24,100.2,1.5,40601,1324,2,fit,,,Felix,vorlaeufig,22,eingewechselt,0,0,14
+9,2026-11-08T23:28:51+01:00,14908,Abraha,ABW,Hoffenheim,2464861,35,0,3.9,0.0,5763,0,2,fit,,,Paul Block,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,15193,Rots,ABW,Hoffenheim,8517314,560,81,62.2,9.5,35704,4708,3,fit,,,,vorlaeufig,78,startelf,0,0,56
+9,2026-11-08T23:28:51+01:00,15262,De Cat,MF,Hoffenheim,849876,-11,0,-1.2,0.0,2514,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,49,Ginter,ABW,Freiburg,28722868,1262,173,140.2,6.0,51877,5720,1,fit,,,Felix,vorlaeufig,95,startelf,0,0,118
+9,2026-11-08T23:28:51+01:00,89,Günter,ABW,Freiburg,500000,,0,,0.0,,,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,118,Grifo,MF,Freiburg,5552673,383,-14,42.6,-2.5,9859,1644,5,fit,,,,vorlaeufig,27,eingewechselt,0,0,-33
+9,2026-11-08T23:28:51+01:00,1257,Kübler,ABW,Freiburg,3915727,300,35,33.3,8.9,15173,610,3,fit,,,,vorlaeufig,10,eingewechselt,0,0,20
+9,2026-11-08T23:28:51+01:00,1645,Eggestein,MF,Freiburg,22092528,1094,134,121.6,6.1,51877,5720,1,fit,,,Maurice,vorlaeufig,95,startelf,0,0,89
+9,2026-11-08T23:28:51+01:00,1767,Huth,TW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1858,Jung,ABW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1910,Müller,TW,Freiburg,500000,,0,,0.0,,,5,fehlt,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2084,Lienhart,ABW,Freiburg,19583414,958,145,106.4,7.4,49210,5720,3,fit,,,1. FC Infantino,vorlaeufig,95,startelf,0,0,90
+9,2026-11-08T23:28:51+01:00,2125,Beste,MF,Freiburg,12189547,784,182,87.1,14.9,40511,5720,2,fit,,,,vorlaeufig,95,startelf,0,0,137
+9,2026-11-08T23:28:51+01:00,2176,Höler,ST,Freiburg,2777966,150,50,16.7,18.0,13327,610,3,fit,,,,vorlaeufig,10,eingewechselt,0,0,35
+9,2026-11-08T23:28:51+01:00,2722,Osterhage,MF,Freiburg,4414478,76,39,8.4,8.8,5894,1213,5,angeschlagen,,,,vorlaeufig,20,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,3209,Engelhardt,MF,Freiburg,14650901,937,109,104.1,7.4,41271,4506,1,fit,,,Aaron,vorlaeufig,75,startelf,0,0,70
+9,2026-11-08T23:28:51+01:00,3218,Backhaus,TW,Freiburg,10878493,787,103,87.4,9.5,51877,5720,1,fit,,,,vorlaeufig,95,startelf,0,0,28
+9,2026-11-08T23:28:51+01:00,3304,Matanović,ST,Freiburg,26835650,1153,53,128.1,2.0,39272,4067,3,fit,,,Maurice,vorlaeufig,68,startelf,0,0,22
+9,2026-11-08T23:28:51+01:00,4335,Scherhant,MF,Freiburg,20403161,1158,218,128.7,10.7,42015,4075,1,fit,,,1. FC Infantino,vorlaeufig,68,startelf,0,1,136
+9,2026-11-08T23:28:51+01:00,6209,Treu,ABW,Freiburg,10482198,614,122,68.2,11.6,38187,5109,3,fit,,,,vorlaeufig,85,startelf,0,0,73
+9,2026-11-08T23:28:51+01:00,7215,Makengo,ABW,Freiburg,17133036,1046,132,116.2,7.7,51877,5720,3,fit,,,Jonnhji,vorlaeufig,95,startelf,0,0,77
+9,2026-11-08T23:28:51+01:00,7216,Rosenfelder,ABW,Freiburg,3921441,72,0,8.0,0.0,3733,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8363,Yilmaz,ABW,Freiburg,500000,24,0,2.7,0.0,780,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8364,Ogbus,ABW,Freiburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11006,Suzuki,MF,Freiburg,19589539,977,215,108.6,11.0,38474,5110,1,fit,,,,vorlaeufig,85,startelf,1,0,84
+9,2026-11-08T23:28:51+01:00,11007,Irié,MF,Freiburg,4181936,288,0,32.0,0.0,8882,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14048,Goto,ST,Freiburg,4674887,297,64,33.0,13.7,12396,1652,4,fit,,,,vorlaeufig,28,eingewechselt,0,0,47
+9,2026-11-08T23:28:51+01:00,15196,Yamamoto,MF,Freiburg,3097850,-2,0,-0.2,0.0,2321,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4,Blaswich,TW,Leverkusen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,72,Flekken,TW,Leverkusen,9900178,751,130,83.4,13.1,52736,5807,1,fit,,,,vorlaeufig,97,startelf,0,0,110
+9,2026-11-08T23:28:51+01:00,78,Hofmann,MF,Leverkusen,4993154,97,14,10.8,2.8,7331,1190,3,fit,,,,vorlaeufig,20,eingewechselt,0,0,-1
+9,2026-11-08T23:28:51+01:00,663,Andrich,ABW,Leverkusen,4213230,313,21,34.8,5.0,12438,489,4,fit,,,,vorlaeufig,8,eingewechselt,0,0,11
+9,2026-11-08T23:28:51+01:00,2661,Diaby,ST,Leverkusen,15409626,502,0,55.8,0.0,24735,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2783,Tapsoba,ABW,Leverkusen,27215930,783,65,87.0,2.4,52736,5807,1,fit,,,schwungzent,vorlaeufig,97,startelf,0,0,45
+9,2026-11-08T23:28:51+01:00,2846,Tillman,MF,Leverkusen,6221141,380,69,42.2,11.1,21205,4617,3,fit,,,,vorlaeufig,77,startelf,0,0,49
+9,2026-11-08T23:28:51+01:00,3759,Gutiérrez,ABW,Leverkusen,27686591,1322,129,146.9,4.7,52103,5807,1,fit,,,nico,vorlaeufig,97,startelf,0,0,109
+9,2026-11-08T23:28:51+01:00,4318,Oermann,ABW,Leverkusen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4563,Badé,ABW,Leverkusen,727132,83,32,9.2,44.0,7005,497,5,fit,,,,vorlaeufig,8,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,6061,Maza,MF,Leverkusen,33271949,1399,194,155.4,5.8,49885,5317,1,fit,,,nico,vorlaeufig,89,startelf,0,1,124
+9,2026-11-08T23:28:51+01:00,6745,Boniface,ST,Leverkusen,508190,49,0,5.4,0.0,1442,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7269,Tella,MF,Leverkusen,5350947,106,0,11.8,0.0,7223,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7963,Quansah,ABW,Leverkusen,19278512,921,149,102.3,7.7,45247,5807,1,fit,,,1. FC Infantino,vorlaeufig,97,startelf,0,0,129
+9,2026-11-08T23:28:51+01:00,8374,Terrier,ST,Leverkusen,500000,39,0,4.3,0.0,3012,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,11513,Kofane,ST,Leverkusen,5879634,311,0,34.6,0.0,8923,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11680,Eichhorn,MF,Leverkusen,1682439,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11756,Culbreath,MF,Leverkusen,1342267,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11956,Fernández,MF,Leverkusen,15619942,786,128,87.3,8.2,37830,5807,1,fit,,,Clainsman,vorlaeufig,97,startelf,0,0,108
+9,2026-11-08T23:28:51+01:00,11957,Ben Seghir,MF,Leverkusen,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13888,Doué,ABW,Leverkusen,2202606,40,0,4.4,0.0,1989,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14241,Medina,ABW,Leverkusen,17465685,847,68,94.1,3.9,45912,5310,1,fit,,,Jonnhji,vorlaeufig,88,startelf,0,0,43
+9,2026-11-08T23:28:51+01:00,15199,Moreira,ST,Leverkusen,15074753,545,42,60.6,2.8,42409,5807,1,fit,,,,vorlaeufig,97,startelf,0,0,22
+9,2026-11-08T23:28:51+01:00,1225,Zingerle,TW,Leipzig,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1246,Orban,ABW,Leipzig,30592298,1284,71,142.7,2.3,50801,4541,1,fit,,,Jonnhji,vorlaeufig,76,startelf,0,0,81
+9,2026-11-08T23:28:51+01:00,1333,Klostermann,ABW,Leipzig,500000,-22,0,-2.4,0.0,3656,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1689,Henrichs,ABW,Leipzig,7995771,501,37,55.7,4.6,22881,1661,3,fit,,,,vorlaeufig,28,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,1728,Nyland,TW,Leipzig,1145581,132,0,14.7,0.0,5764,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2141,Baku,ABW,Leipzig,16630415,788,92,87.6,5.5,25476,4095,3,fit,,,,vorlaeufig,68,startelf,0,0,62
+9,2026-11-08T23:28:51+01:00,2275,Baumgartner,MF,Leipzig,13435779,297,125,33.0,9.3,5026,1681,4,fit,,,nico,vorlaeufig,28,eingewechselt,1,0,20
+9,2026-11-08T23:28:51+01:00,2522,Raum,ABW,Leipzig,30180168,1162,332,129.1,11.0,46252,5756,1,fit,,,Felix,vorlaeufig,96,startelf,1,0,167
+9,2026-11-08T23:28:51+01:00,2687,Nkunku,ST,Leipzig,27182095,1088,281,120.9,10.3,28510,5756,2,fit,,,,vorlaeufig,96,startelf,1,1,116
+9,2026-11-08T23:28:51+01:00,2897,Reitz,MF,Leipzig,11232756,390,0,43.3,0.0,18244,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6104,Guiu,ST,Leipzig,500000,-13,0,-1.4,0.0,1327,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6176,Seiwald,MF,Leipzig,3873581,272,0,30.2,0.0,20303,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6300,Ouédraogo,MF,Leipzig,501022,61,0,6.8,0.0,2047,0,5,verletzt,,,Clainsman,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,7224,Castello Jr.,ABW,Leipzig,17543676,767,116,85.2,6.6,32304,4815,3,fit,,,nico,vorlaeufig,80,startelf,0,0,81
+9,2026-11-08T23:28:51+01:00,7239,Finkgräfe,ABW,Leipzig,1727151,188,0,20.9,0.0,8400,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8061,Bakayoko,ST,Leipzig,788937,69,0,7.7,0.0,5798,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9507,Nusa,MF,Leipzig,31340595,1599,113,177.7,3.6,41011,1673,3,fit,,,,vorlaeufig,28,eingewechselt,0,1,53
+9,2026-11-08T23:28:51+01:00,9776,Maksimović,MF,Leipzig,5166341,383,0,42.6,0.0,12183,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,10113,Gomis,ST,Leipzig,13057525,948,118,105.3,9.0,31390,5756,2,fit,,,Maurice,vorlaeufig,96,startelf,0,0,88
+9,2026-11-08T23:28:51+01:00,11008,Banzuzi,MF,Leipzig,12192994,971,231,107.9,18.9,43660,5756,3,fit,,,Maurice,vorlaeufig,96,startelf,1,0,111
+9,2026-11-08T23:28:51+01:00,11886,Rômulo,ST,Leipzig,15400741,885,151,98.3,9.8,25534,4074,3,fit,,,Felix,vorlaeufig,68,startelf,1,0,41
+9,2026-11-08T23:28:51+01:00,14249,El Aynaoui,MF,Leipzig,16317397,785,143,87.2,8.8,42744,5756,2,fit,,,Paul Block,vorlaeufig,96,startelf,0,0,113
+9,2026-11-08T23:28:51+01:00,14896,Koné,ABW,Leipzig,4066902,141,33,15.7,8.1,1701,1215,5,fit,,,,vorlaeufig,20,eingewechselt,0,0,23
+9,2026-11-08T23:28:51+01:00,15376,Estève,ABW,Leipzig,5241271,448,25,49.8,4.8,19711,941,3,fit,,,,vorlaeufig,16,eingewechselt,0,0,15
+9,2026-11-08T23:28:51+01:00,51,Khedira,MF,Union Berlin,6471530,339,-33,37.7,-5.1,52849,5720,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,-8
+9,2026-11-08T23:28:51+01:00,1223,Friedrich,ABW,Union Berlin,2230297,147,66,16.3,29.6,11361,5720,2,fit,,,,vorlaeufig,95,startelf,0,0,91
+9,2026-11-08T23:28:51+01:00,1553,Haberer,MF,Union Berlin,6454262,458,28,50.9,4.3,34480,5720,1,fit,,,,vorlaeufig,95,startelf,0,0,53
+9,2026-11-08T23:28:51+01:00,1955,Burke,ST,Union Berlin,1733922,26,-28,2.9,-16.1,7061,3068,3,fit,,,,vorlaeufig,51,eingewechselt,0,0,-3
+9,2026-11-08T23:28:51+01:00,2065,Uduokhai,ABW,Union Berlin,4654416,410,0,45.6,0.0,30515,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2279,Rönnow,TW,Union Berlin,10372781,921,259,102.3,25.0,46688,5720,1,fit,,,Maurice,vorlaeufig,95,startelf,0,0,284
+9,2026-11-08T23:28:51+01:00,2302,Jeong,MF,Union Berlin,4044857,323,-24,35.9,-5.9,32621,3068,3,fit,,,,vorlaeufig,51,eingewechselt,0,0,1
+9,2026-11-08T23:28:51+01:00,2400,Trimmel,ABW,Union Berlin,990166,60,0,6.7,0.0,8833,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2491,Skarke,MF,Union Berlin,3966109,410,-21,45.6,-5.3,27015,2715,3,fit,,,,vorlaeufig,45,startelf,0,0,-6
+9,2026-11-08T23:28:51+01:00,2717,Skov,MF,Union Berlin,500000,-12,0,-1.3,0.0,742,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3102,Rothe,ABW,Union Berlin,7871239,543,-11,60.3,-1.4,42096,608,4,fit,,,,vorlaeufig,10,eingewechselt,0,0,4
+9,2026-11-08T23:28:51+01:00,3187,Schäfer,MF,Union Berlin,8157648,517,10,57.4,1.2,41228,5720,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,80
+9,2026-11-08T23:28:51+01:00,3364,Klaus,TW,Union Berlin,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3419,Raab,TW,Union Berlin,500000,9,0,1.0,0.0,6161,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3453,Köhn,ABW,Union Berlin,2071749,130,42,14.4,20.3,12288,5111,2,fit,,,,vorlaeufig,85,startelf,0,0,67
+9,2026-11-08T23:28:51+01:00,4352,Nsoki,ABW,Union Berlin,500000,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4446,Kemlein,MF,Union Berlin,1482196,90,0,10.0,0.0,16856,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4598,Juranović,ABW,Union Berlin,4177722,300,0,33.3,0.0,16940,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7684,Aebischer,MF,Union Berlin,5487551,250,4,27.8,0.7,45253,4590,1,fit,,,schwungzent,vorlaeufig,76,startelf,0,0,29
+9,2026-11-08T23:28:51+01:00,7723,Querfeld,ABW,Union Berlin,9189485,514,0,57.1,0.0,22678,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8381,Burcu,MF,Union Berlin,2721427,258,-14,28.7,-5.1,23873,4075,3,fit,,,,vorlaeufig,68,startelf,0,0,11
+9,2026-11-08T23:28:51+01:00,9683,Ilic,ST,Union Berlin,947426,-7,-7,-0.8,-7.4,1644,,5,fit,,,,vorlaeufig,27,eingewechselt,0,0,8
+9,2026-11-08T23:28:51+01:00,10106,Ljubičić,ST,Union Berlin,500000,4,0,0.4,0.0,14522,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,12763,Latte Lath,ST,Union Berlin,4121391,113,0,12.6,0.0,19013,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13629,Güther,MF,Union Berlin,500000,-2,-4,-0.2,-8.0,1326,1129,5,fit,,,1. FC Infantino,vorlaeufig,19,eingewechselt,0,0,11
+9,2026-11-08T23:28:51+01:00,14917,Van den Bosch,ABW,Union Berlin,6772009,450,23,50.0,3.4,42118,5720,1,fit,,,,vorlaeufig,95,startelf,0,0,48
+9,2026-11-08T23:28:51+01:00,15301,Gray,ST,Union Berlin,3000700,76,0,8.4,0.0,5548,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,17306,Imeri,MF,Union Berlin,2609125,137,-5,15.2,-1.9,13044,2715,2,fit,,,,vorlaeufig,45,startelf,0,0,10
+9,2026-11-08T23:28:51+01:00,173,Tah,ABW,Bayern,29051908,781,129,86.8,4.4,30356,6006,3,fit,,,,vorlaeufig,100,startelf,0,0,109
+9,2026-11-08T23:28:51+01:00,237,Neuer,TW,Bayern,6944763,537,54,59.7,7.8,26096,2662,3,angeschlagen,,,,vorlaeufig,44,startelf,0,0,34
+9,2026-11-08T23:28:51+01:00,383,Ulreich,TW,Bayern,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1685,Kimmich,MF,Bayern,60079043,1756,292,195.1,4.9,42435,5482,1,fit,,,Jonnhji,vorlaeufig,91,startelf,1,0,177
+9,2026-11-08T23:28:51+01:00,1961,Gnabry,MF,Bayern,11427419,320,0,35.6,0.0,10643,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,1991,Upamecano,ABW,Bayern,32098980,1610,184,178.9,5.7,50221,6006,3,fit,,,Jonnhji,vorlaeufig,100,startelf,0,0,164
+9,2026-11-08T23:28:51+01:00,2038,Laimer,ABW,Bayern,24386877,801,113,89.0,4.6,32668,5475,3,fit,,,Paul Block,vorlaeufig,91,startelf,0,0,88
+9,2026-11-08T23:28:51+01:00,2300,Stanišić,ABW,Bayern,14544234,654,68,72.7,4.7,31737,4353,3,fit,,,,vorlaeufig,73,startelf,0,0,43
+9,2026-11-08T23:28:51+01:00,2366,Davies,ABW,Bayern,23686672,1008,32,112.0,1.4,32316,1653,3,fit,,,Paul Block,vorlaeufig,28,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,2804,Musiala,MF,Bayern,21601514,446,0,49.6,0.0,9727,0,5,Aufbautraining,,,nico,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3072,Urbig,TW,Bayern,7720919,468,59,52.0,7.6,27013,3343,3,fit,,,,vorlaeufig,56,eingewechselt,0,0,44
+9,2026-11-08T23:28:51+01:00,3089,Ito,ABW,Bayern,1741788,47,18,5.2,10.3,1172,531,3,fit,,,,vorlaeufig,9,eingewechselt,0,0,8
+9,2026-11-08T23:28:51+01:00,3543,Brown,ABW,Bayern,19345967,889,104,98.8,5.4,33918,6006,2,fit,,,Felix,vorlaeufig,100,startelf,0,0,84
+9,2026-11-08T23:28:51+01:00,6668,Minjae,ABW,Bayern,12339036,539,0,59.9,0.0,24665,0,2,fit,,,Clainsman,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7226,Kane,ST,Bayern,65623819,1669,261,185.4,4.0,46511,6006,1,fit,,,Paul Block,vorlaeufig,100,startelf,0,2,161
+9,2026-11-08T23:28:51+01:00,7498,Boey,ABW,Bayern,782180,86,16,9.6,20.5,3662,524,3,fit,,,,vorlaeufig,9,eingewechselt,0,0,6
+9,2026-11-08T23:28:51+01:00,8329,Olise,MF,Bayern,65457508,2529,241,281.0,3.7,48946,6006,2,fit,,,,vorlaeufig,100,startelf,0,0,221
+9,2026-11-08T23:28:51+01:00,10789,Karl,MF,Bayern,16520687,687,224,76.3,13.6,21527,4344,2,fit,,,Felix,vorlaeufig,72,startelf,1,0,109
+9,2026-11-08T23:28:51+01:00,11675,Díaz,ST,Bayern,40571279,1174,0,130.4,0.0,28331,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,12314,Ndiaye,MF,Bayern,806390,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14251,Saibari,ST,Bayern,21160758,859,0,95.4,0.0,23349,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,15502,Binder,MF,Bayern,1369890,,0,,0.0,,,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,357,Grahl,TW,Frankfurt,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,461,Chandler,ABW,Frankfurt,500000,12,0,1.3,0.0,1847,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,513,Götze,MF,Frankfurt,3426550,239,0,26.6,0.0,12116,0,5,angeschlagen,,,MicheleFerra,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2144,Koch,ABW,Frankfurt,25345508,997,63,110.8,2.5,49428,5744,3,fit,,,1. FC Infantino,vorlaeufig,96,startelf,0,0,63
+9,2026-11-08T23:28:51+01:00,2255,Burkardt,ST,Frankfurt,27157043,978,244,108.7,9.0,42714,5744,3,fit,,,nico,vorlaeufig,96,startelf,2,0,74
+9,2026-11-08T23:28:51+01:00,2863,Knauff,MF,Frankfurt,3329405,172,31,19.1,9.3,16099,2838,3,angeschlagen,,,,vorlaeufig,47,startelf,0,0,31
+9,2026-11-08T23:28:51+01:00,2864,Collins,ABW,Frankfurt,6743476,240,50,26.7,7.4,20589,2965,3,fit,,,,vorlaeufig,49,eingewechselt,0,0,50
+9,2026-11-08T23:28:51+01:00,2887,Dōan,MF,Frankfurt,17263228,592,49,65.8,2.8,40387,3942,3,fit,,,Paul Block,vorlaeufig,66,startelf,0,0,49
+9,2026-11-08T23:28:51+01:00,3019,Atubolu,TW,Frankfurt,14351404,907,94,100.8,6.5,52256,5744,1,fit,,,Paul Block,vorlaeufig,96,startelf,0,0,39
+9,2026-11-08T23:28:51+01:00,6081,Uzun,MF,Frankfurt,24666179,767,37,85.2,1.5,36367,3937,3,fit,,,Jonnhji,vorlaeufig,66,startelf,0,0,37
+9,2026-11-08T23:28:51+01:00,7275,Santos,TW,Frankfurt,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7277,Chaïbi,MF,Frankfurt,10438463,643,178,71.4,17.1,31548,5744,1,fit,,,,vorlaeufig,96,startelf,0,1,133
+9,2026-11-08T23:28:51+01:00,7325,Baum,ABW,Frankfurt,9444306,573,8,63.7,0.8,39603,4629,5,gesperrt (Gelb-Rot),,,Felix,vorlaeufig,77,startelf,0,0,-22
+9,2026-11-08T23:28:51+01:00,7417,Aséko,MF,Frankfurt,9659039,397,21,44.1,2.2,25814,2838,2,fit,,,,vorlaeufig,47,startelf,0,0,21
+9,2026-11-08T23:28:51+01:00,8351,Højlund,MF,Frankfurt,500000,44,39,4.9,78.0,6755,2965,5,fit,,,,vorlaeufig,49,eingewechselt,0,0,39
+9,2026-11-08T23:28:51+01:00,10004,Ebnoutalib,ST,Frankfurt,23294011,930,25,103.3,1.1,37831,1806,3,fit,,,,vorlaeufig,30,eingewechselt,0,0,25
+9,2026-11-08T23:28:51+01:00,11186,Maluze,ABW,Frankfurt,5443545,396,0,44.0,0.0,11959,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,12284,Kosugi,ABW,Frankfurt,6898997,411,0,45.7,0.0,34822,0,3,fit,,,Clainsman,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,12285,Arrhov,MF,Frankfurt,537339,-11,9,-1.2,16.7,3274,523,5,fit,,,,vorlaeufig,9,eingewechselt,0,0,4
+9,2026-11-08T23:28:51+01:00,12294,Amaimouni,MF,Frankfurt,500000,82,0,9.1,0.0,7711,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14920,Pimpong,ST,Frankfurt,500000,-12,0,-1.3,0.0,2139,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,15529,Ilicevic,MF,Frankfurt,1650844,70,4,7.8,2.4,2340,,5,fit,,,Aaron,vorlaeufig,30,eingewechselt,0,0,4
+9,2026-11-08T23:28:51+01:00,15589,Otávio,ABW,Frankfurt,500000,-1,0,-0.1,0.0,611,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,16369,Onyedika,MF,Frankfurt,11013822,517,52,57.4,4.7,51733,5221,1,fit,,,Aaron,vorlaeufig,87,startelf,0,0,57
+9,2026-11-08T23:28:51+01:00,17285,Brassier,ABW,Frankfurt,18138755,777,79,86.3,4.4,46095,5744,1,fit,,,nico,vorlaeufig,96,startelf,0,0,124
+9,2026-11-08T23:28:51+01:00,43,Weiser,ABW,Bremen,7185323,399,0,44.3,0.0,12194,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,157,Stark,ABW,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,608,Füllkrug,ST,Bremen,22968432,1280,73,142.2,3.2,47348,5714,1,fit,,,Paul Block,vorlaeufig,95,startelf,0,0,93
+9,2026-11-08T23:28:51+01:00,1996,Friedl,ABW,Bremen,16176307,945,67,105.0,4.1,52552,5714,1,fit,,,Maurice,vorlaeufig,95,startelf,0,0,87
+9,2026-11-08T23:28:51+01:00,2294,Pieper,ABW,Bremen,15117282,965,96,107.2,6.4,46521,5714,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,116
+9,2026-11-08T23:28:51+01:00,2842,Agu,ABW,Bremen,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2939,Dinkçi,MF,Bremen,8278447,609,50,67.7,6.0,34295,5272,1,fit,,,nico,vorlaeufig,88,startelf,0,0,70
+9,2026-11-08T23:28:51+01:00,3139,Itten,ST,Bremen,500000,94,-5,10.4,-10.0,7399,442,5,fit,,,,vorlaeufig,7,eingewechselt,0,0,10
+9,2026-11-08T23:28:51+01:00,3166,Topp,ST,Bremen,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3228,Njinmah,ST,Bremen,1912954,23,21,2.6,11.0,5361,1611,5,fit,,,,vorlaeufig,27,eingewechselt,0,0,36
+9,2026-11-08T23:28:51+01:00,3281,Reis,MF,Bremen,12623795,914,63,101.6,5.0,48328,5714,1,fit,,,schwungzent,vorlaeufig,95,startelf,0,0,83
+9,2026-11-08T23:28:51+01:00,3450,Kolke,TW,Bremen,500000,,0,,0.0,,,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3481,Stage,MF,Bremen,670547,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6174,Arthur,ABW,Bremen,10990444,651,49,72.3,4.5,42066,5714,1,fit,,,Clainsman,vorlaeufig,95,startelf,0,0,69
+9,2026-11-08T23:28:51+01:00,7167,Lynen,MF,Bremen,2558889,59,37,6.6,14.5,8184,4109,5,fit,,,,vorlaeufig,68,startelf,0,0,57
+9,2026-11-08T23:28:51+01:00,7282,Deman,ABW,Bremen,8622570,725,39,80.6,4.5,48276,5714,1,fit,,,,vorlaeufig,95,startelf,0,0,59
+9,2026-11-08T23:28:51+01:00,7721,Grüll,MF,Bremen,19199502,1335,41,148.3,2.1,50428,4102,1,angeschlagen,,,schwungzent,vorlaeufig,68,startelf,0,0,61
+9,2026-11-08T23:28:51+01:00,8166,Chuki,MF,Bremen,9802218,692,23,76.9,2.3,41011,1605,1,fit,,,Aaron,vorlaeufig,27,eingewechselt,0,0,38
+9,2026-11-08T23:28:51+01:00,9513,Hein,TW,Bremen,13450260,1189,85,132.1,6.3,52590,5714,1,fit,,,Jonnhji,vorlaeufig,95,startelf,0,0,105
+9,2026-11-08T23:28:51+01:00,9600,Schlager,TW,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,10131,Stalmach,MF,Bremen,500000,253,0,28.1,0.0,8396,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11262,Musah,ST,Bremen,500000,26,0,2.9,0.0,3874,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,13449,Ndiaye,ABW,Bremen,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14923,Quetant,ST,Bremen,925068,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14926,Soylu,MF,Bremen,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,15256,Wójcik,ABW,Bremen,3318455,264,0,29.3,0.0,8513,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,15313,Erevbenagie,ST,Bremen,500000,92,0,10.2,0.0,3927,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,54,Can,ABW,Dortmund,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,75,Drewes,TW,Dortmund,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1856,Sabitzer,MF,Dortmund,4906938,368,21,40.9,4.3,16260,526,3,fit,,,Clainsman,vorlaeufig,9,eingewechselt,0,0,6
+9,2026-11-08T23:28:51+01:00,1873,Kobel,TW,Dortmund,18937914,1160,136,128.9,7.2,52950,5972,1,fit,,,Clainsman,vorlaeufig,100,startelf,0,0,116
+9,2026-11-08T23:28:51+01:00,1920,Guirassy,ST,Dortmund,33448996,1009,0,112.1,0.0,45259,0,5,angeschlagen,,,MicheleFerra,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2148,Meyer,TW,Dortmund,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2383,Schlotterbeck,ABW,Dortmund,30999035,1091,132,121.2,4.3,40189,5972,1,fit,,,Paul Block,vorlaeufig,100,startelf,0,0,112
+9,2026-11-08T23:28:51+01:00,2395,Ryerson,ABW,Dortmund,17097019,659,46,73.2,2.7,33969,1685,2,fit,,,nico,vorlaeufig,28,eingewechselt,0,0,31
+9,2026-11-08T23:28:51+01:00,2714,Beier,ST,Dortmund,22466718,920,105,102.2,4.7,36982,3978,3,fit,,,nico,vorlaeufig,66,eingewechselt,0,1,50
+9,2026-11-08T23:28:51+01:00,2736,Bensebaini,ABW,Dortmund,7136754,322,53,35.8,7.4,9057,1676,5,fit,,,,vorlaeufig,28,eingewechselt,0,0,38
+9,2026-11-08T23:28:51+01:00,3069,Nmecha,MF,Dortmund,29235323,1217,336,135.2,11.5,42607,5972,3,fit,,,Jonnhji,vorlaeufig,100,startelf,2,0,136
+9,2026-11-08T23:28:51+01:00,7737,Veerman,MF,Dortmund,14505821,770,139,85.6,9.6,31324,5972,3,fit,,,Felix,vorlaeufig,100,startelf,0,0,119
+9,2026-11-08T23:28:51+01:00,9440,Mane,ABW,Dortmund,2079791,64,0,7.1,0.0,3152,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9698,Fábio Silva,ST,Dortmund,11158690,725,114,80.6,10.2,22122,5441,2,fit,,,nico,vorlaeufig,91,startelf,0,1,49
+9,2026-11-08T23:28:51+01:00,10114,Chukwuemeka,MF,Dortmund,6753311,263,62,29.2,9.2,9609,1993,3,angeschlagen,,,Paul Block,vorlaeufig,33,startelf,0,0,47
+9,2026-11-08T23:28:51+01:00,10115,Svensson,ABW,Dortmund,21622354,993,94,110.3,4.3,51400,5972,3,fit,,,,vorlaeufig,100,startelf,0,0,74
+9,2026-11-08T23:28:51+01:00,11099,Bellingham,MF,Dortmund,18655240,908,117,100.9,6.3,41791,5445,3,fit,,,,vorlaeufig,91,startelf,0,0,97
+9,2026-11-08T23:28:51+01:00,11100,Inácio,MF,Dortmund,686320,-53,0,-5.9,0.0,673,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11101,Albert,ST,Dortmund,742136,17,0,1.9,0.0,1590,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13472,Reggiani,ABW,Dortmund,603324,57,0,6.3,0.0,1999,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14662,Lerma,MF,Dortmund,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,14899,Prates,ABW,Dortmund,500000,34,0,3.8,0.0,632,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,15211,Gadou,ABW,Dortmund,24486128,907,82,100.8,3.3,43228,4296,1,fit,,,Paul Block,vorlaeufig,72,startelf,0,0,62
+9,2026-11-08T23:28:51+01:00,16378,Karetsas,MF,Dortmund,18285206,469,93,52.1,5.1,18456,4287,3,fit,,,Felix,vorlaeufig,71,startelf,0,0,73
+9,2026-11-08T23:28:51+01:00,16948,Konstantelias,MF,Dortmund,830844,181,0,20.1,0.0,3348,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,17309,Nwaneri,MF,Dortmund,9240315,505,25,56.1,2.7,21824,531,3,fit,,,1. FC Infantino,vorlaeufig,9,eingewechselt,0,0,10
+9,2026-11-08T23:28:51+01:00,493,Gregoritsch,ST,Augsburg,15771413,867,0,96.3,0.0,32729,0,3,fit,,,Clainsman,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1809,Wolf,MF,Augsburg,7071733,573,0,63.7,0.0,27413,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1811,Gouweleeuw,ABW,Augsburg,7634339,341,29,37.9,3.8,22677,5756,1,fit,,,,vorlaeufig,96,startelf,0,0,59
+9,2026-11-08T23:28:51+01:00,2195,Dahmen,TW,Augsburg,16783179,1055,34,117.2,2.0,53057,5756,1,fit,,,Felix,vorlaeufig,96,startelf,0,0,64
+9,2026-11-08T23:28:51+01:00,2764,Keitel,MF,Augsburg,5070706,98,22,10.9,4.3,15065,5756,1,fit,,,,vorlaeufig,96,startelf,0,0,52
+9,2026-11-08T23:28:51+01:00,3183,Kade,ST,Augsburg,13584581,543,134,60.3,9.9,26723,5373,2,fit,,,Aaron,vorlaeufig,90,startelf,1,0,89
+9,2026-11-08T23:28:51+01:00,4654,Kömür,MF,Augsburg,3286701,294,-4,32.7,-1.2,13249,382,4,fit,,,,vorlaeufig,6,eingewechselt,0,0,6
+9,2026-11-08T23:28:51+01:00,6168,Fellhauer,MF,Augsburg,9270679,624,8,69.3,0.9,42894,5756,3,fit,,,Clainsman,vorlaeufig,96,startelf,0,0,38
+9,2026-11-08T23:28:51+01:00,7283,Brackelmann,ABW,Augsburg,7115277,650,0,72.2,0.0,34819,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7336,Suso,MF,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7676,Rieder,MF,Augsburg,23237605,1207,107,134.1,4.6,52415,5756,1,fit,,,Maurice,vorlaeufig,96,startelf,0,1,92
+9,2026-11-08T23:28:51+01:00,7696,Labrović,TW,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8355,Banks,ABW,Augsburg,1901256,398,0,44.2,0.0,23079,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,9642,Matsima,ABW,Augsburg,17577349,917,102,101.9,5.8,53057,5756,1,fit,,,Paul Block,vorlaeufig,96,startelf,0,0,132
+9,2026-11-08T23:28:51+01:00,9684,Claude-Maurice,MF,Augsburg,5463536,277,65,30.8,11.9,10434,2927,3,fit,,,,vorlaeufig,49,eingewechselt,0,0,85
+9,2026-11-08T23:28:51+01:00,9754,Bah,ABW,Augsburg,2869032,139,0,15.4,0.0,12317,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9965,Sakar,MF,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,10049,Behrens,ABW,Augsburg,14367285,868,47,96.4,3.3,53057,5756,1,fit,,,Maurice,vorlaeufig,96,startelf,0,0,77
+9,2026-11-08T23:28:51+01:00,11556,Massengo,MF,Augsburg,11525417,667,22,74.1,1.9,47477,4533,1,fit,,,schwungzent,vorlaeufig,76,startelf,0,0,57
+9,2026-11-08T23:28:51+01:00,12263,Schnitzer,MF,Augsburg,810873,13,13,1.4,16.0,1222,,5,fit,,,,vorlaeufig,20,eingewechselt,0,0,23
+9,2026-11-08T23:28:51+01:00,12341,Ribeiro,ST,Augsburg,3352854,214,-1,23.8,-0.3,19229,4538,3,fit,,,1. FC Infantino,vorlaeufig,76,startelf,0,0,34
+9,2026-11-08T23:28:51+01:00,13479,Ogundu,ST,Augsburg,500000,123,105,13.7,210.0,1934,1218,5,fit,,,,vorlaeufig,20,eingewechselt,1,0,35
+9,2026-11-08T23:28:51+01:00,13671,Wisbereit,TW,Augsburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13806,Seol,ABW,Augsburg,1194667,142,0,15.8,0.0,9525,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,619,Stöger,MF,M'gladbach,1687467,-4,0,-0.4,0.0,10285,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,849,Kleindienst,ST,M'gladbach,4409090,9,0,1.0,0.0,13737,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1883,Nicolas,TW,M'gladbach,8705546,642,0,71.3,0.0,41416,0,5,angeschlagen,,,1. FC Infantino,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2074,Hack,MF,M'gladbach,6075235,223,126,24.8,20.7,25073,6234,1,fit,,,Clainsman,vorlaeufig,57,startelf,1,0,61
+9,2026-11-08T23:28:51+01:00,2126,Kühn,MF,M'gladbach,2314840,57,0,6.3,0.0,2598,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2261,Neuhaus,MF,M'gladbach,9490945,471,82,52.3,8.6,28747,8554,2,fit,,,Aaron,vorlaeufig,96,startelf,0,0,107
+9,2026-11-08T23:28:51+01:00,2560,Sander,MF,M'gladbach,8209478,486,26,54.0,3.2,52892,8554,1,fit,,,Felix,vorlaeufig,96,startelf,0,0,51
+9,2026-11-08T23:28:51+01:00,2850,Olschowsky,TW,M'gladbach,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2862,Castrop,MF,M'gladbach,4174219,-9,-23,-1.0,-5.5,1851,835,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,-8
+9,2026-11-08T23:28:51+01:00,2941,Scally,ABW,M'gladbach,9293384,619,56,68.8,6.0,44376,8554,1,fit,,,,vorlaeufig,96,startelf,0,1,46
+9,2026-11-08T23:28:51+01:00,3063,Chiarodia,ABW,M'gladbach,4525520,268,38,29.8,8.4,22131,8554,2,fit,,,,vorlaeufig,96,startelf,0,0,63
+9,2026-11-08T23:28:51+01:00,3129,Itakura,ABW,M'gladbach,5946185,97,-53,10.8,-8.9,26721,2994,5,gesperrt (Gelb-Rot),,,,vorlaeufig,50,startelf,0,0,-38
+9,2026-11-08T23:28:51+01:00,3516,Leopold,MF,M'gladbach,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,4292,Herold,ABW,M'gladbach,689897,41,0,4.6,0.0,9610,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4333,Ullrich,ABW,M'gladbach,5472055,484,30,53.8,5.5,43601,7730,5,verletzt,,,,vorlaeufig,82,startelf,0,0,55
+9,2026-11-08T23:28:51+01:00,6199,Machino,ST,M'gladbach,7302000,251,19,27.9,2.6,22708,7724,1,fit,,,,vorlaeufig,82,startelf,0,0,44
+9,2026-11-08T23:28:51+01:00,6319,Honorat,MF,M'gladbach,5517474,249,-9,27.7,-1.6,16005,823,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,6
+9,2026-11-08T23:28:51+01:00,7774,Konoplia,ABW,M'gladbach,2627432,19,0,2.1,0.0,1461,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9540,Lidberg,ST,M'gladbach,3252265,191,27,21.2,8.3,20649,830,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,42
+9,2026-11-08T23:28:51+01:00,11010,Diks,ABW,M'gladbach,7607735,232,-15,25.8,-2.0,37771,2319,4,fit,,,,vorlaeufig,39,eingewechselt,0,0,10
+9,2026-11-08T23:28:51+01:00,11748,Mohya,MF,M'gladbach,10715390,560,61,62.2,5.7,34487,8555,1,fit,,,1. FC Infantino,vorlaeufig,96,startelf,0,0,86
+9,2026-11-08T23:28:51+01:00,12243,Fleck,MF,M'gladbach,500000,0,0,0.0,0.0,999,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13442,Bolin,MF,M'gladbach,7480842,511,0,56.8,0.0,36107,0,5,angeschlagen,,,MicheleFerra,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,15181,Leszczynski,ABW,M'gladbach,1896239,104,0,11.6,0.0,12476,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,15202,Uno,MF,M'gladbach,3873026,168,45,18.7,11.6,23177,7718,1,fit,,,Clainsman,vorlaeufig,82,startelf,0,0,70
+9,2026-11-08T23:28:51+01:00,15613,Hashioka,ABW,M'gladbach,3828320,227,0,25.2,0.0,24775,2822,4,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,16564,Nguefack,MF,M'gladbach,1054232,38,0,4.2,0.0,9921,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,16567,Danfa,ST,M'gladbach,500000,-21,0,-2.3,0.0,922,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1863,Heuer Fernandes,TW,Hamburg,12100144,926,127,102.9,10.5,52319,5732,1,fit,,,Aaron,vorlaeufig,96,startelf,0,0,102
+9,2026-11-08T23:28:51+01:00,1865,Poulsen,ST,Hamburg,4662920,400,32,44.4,6.9,17861,870,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,17
+9,2026-11-08T23:28:51+01:00,1889,Jatta,MF,Hamburg,500000,32,0,3.6,0.0,6359,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1978,Torunarigha,ABW,Hamburg,5353809,234,0,26.0,0.0,25278,0,2,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2725,Bornauw,ABW,Hamburg,7434337,528,118,58.7,15.9,34484,5360,3,fit,,,,vorlaeufig,89,startelf,0,0,93
+9,2026-11-08T23:28:51+01:00,3277,Muheim,ABW,Hamburg,10350449,743,213,82.6,20.6,25597,5732,2,fit,,,Paul Block,vorlaeufig,96,startelf,1,0,98
+9,2026-11-08T23:28:51+01:00,6201,Remberg,MF,Hamburg,1607683,214,0,23.8,0.0,25254,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,7350,Stange,ST,Hamburg,1053541,20,0,2.2,0.0,13898,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7394,Amoako,MF,Hamburg,2354220,87,38,9.7,16.1,3807,862,5,fit,,,,vorlaeufig,14,eingewechselt,0,0,23
+9,2026-11-08T23:28:51+01:00,8367,Sambi Lokonga,MF,Hamburg,5181392,381,164,42.3,31.7,32244,4870,1,fit,,,nico,vorlaeufig,81,startelf,0,1,79
+9,2026-11-08T23:28:51+01:00,9605,Grønbæk,MF,Hamburg,8228901,640,297,71.1,36.1,33902,4861,1,fit,,,,vorlaeufig,81,startelf,1,1,137
+9,2026-11-08T23:28:51+01:00,10120,Røssing-Lelesiit,ST,Hamburg,1038011,138,57,15.3,54.9,4630,1913,4,fit,,,,vorlaeufig,32,eingewechselt,0,0,37
+9,2026-11-08T23:28:51+01:00,11512,Capaldo,ABW,Hamburg,6858460,520,0,57.8,0.0,34663,0,4,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11752,Omari,ABW,Hamburg,5482417,405,94,45.0,17.1,36441,5732,1,fit,,,,vorlaeufig,96,startelf,0,0,69
+9,2026-11-08T23:28:51+01:00,11949,Nandja,ABW,Hamburg,3998274,155,155,17.2,38.8,23103,3818,3,fit,,,,vorlaeufig,64,startelf,1,0,35
+9,2026-11-08T23:28:51+01:00,11967,Vieira,MF,Hamburg,7238730,252,0,28.0,0.0,21487,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,12368,Tangvik,TW,Hamburg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13433,Lemke,ABW,Hamburg,3244884,115,0,12.8,0.0,20584,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14256,El Ouahdi,ABW,Hamburg,5095341,307,108,34.1,21.2,30419,5732,2,fit,,,MicheleFerra,vorlaeufig,96,startelf,0,0,83
+9,2026-11-08T23:28:51+01:00,14425,Møller Wolfe,ABW,Hamburg,5132736,433,128,48.1,24.9,44977,5732,1,fit,,,,vorlaeufig,96,startelf,0,0,103
+9,2026-11-08T23:28:51+01:00,15283,Adeline,MF,Hamburg,3691694,314,75,34.9,20.3,31472,3824,3,fit,,,,vorlaeufig,64,startelf,0,0,55
+9,2026-11-08T23:28:51+01:00,15472,Daka,ST,Hamburg,3366925,143,72,15.9,21.4,21001,5732,3,fit,,,Jonnhji,vorlaeufig,96,startelf,0,0,47
+9,2026-11-08T23:28:51+01:00,15478,Nadir,MF,Hamburg,2925051,147,0,16.3,0.0,12987,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,17203,Moffi,ST,Hamburg,5372704,316,33,35.1,6.1,22265,1907,3,fit,,,,vorlaeufig,32,eingewechselt,0,0,13
+9,2026-11-08T23:28:51+01:00,417,Zieler,TW,Köln,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,737,Waldschmidt,MF,Köln,694428,39,-9,4.3,-13.0,3918,750,5,fit,,,,vorlaeufig,12,eingewechselt,0,0,6
+9,2026-11-08T23:28:51+01:00,1580,Schwäbe,TW,Köln,13439436,1045,132,116.1,9.8,52418,5807,1,fit,,,,vorlaeufig,97,startelf,0,0,152
+9,2026-11-08T23:28:51+01:00,2069,Hübers,ABW,Köln,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2201,Maina,ST,Köln,9477972,574,10,63.8,1.1,40112,4514,2,fit,,,MicheleFerra,vorlaeufig,75,startelf,0,0,30
+9,2026-11-08T23:28:51+01:00,2358,Krauß,MF,Köln,8554682,645,45,71.7,5.3,45768,4502,1,fit,,,,vorlaeufig,75,startelf,0,0,65
+9,2026-11-08T23:28:51+01:00,2536,Köbbing,TW,Köln,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2552,Bülter,ST,Köln,7591590,388,36,43.1,4.7,36180,4513,1,fit,,,,vorlaeufig,75,startelf,0,0,56
+9,2026-11-08T23:28:51+01:00,2718,Skhiri,MF,Köln,3129703,405,0,45.0,0.0,19285,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2765,Thielmann,MF,Köln,685646,128,0,14.2,0.0,9850,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2855,Ache,ST,Köln,5275628,251,0,27.9,0.0,12132,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7219,Jóhannesson,MF,Köln,7203524,548,-7,60.9,-1.0,36296,1305,4,fit,,,,vorlaeufig,22,eingewechselt,0,0,8
+9,2026-11-08T23:28:51+01:00,8001,Lochoshvili,ABW,Köln,7789690,549,0,61.0,0.0,39689,0,4,fit,,,Aaron,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8273,El Mala,ST,Köln,2358301,150,56,16.7,23.7,2525,1294,5,fit,,,Jonnhji,vorlaeufig,22,eingewechselt,0,1,26
+9,2026-11-08T23:28:51+01:00,8274,El Mala,MF,Köln,22267264,673,140,74.8,6.3,37822,5807,1,fit,,,Aaron,vorlaeufig,97,startelf,1,0,80
+9,2026-11-08T23:28:51+01:00,10121,Rondic,ST,Köln,500000,7,0,0.8,0.0,988,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,11570,Sebulonsen,ABW,Köln,4539113,289,48,32.1,10.6,27881,5060,3,fit,,,,vorlaeufig,84,startelf,0,0,68
+9,2026-11-08T23:28:51+01:00,11875,van den Berg,ABW,Köln,500000,,0,,0.0,,,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,11958,Castro-Montes,MF,Köln,3822785,309,-4,34.3,-1.0,23703,747,3,fit,,,,vorlaeufig,12,eingewechselt,0,0,11
+9,2026-11-08T23:28:51+01:00,12321,Simpson-Pusey,ABW,Köln,11850003,798,45,88.7,3.8,52418,5807,1,fit,,,Aaron,vorlaeufig,97,startelf,0,0,65
+9,2026-11-08T23:28:51+01:00,14140,Mensah,ABW,Köln,2773929,230,0,25.6,0.0,21221,0,5,fit,,,MicheleFerra,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14300,Okon-Engstler,MF,Köln,3847171,243,63,27.0,16.4,20879,5807,2,fit,,,,vorlaeufig,97,startelf,0,0,83
+9,2026-11-08T23:28:51+01:00,15373,Heskey,MF,Köln,500000,0,-1,0.0,-2.0,3906,1293,5,fit,,,,vorlaeufig,22,eingewechselt,0,0,14
+9,2026-11-08T23:28:51+01:00,16945,Dallinga,ST,Köln,500000,258,0,28.7,0.0,9678,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,17282,Moore,MF,Köln,5733260,387,4,43.0,0.7,31652,5057,2,fit,,,Felix,vorlaeufig,84,startelf,0,0,24
+9,2026-11-08T23:28:51+01:00,168,Michel,ST,Paderborn,500000,35,0,3.9,0.0,990,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,1964,Götze,ABW,Paderborn,4439367,232,0,25.8,0.0,5175,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2015,Obermair,MF,Paderborn,9528970,871,201,96.8,21.1,48052,4029,1,fit,,,MicheleFerra,vorlaeufig,67,startelf,1,0,111
+9,2026-11-08T23:28:51+01:00,2301,Batista Meier,MF,Paderborn,500000,-28,0,-3.1,0.0,3629,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2471,Schubert,TW,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2498,Baack,MF,Paderborn,3701222,266,55,29.6,14.9,17099,5744,3,fit,,,Maurice,vorlaeufig,96,startelf,0,0,55
+9,2026-11-08T23:28:51+01:00,2749,Tigges,ST,Paderborn,5934513,504,6,56.0,1.0,21832,336,3,fit,,,,vorlaeufig,6,eingewechselt,0,0,11
+9,2026-11-08T23:28:51+01:00,2977,Noll,TW,Paderborn,16076420,1149,29,127.7,1.8,51570,5744,1,fit,,,MicheleFerra,vorlaeufig,96,startelf,0,0,29
+9,2026-11-08T23:28:51+01:00,3027,Pieringer,ST,Paderborn,2949154,340,116,37.8,39.3,31365,1723,3,fit,,,,vorlaeufig,29,eingewechselt,1,0,36
+9,2026-11-08T23:28:51+01:00,3081,Vidović,MF,Paderborn,4827114,494,28,54.9,5.8,41643,2838,1,fit,,,,vorlaeufig,47,startelf,0,0,28
+9,2026-11-08T23:28:51+01:00,3336,Marino,ST,Paderborn,8075682,492,55,54.7,6.8,36191,4544,2,fit,,,,vorlaeufig,76,startelf,0,0,50
+9,2026-11-08T23:28:51+01:00,3491,Klaas,MF,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3492,Hoffmeier,ABW,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3559,Ulrich,MF,Paderborn,5997535,466,0,51.8,0.0,34171,0,3,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6197,Curda,ABW,Paderborn,11973991,858,85,95.3,7.1,49972,5744,1,fit,,,,vorlaeufig,96,startelf,0,0,85
+9,2026-11-08T23:28:51+01:00,6217,Philippe,ST,Paderborn,4740313,292,0,32.4,0.0,11480,1200,4,fit,,,,vorlaeufig,20,eingewechselt,0,0,5
+9,2026-11-08T23:28:51+01:00,6292,Hansen,ABW,Paderborn,8413265,791,106,87.9,12.6,47306,5744,1,fit,,,,vorlaeufig,96,startelf,0,0,106
+9,2026-11-08T23:28:51+01:00,6751,Pruhs,TW,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,7320,Scheller,ABW,Paderborn,10916550,897,111,99.7,10.2,51056,5744,1,fit,,,Clainsman,vorlaeufig,96,startelf,0,0,111
+9,2026-11-08T23:28:51+01:00,7616,ter Horst,ABW,Paderborn,7222264,713,104,79.2,14.4,47290,5744,3,fit,,,MicheleFerra,vorlaeufig,96,startelf,0,0,104
+9,2026-11-08T23:28:51+01:00,8872,Sticker,ABW,Paderborn,500000,128,0,14.2,0.0,4642,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8984,Awortwie-Grant,ABW,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9283,Zeitler,ST,Paderborn,500000,6,6,0.7,12.0,2629,,5,fit,,,,vorlaeufig,44,eingewechselt,0,0,1
+9,2026-11-08T23:28:51+01:00,10048,Duric,MF,Paderborn,500000,-16,0,-1.8,0.0,1010,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,11170,Müller,MF,Paderborn,500000,90,81,10.0,162.0,5217,4020,5,fit,,,,vorlaeufig,67,startelf,0,1,36
+9,2026-11-08T23:28:51+01:00,12262,Millgramm,ST,Paderborn,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,14911,Lippmann,ABW,Paderborn,500000,1,22,0.1,44.0,3494,1715,5,fit,,,,vorlaeufig,29,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,14914,Gayret,MF,Paderborn,500000,,0,,0.0,,,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,859,Gyamerah,ABW,Elversberg,2113342,264,0,29.3,0.0,24900,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,1745,Condé,MF,Elversberg,500000,43,0,4.8,0.0,2123,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2495,Boss,TW,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2928,Petkov,MF,Elversberg,12805746,884,108,98.2,8.4,51850,5972,1,fit,,,Maurice,vorlaeufig,100,startelf,0,0,128
+9,2026-11-08T23:28:51+01:00,3026,Günther,ABW,Elversberg,8131413,579,28,64.3,3.4,45848,4956,1,fit,,,,vorlaeufig,83,startelf,0,0,53
+9,2026-11-08T23:28:51+01:00,3232,Pfeiffer,ST,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3284,Rohr,ABW,Elversberg,16175755,1000,86,111.1,5.3,52101,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,106
+9,2026-11-08T23:28:51+01:00,3350,Keidel,ABW,Elversberg,10659071,928,100,103.1,9.4,51316,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,120
+9,2026-11-08T23:28:51+01:00,6148,Pinckert,ABW,Elversberg,12211774,810,7,90.0,0.6,49197,2213,1,angeschlagen,,,Maurice,vorlaeufig,37,startelf,0,0,22
+9,2026-11-08T23:28:51+01:00,6149,Lehmann,TW,Elversberg,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6158,Schnellbacher,ST,Elversberg,500000,36,0,4.0,0.0,2386,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,6160,Kristof,TW,Elversberg,12039687,910,114,101.1,9.5,52956,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,134
+9,2026-11-08T23:28:51+01:00,6183,Futkeu,ST,Elversberg,2576367,194,87,21.6,33.8,11655,1023,5,fit,,,,vorlaeufig,17,eingewechselt,1,0,17
+9,2026-11-08T23:28:51+01:00,7278,Poreba,MF,Elversberg,9980761,652,33,72.4,3.3,52956,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,53
+9,2026-11-08T23:28:51+01:00,7441,Campbell,MF,Elversberg,5963665,445,44,49.4,7.4,21191,1676,3,fit,,,,vorlaeufig,28,eingewechselt,0,0,59
+9,2026-11-08T23:28:51+01:00,7463,Onyeka,MF,Elversberg,7075563,342,-9,38.0,-1.3,20035,4295,1,fit,,,Clainsman,vorlaeufig,72,startelf,0,0,11
+9,2026-11-08T23:28:51+01:00,7514,Le Joncour,ABW,Elversberg,500000,99,79,11.0,158.0,4614,3759,5,fit,,,,vorlaeufig,63,eingewechselt,0,1,54
+9,2026-11-08T23:28:51+01:00,8252,Krattenmacher,MF,Elversberg,10658347,716,-6,79.6,-0.6,29969,4949,3,fit,,,,vorlaeufig,82,startelf,0,0,19
+9,2026-11-08T23:28:51+01:00,8296,Schmahl,MF,Elversberg,3115444,104,0,11.6,0.0,9918,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8301,Sirch,ABW,Elversberg,5326056,321,23,35.7,4.3,26642,4944,1,fit,,,Aaron,vorlaeufig,82,startelf,0,0,48
+9,2026-11-08T23:28:51+01:00,9224,Zimmerschied,MF,Elversberg,998715,0,0,0.0,0.0,3624,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,9384,Darvich,MF,Elversberg,3202354,138,0,15.3,0.0,16627,0,4,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,9995,Mokwa,ST,Elversberg,7723189,453,-13,50.3,-1.7,41333,5972,1,fit,,,,vorlaeufig,100,startelf,0,0,7
+9,2026-11-08T23:28:51+01:00,11253,Mickelson,ABW,Elversberg,771247,142,2,15.8,2.6,6278,1027,5,fit,,,,vorlaeufig,17,eingewechselt,0,0,12
+9,2026-11-08T23:28:51+01:00,12317,Adam,ST,Elversberg,2309462,53,12,5.9,5.2,5051,1015,5,fit,,,,vorlaeufig,17,eingewechselt,0,0,22
+9,2026-11-08T23:28:51+01:00,32,Karius,TW,Schalke,16528895,1071,-21,119.0,-1.3,49903,3132,1,fit,,,schwungzent,vorlaeufig,52,startelf,0,0,49
+9,2026-11-08T23:28:51+01:00,670,Karaman,ST,Schalke,5190378,301,54,33.4,10.4,34590,6038,1,fit,,,Aaron,vorlaeufig,101,startelf,0,0,74
+9,2026-11-08T23:28:51+01:00,755,Müller,TW,Schalke,500000,52,52,5.8,104.0,2906,,5,fit,,,,vorlaeufig,48,eingewechselt,0,0,62
+9,2026-11-08T23:28:51+01:00,1012,Džeko,ST,Schalke,1714123,63,22,7.0,12.8,14424,1408,3,fit,,,,vorlaeufig,23,eingewechselt,0,0,17
+9,2026-11-08T23:28:51+01:00,1691,Porath,MF,Schalke,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2449,Hwang,ST,Schalke,3965961,210,43,23.3,10.8,23093,6038,3,fit,,,,vorlaeufig,101,startelf,0,0,63
+9,2026-11-08T23:28:51+01:00,2762,Becker,ABW,Schalke,7641874,559,0,62.1,0.0,39423,0,1,fit,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,2876,Schallenberg,MF,Schalke,500000,-53,0,-5.9,0.0,6263,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,2967,El-Faouzi,MF,Schalke,5007283,446,38,49.6,7.6,43593,6038,2,fit,,,,vorlaeufig,101,startelf,0,0,58
+9,2026-11-08T23:28:51+01:00,3022,Lasme,ST,Schalke,500000,-30,0,-3.3,0.0,596,0,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,3029,Ljubičić,MF,Schalke,3930563,184,57,20.4,14.5,18225,4630,2,fit,,,nico,vorlaeufig,77,startelf,0,0,82
+9,2026-11-08T23:28:51+01:00,3307,Bachmann,MF,Schalke,500000,57,0,6.3,0.0,4055,0,5,angeschlagen,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,4406,Dina Ebimbe,MF,Schalke,4017983,355,63,39.4,15.7,27102,1795,4,fit,,,,vorlaeufig,30,eingewechselt,0,0,73
+9,2026-11-08T23:28:51+01:00,4606,Kuruçay,ABW,Schalke,10718395,727,78,80.8,7.3,49709,6038,1,fit,,,schwungzent,vorlaeufig,101,startelf,0,0,98
+9,2026-11-08T23:28:51+01:00,6172,Adamu,ST,Schalke,2592542,276,113,30.7,43.6,25821,1790,3,fit,,,,vorlaeufig,30,eingewechselt,1,0,33
+9,2026-11-08T23:28:51+01:00,7156,Wöber,ABW,Schalke,2421127,227,0,25.2,0.0,12753,0,5,verletzt,,,,vorlaeufig,0,nicht_im_kader,0,0,
+9,2026-11-08T23:28:51+01:00,7242,Gosens,ABW,Schalke,5146305,471,52,52.3,10.1,31434,3123,3,fit,,,,vorlaeufig,52,startelf,0,0,77
+9,2026-11-08T23:28:51+01:00,8222,Sylla,ST,Schalke,2059221,57,0,6.3,0.0,18120,0,5,Aufbautraining,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8235,Gantenbein,ABW,Schalke,2612012,161,0,17.9,0.0,8581,0,5,Aufbautraining,,,Clainsman,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,8277,Becker,ABW,Schalke,3973927,176,28,19.6,7.0,19937,2914,3,fit,,,,vorlaeufig,49,eingewechselt,0,0,38
+9,2026-11-08T23:28:51+01:00,10916,Ayhan,ABW,Schalke,2214786,58,12,6.4,5.4,10706,4243,4,fit,,,Aaron,vorlaeufig,71,startelf,0,0,37
+9,2026-11-08T23:28:51+01:00,12158,Vozar,MF,Schalke,500000,5,0,0.6,0.0,1178,0,4,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,12297,Tanaka,MF,Schalke,7920520,416,15,46.2,1.9,42883,4248,1,fit,,,Aaron,vorlaeufig,71,startelf,0,0,40
+9,2026-11-08T23:28:51+01:00,13431,Siebeking,TW,Schalke,500000,,0,,0.0,,,5,fit,,,,vorlaeufig,0,bank,0,0,
+9,2026-11-08T23:28:51+01:00,13448,Aouchiche,MF,Schalke,8043919,641,123,71.2,15.3,43434,6038,1,fit,,,,vorlaeufig,101,startelf,0,0,143
