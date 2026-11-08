@@ -1076,3 +1076,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13318774966,2026-11-08T15:07:31Z,kauf,Prömel,1671,Stuttgart,Felix,,11444499,10875007,569492,5.2,history_players_naeherung
 13319031214,2026-11-08T15:53:27Z,kauf,Vázquez,3754,Leverkusen,Kai,,3633663,2175521,1458142,67.0,history_players_naeherung
 13319767477,2026-11-08T17:56:22Z,verkauf,Sander,2560,M'gladbach,,Felix,8209478,8339008,-129530,-1.6,history_players_naeherung
+13320527899,2026-11-08T19:48:56Z,kauf,Schmied,10024,Köln,Kai,,4733338,3072596,1660742,54.1,history_players_naeherung
