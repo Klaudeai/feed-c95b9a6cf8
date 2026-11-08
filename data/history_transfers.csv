@@ -1071,3 +1071,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13312294501,2026-11-07T20:43:37Z,kauf,Mokwa,9995,Elversberg,Jonnhji,,7607999,6424433,1183566,18.4,history_players_naeherung
 13314076006,2026-11-08T01:18:32Z,verkauf,Mokwa,9995,Elversberg,,Jonnhji,7723189,7551329,171860,2.3,history_players_naeherung
 13315692028,2026-11-08T06:43:38Z,kauf,Sambi Lokonga,8367,Hamburg,nico,,5650000,5012929,637071,12.7,history_players_naeherung
+13317563968,2026-11-08T11:32:49Z,kauf,Veerman,7737,Dortmund,Felix,,16666699,14353252,2313447,16.1,history_players_naeherung
