@@ -1079,3 +1079,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13320527899,2026-11-08T19:48:56Z,kauf,Schmied,10024,Köln,Kai,,4733338,3072596,1660742,54.1,history_players_naeherung
 13320650488,2026-11-08T20:10:48Z,verkauf,Daghim,11959,Hoffenheim,,Felix,15913927,15747888,166039,1.1,history_players_naeherung
 13321212034,2026-11-08T21:36:08Z,verkauf,Abraha,14908,Hoffenheim,,Paul Block,2550495,2464861,85634,3.5,history_players_naeherung
+13321383184,2026-11-08T22:06:08Z,verkauf,Ibrahimović,3176,Augsburg,,Kai,10724717,10550703,174014,1.6,history_players_naeherung
