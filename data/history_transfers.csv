@@ -1044,7 +1044,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13287038194,2026-11-05T01:41:03Z,kauf,El Mala,8273,Köln,Jonnhji,,1527999,500000,1027999,205.6,history_players_naeherung
 13291319542,2026-11-05T13:36:13Z,kauf,Nartey,2120,Stuttgart,Paul Block,,2969999,1896187,1073812,56.6,history_players_naeherung
 13291445299,2026-11-05T13:59:02Z,verkauf,Karazor,2214,Stuttgart,,Paul Block,9892884,10309478,-416594,-4.0,history_players_naeherung
-13293617425,2026-11-05T20:31:03Z,kauf,Ilicevic,15529,Frankfurt,Aaron,,1000000,,,,unbekannt
+13293617425,2026-11-05T20:31:03Z,kauf,Ilicevic,15529,Frankfurt,Aaron,,1000000,998201,1799,0.2,mv_history_exakt
 13299036769,2026-11-06T09:36:30Z,verkauf,Nebel,2895,Mainz,,Paul Block,7340629,8453381,-1112752,-13.2,history_players_naeherung
 13299055765,2026-11-06T09:38:45Z,verkauf,Baumann,524,Hoffenheim,,Paul Block,11599915,11452484,147431,1.3,history_players_naeherung
 13299057112,2026-11-06T09:39:10Z,verkauf,Koné,14896,Leipzig,,Paul Block,3968640,3047667,920973,30.2,history_players_naeherung
@@ -1087,3 +1087,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13326322780,2026-11-09T11:17:46Z,kauf,Pieringer,3027,Paderborn,Jonnhji,,3009999,3000648,9351,0.3,history_players_naeherung
 13326722086,2026-11-09T12:29:05Z,kauf,Ache,2855,Köln,Felix,,6111199,5418040,693159,12.8,history_players_naeherung
 13328297980,2026-11-09T17:23:49Z,auto_verkauf_mvp,Nmecha,3069,Dortmund,,Jonnhji,29292588,29292588,0,0.0,history_players_naeherung
+13329022609,2026-11-09T17:44:45Z,kauf,Hollerbach,6111,Mainz,1. FC Infantino,Aaron,2000000,1895181,104819,5.5,history_players_naeherung
