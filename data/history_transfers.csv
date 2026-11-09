@@ -1083,3 +1083,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13321564219,2026-11-08T22:40:24Z,kauf,Torunarigha,1978,Hamburg,Paul Block,,5815999,5353809,462190,8.6,history_players_naeherung
 13323392482,2026-11-09T04:08:26Z,kauf,Díaz,11675,Bayern,Kai,,46233893,40710562,5523331,13.6,history_players_naeherung
 13323502351,2026-11-09T04:28:09Z,kauf,Gouweleeuw,1811,Augsburg,Paul Block,,8109999,7907794,202205,2.6,history_players_naeherung
+13324200475,2026-11-09T06:00:47Z,verkauf,Aebischer,7684,Union Berlin,,schwungzent,5350791,5350791,0,0.0,history_players_naeherung
