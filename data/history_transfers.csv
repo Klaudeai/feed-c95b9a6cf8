@@ -1086,3 +1086,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13324200475,2026-11-09T06:00:47Z,verkauf,Aebischer,7684,Union Berlin,,schwungzent,5350791,5350791,0,0.0,history_players_naeherung
 13326322780,2026-11-09T11:17:46Z,kauf,Pieringer,3027,Paderborn,Jonnhji,,3009999,3000648,9351,0.3,history_players_naeherung
 13326722086,2026-11-09T12:29:05Z,kauf,Ache,2855,Köln,Felix,,6111199,5418040,693159,12.8,history_players_naeherung
+13328297980,2026-11-09T17:23:49Z,auto_verkauf_mvp,Nmecha,3069,Dortmund,,Jonnhji,29292588,29292588,0,0.0,history_players_naeherung
