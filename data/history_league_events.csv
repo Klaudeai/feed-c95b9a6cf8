@@ -63,3 +63,4 @@ event_id,at,type,type_name,manager,player,player_id,amount,matchday,detail
 13331939086,2026-11-09T18:14:45Z,17,spieltagssieger,nico,,,,9,
 13338154453,2026-11-09T18:40:18Z,26,erfolg,Kai,,,,,Top scorer
 13338154183,2026-11-09T18:40:18Z,26,erfolg,Kai,,,,,Match day points silver
+13348084765,2026-11-10T08:05:06Z,22,login_bonus,Kai,,,100000,100,
