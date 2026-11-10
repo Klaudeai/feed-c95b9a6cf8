@@ -1089,3 +1089,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13328297980,2026-11-09T17:23:49Z,auto_verkauf_mvp,Nmecha,3069,Dortmund,,Jonnhji,29292588,29292588,0,0.0,history_players_naeherung
 13329022609,2026-11-09T17:44:45Z,kauf,Hollerbach,6111,Mainz,1. FC Infantino,Aaron,2000000,1895181,104819,5.5,history_players_naeherung
 13344073498,2026-11-09T21:16:56Z,verkauf,Ryerson,2395,Dortmund,,nico,17125793,17120558,5235,0.0,history_players_naeherung
+13345143202,2026-11-10T00:07:33Z,kauf,Moffi,17203,Hamburg,Felix,,6333339,6027177,306162,5.1,history_players_naeherung
