@@ -1098,3 +1098,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13354412959,2026-11-11T03:12:56Z,kauf,Lemperle,2803,Hoffenheim,Jonnhji,,9037999,7687954,1350045,17.6,history_players_naeherung
 13355827870,2026-11-11T06:44:25Z,kauf,Bah,9754,Augsburg,Paul Block,,3510999,3032915,478084,15.8,history_players_naeherung
 13358052301,2026-11-11T12:53:09Z,verkauf,Güther,13629,Union Berlin,,1. FC Infantino,500000,500000,0,0.0,history_players_naeherung
+13361281540,2026-11-11T22:47:53Z,verkauf,Backhaus,3218,Freiburg,,Jonnhji,11125734,10989876,135858,1.2,history_players_naeherung
+13361291431,2026-11-11T22:49:26Z,verkauf,Demirović,2854,Stuttgart,,Jonnhji,16385233,16064758,320475,2.0,history_players_naeherung
