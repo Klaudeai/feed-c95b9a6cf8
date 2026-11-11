@@ -1095,3 +1095,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13349564581,2026-11-10T12:17:17Z,kauf,Boniface,6745,Leverkusen,nico,,680000,529965,150035,28.3,history_players_naeherung
 13352093644,2026-11-10T20:06:41Z,kauf,Backhaus,3218,Freiburg,Jonnhji,,10989879,10989876,3,0.0,history_players_naeherung
 13352680078,2026-11-10T21:50:31Z,kauf,Medina,14241,Leverkusen,Aaron,Jonnhji,18000000,17524945,475055,2.7,history_players_naeherung
+13354412959,2026-11-11T03:12:56Z,kauf,Lemperle,2803,Hoffenheim,Jonnhji,,9037999,7687954,1350045,17.6,history_players_naeherung
