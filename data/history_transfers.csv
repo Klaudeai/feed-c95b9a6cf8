@@ -1108,3 +1108,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13367648407,2026-11-12T17:24:14Z,kauf,Posch,2006,Mainz,nico,,7100500,6993799,106701,1.5,history_players_naeherung
 13367803387,2026-11-12T17:54:39Z,verkauf,Becker,8277,Schalke,,Kai,5467677,4723483,744194,15.8,history_players_naeherung
 13367853460,2026-11-12T18:04:45Z,kauf,Chaïbi,7277,Frankfurt,Paul Block,,14899999,10852831,4047168,37.3,history_players_naeherung
+13368013300,2026-11-12T18:37:14Z,verkauf,Beier,2714,Dortmund,,nico,22999190,22751340,247850,1.1,history_players_naeherung
