@@ -1117,3 +1117,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13375233283,2026-11-13T15:30:49Z,kauf,Kristof,6160,Elversberg,1. FC Infantino,,12350000,12123033,226967,1.9,history_players_naeherung
 13375248934,2026-11-13T15:33:52Z,kauf,Brackelmann,7283,Augsburg,Kai,,9153862,7040531,2113331,30.0,history_players_naeherung
 13375633048,2026-11-13T16:49:46Z,kauf,Keidel,3350,Elversberg,Aaron,,12000001,11053621,946380,8.6,history_players_naeherung
+13376937115,2026-11-13T21:08:38Z,verkauf,Moffi,17203,Hamburg,,Felix,7093869,6027177,1066692,17.7,history_players_naeherung
+13377042481,2026-11-13T21:23:57Z,verkauf,Gruber,10122,Mainz,,nico,10223786,8974793,1248993,13.9,history_players_naeherung
