@@ -1112,3 +1112,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13369962034,2026-11-13T00:01:31Z,kauf,Capaldo,11512,Hamburg,Felix,,7222299,6318807,903492,14.3,history_players_naeherung
 13372605403,2026-11-13T07:35:41Z,kauf,Olise,8329,Bayern,nico,,80500000,65537371,14962629,22.8,history_players_naeherung
 13372671772,2026-11-13T07:45:48Z,kauf,Claude-Maurice,9684,Augsburg,Felix,,7000999,5978597,1022402,17.1,history_players_naeherung
+13373272237,2026-11-13T09:22:48Z,kauf,Okon-Engstler,14300,Köln,Felix,,5888999,4693491,1195508,25.5,history_players_naeherung
