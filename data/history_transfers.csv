@@ -1110,3 +1110,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13367853460,2026-11-12T18:04:45Z,kauf,Chaïbi,7277,Frankfurt,Paul Block,,14899999,10852831,4047168,37.3,history_players_naeherung
 13368013300,2026-11-12T18:37:14Z,verkauf,Beier,2714,Dortmund,,nico,22999190,22751340,247850,1.1,history_players_naeherung
 13369962034,2026-11-13T00:01:31Z,kauf,Capaldo,11512,Hamburg,Felix,,7222299,6318807,903492,14.3,history_players_naeherung
+13372605403,2026-11-13T07:35:41Z,kauf,Olise,8329,Bayern,nico,,80500000,65537371,14962629,22.8,history_players_naeherung
+13372671772,2026-11-13T07:45:48Z,kauf,Claude-Maurice,9684,Augsburg,Felix,,7000999,5978597,1022402,17.1,history_players_naeherung
