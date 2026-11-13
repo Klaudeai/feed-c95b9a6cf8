@@ -112,3 +112,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 11675,Luis Díaz,Bayern,ST,46233893,40710562,13.6,1,2026-11-09T04:07:00+00:00,2026-11-08T22:30:26+00:00,2026-11-08T22:30:26+00:00,gewonnen,2026-11-09T04:08:26Z,46233893,ich,eigener Kauf in squad.json gefunden
 7277,Farès Chaïbi,Frankfurt,MF,12800066,11300113,13.3,1,2026-11-12T18:04:00+00:00,2026-11-12T18:01:11+00:00,2026-11-12T18:01:11+00:00,verloren,2026-11-12T18:04:45Z,14899999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
 8329,Michael Olise,Bayern,MF,70638277,65667310,7.6,1,2026-11-13T07:35:00+00:00,2026-11-12T23:01:06+00:00,2026-11-12T23:01:06+00:00,verloren,2026-11-13T07:35:41Z,80500000,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
+7283,Calvin Brackelmann,Augsburg,ABW,9153862,7768503,17.8,1,2026-11-13T15:33:00+00:00,2026-11-13T14:31:01+00:00,2026-11-13T14:31:01+00:00,offen,,,,
