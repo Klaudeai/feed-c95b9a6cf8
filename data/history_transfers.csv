@@ -1119,3 +1119,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13375633048,2026-11-13T16:49:46Z,kauf,Keidel,3350,Elversberg,Aaron,,12000001,11053621,946380,8.6,history_players_naeherung
 13376937115,2026-11-13T21:08:38Z,verkauf,Moffi,17203,Hamburg,,Felix,7093869,6027177,1066692,17.7,history_players_naeherung
 13377042481,2026-11-13T21:23:57Z,verkauf,Gruber,10122,Mainz,,nico,10223786,8974793,1248993,13.9,history_players_naeherung
+13377855529,2026-11-13T23:33:28Z,verkauf,Gouweleeuw,1811,Augsburg,,Paul Block,9220434,8201014,1019420,12.4,history_players_naeherung
+13377860017,2026-11-13T23:33:37Z,verkauf,Torunarigha,1978,Hamburg,,Paul Block,7106961,5967260,1139701,19.1,history_players_naeherung
