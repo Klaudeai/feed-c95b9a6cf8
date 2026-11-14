@@ -1126,3 +1126,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13380099268,2026-11-14T06:44:55Z,kauf,Lynen,7167,Bremen,Felix,,4999999,3241021,1758978,54.3,history_players_naeherung
 13381203751,2026-11-14T09:34:20Z,kauf,Le Joncour,7514,Elversberg,Paul Block,,2368999,683187,1685812,246.8,history_players_naeherung
 13381298284,2026-11-14T09:49:08Z,verkauf,Keitel,2764,Augsburg,,Felix,3866681,4555473,-688792,-15.1,history_players_naeherung
+13381646065,2026-11-14T10:47:14Z,kauf,Binder,15502,Bayern,Felix,,3555566,2055626,1499940,73.0,history_players_naeherung
