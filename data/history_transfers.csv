@@ -1132,3 +1132,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13389517849,2026-11-15T10:26:12Z,kauf,Højlund,8351,Frankfurt,Kai,,2855580,764184,2091396,273.7,history_players_naeherung
 13392204031,2026-11-15T18:57:04Z,kauf,Köhn,3453,Union Berlin,Paul Block,,4869999,2937906,1932093,65.8,history_players_naeherung
 13393083925,2026-11-15T21:14:51Z,verkauf,Okon-Engstler,14300,Köln,,Felix,6304437,4693491,1610946,34.3,history_players_naeherung
+13393467193,2026-11-15T22:04:40Z,verkauf,Ljubičić,3029,Schalke,,nico,5977273,4541171,1436102,31.6,history_players_naeherung
+13393471816,2026-11-15T22:05:02Z,verkauf,Daka,15472,Hamburg,,Jonnhji,5147079,4144406,1002673,24.2,history_players_naeherung
+13393474180,2026-11-15T22:05:53Z,verkauf,Lemperle,2803,Hoffenheim,,Jonnhji,9854175,7687954,2166221,28.2,history_players_naeherung
