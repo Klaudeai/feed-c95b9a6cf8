@@ -1129,3 +1129,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13381646065,2026-11-14T10:47:14Z,kauf,Binder,15502,Bayern,Felix,,3555566,2055626,1499940,73.0,history_players_naeherung
 13385430223,2026-11-14T22:29:18Z,verkauf,Schmetgens,10134,Bremen,,Kai,5791998,4515743,1276255,28.3,history_players_naeherung
 13386028621,2026-11-14T23:52:56Z,kauf,Vušković,3279,Hamburg,nico,,1150000,947363,202637,21.4,mv_history_exakt
+13389517849,2026-11-15T10:26:12Z,kauf,Højlund,8351,Frankfurt,Kai,,2855580,764184,2091396,273.7,history_players_naeherung
