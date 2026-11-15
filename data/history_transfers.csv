@@ -1130,3 +1130,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13385430223,2026-11-14T22:29:18Z,verkauf,Schmetgens,10134,Bremen,,Kai,5791998,4515743,1276255,28.3,history_players_naeherung
 13386028621,2026-11-14T23:52:56Z,kauf,Vušković,3279,Hamburg,nico,,1150000,947363,202637,21.4,mv_history_exakt
 13389517849,2026-11-15T10:26:12Z,kauf,Højlund,8351,Frankfurt,Kai,,2855580,764184,2091396,273.7,history_players_naeherung
+13392204031,2026-11-15T18:57:04Z,kauf,Köhn,3453,Union Berlin,Paul Block,,4869999,2937906,1932093,65.8,history_players_naeherung
