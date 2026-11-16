@@ -1143,3 +1143,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13399712731,2026-11-16T15:48:24Z,kauf,Suzuki,11006,Freiburg,Jonnhji,,20000944,19728948,271996,1.4,history_players_naeherung
 13400838682,2026-11-16T19:25:54Z,kauf,Prass,7717,Hoffenheim,Paul Block,,12159999,9917108,2242891,22.6,history_players_naeherung
 13402056070,2026-11-16T22:40:09Z,verkauf,Karetsas,16378,Dortmund,,Felix,20100593,18846989,1253604,6.7,history_players_naeherung
+13402286812,2026-11-16T23:13:39Z,verkauf,Sambi Lokonga,8367,Hamburg,,nico,7332213,5787007,1545206,26.7,history_players_naeherung
