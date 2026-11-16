@@ -1138,3 +1138,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13394328499,2026-11-16T00:25:39Z,kauf,Müller,11170,Paderborn,nico,,2030009,503694,1526315,303.0,history_players_naeherung
 13394643550,2026-11-16T01:29:59Z,kauf,Hansen,6292,Paderborn,Aaron,,10400001,9066558,1333443,14.7,history_players_naeherung
 13395437761,2026-11-16T04:20:44Z,kauf,Coufal,7745,Hoffenheim,Jonnhji,,23779999,20119389,3660610,18.2,history_players_naeherung
+13397588758,2026-11-16T09:29:35Z,verkauf,Davies,2366,Bayern,,Paul Block,24098517,23843370,255147,1.1,history_players_naeherung
