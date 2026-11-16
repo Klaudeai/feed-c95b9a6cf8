@@ -1136,3 +1136,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13393471816,2026-11-15T22:05:02Z,verkauf,Daka,15472,Hamburg,,Jonnhji,5147079,4144406,1002673,24.2,history_players_naeherung
 13393474180,2026-11-15T22:05:53Z,verkauf,Lemperle,2803,Hoffenheim,,Jonnhji,9854175,7687954,2166221,28.2,history_players_naeherung
 13394328499,2026-11-16T00:25:39Z,kauf,Müller,11170,Paderborn,nico,,2030009,503694,1526315,303.0,history_players_naeherung
+13394643550,2026-11-16T01:29:59Z,kauf,Hansen,6292,Paderborn,Aaron,,10400001,9066558,1333443,14.7,history_players_naeherung
