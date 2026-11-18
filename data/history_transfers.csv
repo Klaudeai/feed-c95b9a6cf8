@@ -1148,3 +1148,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13409941033,2026-11-17T21:28:59Z,verkauf,Binder,15502,Bayern,,Felix,3995686,2055626,1940060,94.4,history_players_naeherung
 13410089359,2026-11-17T21:51:04Z,verkauf,Uzun,6081,Frankfurt,,Jonnhji,25393808,25047004,346804,1.4,history_players_naeherung
 13410788347,2026-11-17T23:42:58Z,verkauf,Rots,15193,Hoffenheim,,Paul Block,10617337,8972941,1644396,18.3,history_players_naeherung
+13414225720,2026-11-18T09:36:08Z,kauf,Zagadou,2068,Stuttgart,Paul Block,,3359999,508281,2851718,561.1,history_players_naeherung
