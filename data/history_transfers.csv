@@ -1150,3 +1150,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13410788347,2026-11-17T23:42:58Z,verkauf,Rots,15193,Hoffenheim,,Paul Block,10617337,8972941,1644396,18.3,history_players_naeherung
 13414225720,2026-11-18T09:36:08Z,kauf,Zagadou,2068,Stuttgart,Paul Block,,3359999,508281,2851718,561.1,history_players_naeherung
 13414467094,2026-11-18T10:19:36Z,kauf,Tah,173,Bayern,Jonnhji,,35777999,29089396,6688603,23.0,history_players_naeherung
+13415149915,2026-11-18T12:25:34Z,verkauf,Batz,577,M'gladbach,,Kai,5614059,3738843,1875216,50.2,history_players_naeherung
+13415154661,2026-11-18T12:26:16Z,verkauf,Vázquez,3754,Leverkusen,,Kai,5121093,3424529,1696564,49.5,history_players_naeherung
