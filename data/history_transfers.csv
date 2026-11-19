@@ -1169,3 +1169,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13426322815,2026-11-19T22:05:48Z,verkauf,Posch,2006,Mainz,,nico,8757196,6993799,1763397,25.2,history_players_naeherung
 13426323175,2026-11-19T22:05:51Z,verkauf,Vušković,3279,Hamburg,,nico,2832921,,,,unbekannt
 13426324096,2026-11-19T22:06:05Z,verkauf,Omari,11752,Hamburg,,nico,5745001,4941668,803333,16.3,history_players_naeherung
+13426705597,2026-11-19T23:00:26Z,verkauf,El-Faouzi,2967,Schalke,,Felix,7409422,5315727,2093695,39.4,history_players_naeherung
+13426706059,2026-11-19T23:00:28Z,verkauf,Ache,2855,Köln,,Felix,7610741,5638025,1972716,35.0,history_players_naeherung
