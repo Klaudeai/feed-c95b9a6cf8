@@ -1159,3 +1159,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13418908291,2026-11-19T00:57:44Z,kauf,Moreira,15199,Leverkusen,Paul Block,,16350999,15219702,1131297,7.4,history_players_naeherung
 13421460931,2026-11-19T08:15:48Z,verkauf,Widmer,3041,Mainz,,Kai,5119762,2695983,2423779,89.9,history_players_naeherung
 13422259036,2026-11-19T10:36:01Z,verkauf,Lynen,7167,Bremen,,Felix,5673162,3241021,2432141,75.0,history_players_naeherung
+13422555487,2026-11-19T11:21:20Z,kauf,Mwene,2232,Mainz,Kai,,7224222,7263569,-39347,-0.5,history_players_naeherung
