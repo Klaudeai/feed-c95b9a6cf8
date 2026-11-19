@@ -1162,3 +1162,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13422555487,2026-11-19T11:21:20Z,kauf,Mwene,2232,Mainz,Kai,,7224222,7263569,-39347,-0.5,history_players_naeherung
 13422580387,2026-11-19T11:31:56Z,kauf,Omari,11752,Hamburg,nico,,5555555,4941668,613887,12.4,history_players_naeherung
 13422938803,2026-11-19T12:31:12Z,verkauf,Anton,1704,Dortmund,,Kai,36723611,36620857,102754,0.3,history_players_naeherung
+13425098518,2026-11-19T19:34:13Z,verkauf,Muheim,3277,Hamburg,,Paul Block,11589165,10675810,913355,8.6,history_players_naeherung
