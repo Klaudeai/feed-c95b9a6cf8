@@ -116,6 +116,6 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3279,Mario Vušković,Hamburg,ABW,1118111,947363,18.0,1,2026-11-14T23:52:00+00:00,2026-11-14T22:31:02+00:00,2026-11-14T22:31:02+00:00,verloren,2026-11-14T23:52:56Z,1150000,nico,Kauf durch anderen Manager im Transfer-Archiv gefunden
 8351,Oscar Højlund,Frankfurt,MF,2855580,2567181,11.2,1,2026-11-15T10:25:00+00:00,2026-11-15T02:30:11+00:00,2026-11-15T02:30:11+00:00,gewonnen,2026-11-15T10:26:12Z,2855580,ich,eigener Kauf in squad.json gefunden
 1910,Florian Müller,Freiburg,TW,1122112,989088,13.4,1,2026-11-18T16:02:00+00:00,2026-11-18T13:01:17+00:00,2026-11-18T15:26:46+00:00,gewonnen,2026-11-18T16:02:51Z,1122112,ich,eigener Kauf in squad.json gefunden
-3190,Jeff Chabot,Stuttgart,ABW,25263751,22994292,9.9,1,2026-11-19T20:52:00+00:00,2026-11-18T13:31:15+00:00,2026-11-18T15:26:46+00:00,unklar,,,,"Gebot nicht mehr offen, noch kein passender Transfer gefunden"
+3190,Jeff Chabot,Stuttgart,ABW,25687733,23160436,10.9,1,2026-11-19T20:52:00+00:00,2026-11-18T13:31:15+00:00,2026-11-19T13:01:07+00:00,offen,,,,
 3284,Maximilian Rohr,Elversberg,ABW,17256845,16893969,2.1,1,2026-11-18T14:57:00+00:00,2026-11-18T13:31:15+00:00,2026-11-18T13:31:15+00:00,gewonnen,2026-11-18T14:57:38Z,17256845,ich,eigener Kauf in squad.json gefunden
 2232,Philipp Mwene,Mainz,ABW,7224222,7181156,0.6,1,2026-11-19T11:21:00+00:00,2026-11-19T08:31:00+00:00,2026-11-19T08:31:00+00:00,gewonnen,2026-11-19T11:21:20Z,7224222,ich,eigener Kauf in squad.json gefunden
