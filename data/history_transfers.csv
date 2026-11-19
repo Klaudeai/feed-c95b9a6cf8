@@ -1156,3 +1156,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13416233575,2026-11-18T15:58:44Z,verkauf,Moore,17282,Köln,,Felix,5800140,5937139,-136999,-2.3,history_players_naeherung
 13416253909,2026-11-18T16:02:51Z,kauf,Müller,1910,Freiburg,Kai,,1122112,500000,622112,124.4,history_players_naeherung
 13418093923,2026-11-18T21:32:53Z,verkauf,Nartey,2120,Stuttgart,,Paul Block,6069627,3817340,2252287,59.0,history_players_naeherung
+13418908291,2026-11-19T00:57:44Z,kauf,Moreira,15199,Leverkusen,Paul Block,,16350999,15219702,1131297,7.4,history_players_naeherung
