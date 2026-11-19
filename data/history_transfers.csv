@@ -1164,3 +1164,8 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13422938803,2026-11-19T12:31:12Z,verkauf,Anton,1704,Dortmund,,Kai,36723611,36620857,102754,0.3,history_players_naeherung
 13425098518,2026-11-19T19:34:13Z,verkauf,Muheim,3277,Hamburg,,Paul Block,11589165,10675810,913355,8.6,history_players_naeherung
 13425511699,2026-11-19T20:52:33Z,kauf,Chabot,3190,Stuttgart,schwungzent,,26899999,21618601,5281398,24.4,history_players_naeherung
+13426320025,2026-11-19T22:05:37Z,verkauf,Dinkçi,2939,Bremen,,nico,10784650,8845773,1938877,21.9,history_players_naeherung
+13426322311,2026-11-19T22:05:40Z,verkauf,Boniface,6745,Leverkusen,,nico,2844689,529965,2314724,436.8,history_players_naeherung
+13426322815,2026-11-19T22:05:48Z,verkauf,Posch,2006,Mainz,,nico,8757196,6993799,1763397,25.2,history_players_naeherung
+13426323175,2026-11-19T22:05:51Z,verkauf,Vušković,3279,Hamburg,,nico,2832921,,,,unbekannt
+13426324096,2026-11-19T22:06:05Z,verkauf,Omari,11752,Hamburg,,nico,5745001,4941668,803333,16.3,history_players_naeherung
