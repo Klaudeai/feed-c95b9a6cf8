@@ -1175,3 +1175,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13429195138,2026-11-20T05:56:54Z,verkauf,Ilicevic,15529,Frankfurt,,Aaron,2768232,2417483,350749,14.5,history_players_naeherung
 13429195543,2026-11-20T05:57:00Z,verkauf,Chuki,8166,Bremen,,Aaron,11375084,10235250,1139834,11.1,history_players_naeherung
 13429779874,2026-11-20T07:00:58Z,verkauf,Kristof,6160,Elversberg,,1. FC Infantino,12390373,12123033,267340,2.2,history_players_naeherung
+13431627409,2026-11-20T11:14:09Z,verkauf,Le Joncour,7514,Elversberg,,Paul Block,4148099,683187,3464912,507.2,history_players_naeherung
+13431627808,2026-11-20T11:14:13Z,verkauf,Köhn,3453,Union Berlin,,Paul Block,5904201,2937906,2966295,101.0,history_players_naeherung
+13431627949,2026-11-20T11:14:16Z,verkauf,Zagadou,2068,Stuttgart,,Paul Block,3701904,508281,3193623,628.3,history_players_naeherung
