@@ -1174,3 +1174,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13428680422,2026-11-20T04:55:43Z,kauf,Zimmerschied,9224,Elversberg,nico,,1555000,761070,793930,104.3,history_players_naeherung
 13429195138,2026-11-20T05:56:54Z,verkauf,Ilicevic,15529,Frankfurt,,Aaron,2768232,2417483,350749,14.5,history_players_naeherung
 13429195543,2026-11-20T05:57:00Z,verkauf,Chuki,8166,Bremen,,Aaron,11375084,10235250,1139834,11.1,history_players_naeherung
+13429779874,2026-11-20T07:00:58Z,verkauf,Kristof,6160,Elversberg,,1. FC Infantino,12390373,12123033,267340,2.2,history_players_naeherung
