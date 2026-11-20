@@ -1171,3 +1171,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13426324096,2026-11-19T22:06:05Z,verkauf,Omari,11752,Hamburg,,nico,5745001,4941668,803333,16.3,history_players_naeherung
 13426705597,2026-11-19T23:00:26Z,verkauf,El-Faouzi,2967,Schalke,,Felix,7409422,5315727,2093695,39.4,history_players_naeherung
 13426706059,2026-11-19T23:00:28Z,verkauf,Ache,2855,Köln,,Felix,7610741,5638025,1972716,35.0,history_players_naeherung
+13428680422,2026-11-20T04:55:43Z,kauf,Zimmerschied,9224,Elversberg,nico,,1555000,761070,793930,104.3,history_players_naeherung
