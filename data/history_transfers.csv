@@ -1187,3 +1187,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13435261252,2026-11-20T19:00:33Z,verkauf,Schmied,10024,Köln,,Kai,6524894,4293855,2231039,52.0,history_players_naeherung
 13436530066,2026-11-20T22:14:47Z,verkauf,Kane,7226,Bayern,,Paul Block,65923375,65687732,235643,0.4,history_players_naeherung
 13437412159,2026-11-21T00:08:03Z,verkauf,Müller,11170,Paderborn,,nico,3252033,503694,2748339,545.6,history_players_naeherung
+13439313316,2026-11-21T06:22:47Z,kauf,Van den Bosch,14917,Union Berlin,nico,,4700000,6153800,-1453800,-23.6,history_players_naeherung
