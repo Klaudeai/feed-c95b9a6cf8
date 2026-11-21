@@ -1193,3 +1193,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13441193494,2026-11-21T11:28:51Z,verkauf,Brackelmann,7283,Augsburg,,Kai,10002458,7040531,2961927,42.1,history_players_naeherung
 13441194016,2026-11-21T11:29:08Z,verkauf,Højlund,8351,Frankfurt,,Kai,3863283,764184,3099099,405.5,history_players_naeherung
 13443784420,2026-11-21T19:12:27Z,kauf,Nusa,9507,Leipzig,Kai,,40673323,31561609,9111714,28.9,history_players_naeherung
+13445007049,2026-11-21T22:47:17Z,kauf,Wimmer,3124,Hoffenheim,Paul Block,,856999,1587516,-730517,-46.0,history_players_naeherung
