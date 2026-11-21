@@ -1189,3 +1189,6 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13437412159,2026-11-21T00:08:03Z,verkauf,Müller,11170,Paderborn,,nico,3252033,503694,2748339,545.6,history_players_naeherung
 13439313316,2026-11-21T06:22:47Z,kauf,Van den Bosch,14917,Union Berlin,nico,,4700000,6153800,-1453800,-23.6,history_players_naeherung
 13440021349,2026-11-21T08:10:31Z,verkauf,Nicolas,1883,M'gladbach,,1. FC Infantino,9095571,8301044,794527,9.6,history_players_naeherung
+13441158538,2026-11-21T11:21:26Z,kauf,Boey,7498,Bayern,nico,,1423500,673918,749582,111.2,history_players_naeherung
+13441193494,2026-11-21T11:28:51Z,verkauf,Brackelmann,7283,Augsburg,,Kai,10002458,7040531,2961927,42.1,history_players_naeherung
+13441194016,2026-11-21T11:29:08Z,verkauf,Højlund,8351,Frankfurt,,Kai,3863283,764184,3099099,405.5,history_players_naeherung
