@@ -120,4 +120,4 @@ player_id,player,team,position,bid_amount,market_value_at_bid,bid_vs_mv_pct,comp
 3284,Maximilian Rohr,Elversberg,ABW,17256845,16893969,2.1,1,2026-11-18T14:57:00+00:00,2026-11-18T13:31:15+00:00,2026-11-18T13:31:15+00:00,gewonnen,2026-11-18T14:57:38Z,17256845,ich,eigener Kauf in squad.json gefunden
 2232,Philipp Mwene,Mainz,ABW,7224222,7181156,0.6,1,2026-11-19T11:21:00+00:00,2026-11-19T08:31:00+00:00,2026-11-19T08:31:00+00:00,gewonnen,2026-11-19T11:21:20Z,7224222,ich,eigener Kauf in squad.json gefunden
 9507,Antonio Nusa,Leipzig,MF,40673323,32809130,24.0,1,2026-11-21T19:12:00+00:00,2026-11-21T13:01:07+00:00,2026-11-21T15:01:06+00:00,gewonnen,2026-11-21T19:12:27Z,40673323,ich,eigener Kauf in squad.json gefunden
-3228,Justin Njinmah,Bremen,ST,4176833,4149009,0.7,1,2026-11-23T01:38:00+00:00,2026-11-23T01:29:06+00:00,2026-11-23T01:29:06+00:00,offen,,,,
+3228,Justin Njinmah,Bremen,ST,4176833,4149009,0.7,1,2026-11-23T01:38:00+00:00,2026-11-23T01:29:06+00:00,2026-11-23T01:29:06+00:00,verloren,2026-11-23T01:38:49Z,4369999,Paul Block,Kauf durch anderen Manager im Transfer-Archiv gefunden
