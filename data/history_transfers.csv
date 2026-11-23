@@ -1200,3 +1200,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13452549463,2026-11-22T20:40:01Z,kauf,Lee,2476,Mainz,nico,,6767676,6409959,357717,5.6,history_players_naeherung
 13452689935,2026-11-22T21:05:54Z,verkauf,Claude-Maurice,9684,Augsburg,,Felix,7981027,7990014,-8987,-0.1,history_players_naeherung
 13454203951,2026-11-23T01:38:49Z,kauf,Njinmah,3228,Bremen,Paul Block,,4369999,4248070,121929,2.9,history_players_naeherung
+13455070435,2026-11-23T04:34:02Z,kauf,Codjo-Evora,18550,Bayern,Paul Block,,1410999,700635,710364,101.4,history_players_naeherung
