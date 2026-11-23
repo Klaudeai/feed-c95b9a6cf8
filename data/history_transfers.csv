@@ -1206,3 +1206,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13456747558,2026-11-23T08:34:15Z,verkauf,El Mala,8273,Köln,,Jonnhji,4869752,4838236,31516,0.7,history_players_naeherung
 13458990046,2026-11-23T15:32:35Z,kauf,Karazor,2214,Stuttgart,nico,,6654545,6279483,375062,6.0,history_players_naeherung
 13459583068,2026-11-23T17:21:14Z,auto_verkauf_mvp,Moreira,15199,Leverkusen,,Paul Block,16547725,16375759,171966,1.1,history_players_naeherung
+13463775499,2026-11-23T18:54:33Z,kauf,Svensson,10115,Dortmund,Jonnhji,,23037999,22514160,523839,2.3,history_players_naeherung
