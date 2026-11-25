@@ -1211,3 +1211,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13480645942,2026-11-24T12:10:19Z,kauf,Nebel,2895,Mainz,Jonnhji,,6057999,5935286,122713,2.1,history_players_naeherung
 13485542683,2026-11-25T01:52:27Z,kauf,Tietz,2030,Mainz,Paul Block,,26389999,23354477,3035522,13.0,history_players_naeherung
 13486570426,2026-11-25T05:18:10Z,kauf,Bellingham,11099,Dortmund,Paul Block,,20469999,20269048,200951,1.0,history_players_naeherung
+13488606625,2026-11-25T10:33:56Z,kauf,Castañeda,8292,Paderborn,Paul Block,Kai,17000000,14800577,2199423,14.9,history_players_naeherung
