@@ -1216,3 +1216,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13489322026,2026-11-25T12:50:57Z,kauf,Džeko,1012,Schalke,Kai,,1099666,809122,290544,35.9,history_players_naeherung
 13490936359,2026-11-25T18:20:24Z,kauf,Bernardo,1954,Hoffenheim,nico,,5500000,2138869,3361131,157.1,history_players_naeherung
 13491326812,2026-11-25T19:39:43Z,kauf,Chukwuemeka,10114,Dortmund,Felix,,5222229,4194626,1027603,24.5,history_players_naeherung
+13492112689,2026-11-25T22:07:11Z,verkauf,Njinmah,3228,Bremen,,Paul Block,5039554,4294871,744683,17.3,history_players_naeherung
+13492183699,2026-11-25T22:21:20Z,kauf,Baum,7325,Frankfurt,Jonnhji,,5357999,4967383,390616,7.9,history_players_naeherung
