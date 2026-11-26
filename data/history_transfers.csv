@@ -1225,3 +1225,7 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13496491591,2026-11-26T11:01:50Z,verkauf,Karazor,2214,Stuttgart,,nico,7329245,6848124,481121,7.0,history_players_naeherung
 13496894227,2026-11-26T12:18:12Z,kauf,Querfeld,7723,Union Berlin,nico,,6700009,5192228,1507781,29.0,history_players_naeherung
 13500464845,2026-11-26T22:50:10Z,verkauf,Bellingham,11099,Dortmund,,Paul Block,20447054,20269048,178006,0.9,history_players_naeherung
+13500761110,2026-11-26T23:27:58Z,verkauf,Zimmerschied,9224,Elversberg,,nico,3625675,2794615,831060,29.7,history_players_naeherung
+13500761503,2026-11-26T23:28:07Z,verkauf,Boey,7498,Bayern,,nico,3150189,2352292,797897,33.9,history_players_naeherung
+13500761608,2026-11-26T23:28:09Z,verkauf,Herold,4292,M'gladbach,,nico,2708855,1775813,933042,52.5,history_players_naeherung
+13500761725,2026-11-26T23:28:12Z,verkauf,Lee,2476,Mainz,,nico,7618724,7028452,590272,8.4,history_players_naeherung
