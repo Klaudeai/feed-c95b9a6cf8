@@ -1221,3 +1221,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13492232626,2026-11-25T22:31:56Z,kauf,Dina Ebimbe,4406,Schalke,Jonnhji,,3127999,2561895,566104,22.1,history_players_naeherung
 13493704864,2026-11-26T03:20:05Z,kauf,Finkgräfe,7239,Leipzig,Jonnhji,,1357999,789054,568945,72.1,history_players_naeherung
 13494540451,2026-11-26T05:46:58Z,kauf,Seol,13806,Augsburg,1. FC Infantino,,1500000,831410,668590,80.4,history_players_naeherung
+13494834091,2026-11-26T06:25:20Z,verkauf,Ayhan,10916,Schalke,,Aaron,3952899,4313367,-360468,-8.4,history_players_naeherung
