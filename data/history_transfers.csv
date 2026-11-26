@@ -1224,3 +1224,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13494834091,2026-11-26T06:25:20Z,verkauf,Ayhan,10916,Schalke,,Aaron,3952899,4313367,-360468,-8.4,history_players_naeherung
 13496491591,2026-11-26T11:01:50Z,verkauf,Karazor,2214,Stuttgart,,nico,7329245,6848124,481121,7.0,history_players_naeherung
 13496894227,2026-11-26T12:18:12Z,kauf,Querfeld,7723,Union Berlin,nico,,6700009,5192228,1507781,29.0,history_players_naeherung
+13500464845,2026-11-26T22:50:10Z,verkauf,Bellingham,11099,Dortmund,,Paul Block,20447054,20269048,178006,0.9,history_players_naeherung
