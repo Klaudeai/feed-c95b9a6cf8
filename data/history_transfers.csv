@@ -1239,3 +1239,5 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13506361966,2026-11-27T14:12:10Z,verkauf,Musiala,2804,Bayern,,nico,24683924,24277069,406855,1.7,history_players_naeherung
 13506557107,2026-11-27T14:32:46Z,kauf,Nmecha,3069,Dortmund,Jonnhji,,37175999,30496488,6679511,21.9,history_players_naeherung
 13507112011,2026-11-27T15:50:05Z,kauf,Bischof,3120,Bayern,nico,,26868000,20143788,6724212,33.4,history_players_naeherung
+13507557430,2026-11-27T16:47:01Z,verkauf,Undav,7158,Stuttgart,,Jonnhji,29766701,29730061,36640,0.1,history_players_naeherung
+13507557577,2026-11-27T16:47:03Z,verkauf,Baum,7325,Frankfurt,,Jonnhji,5474706,4967383,507323,10.2,history_players_naeherung
