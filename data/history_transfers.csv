@@ -1236,3 +1236,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13505032558,2026-11-27T10:42:52Z,kauf,Aebischer,7684,Union Berlin,nico,,4845000,3944224,900776,22.8,history_players_naeherung
 13505315482,2026-11-27T11:27:56Z,verkauf,Codjo-Evora,18550,Bayern,,Paul Block,2294151,1354004,940147,69.4,history_players_naeherung
 13505498686,2026-11-27T11:56:38Z,kauf,Wolf,1809,Augsburg,schwungzent,,7155555,5145266,2010289,39.1,history_players_naeherung
+13506361966,2026-11-27T14:12:10Z,verkauf,Musiala,2804,Bayern,,nico,24683924,24277069,406855,1.7,history_players_naeherung
