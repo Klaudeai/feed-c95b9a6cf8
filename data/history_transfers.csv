@@ -1242,3 +1242,4 @@ event_id,at,kind,player,player_id,team,buyer,seller,price,market_value_at_transf
 13507557430,2026-11-27T16:47:01Z,verkauf,Undav,7158,Stuttgart,,Jonnhji,29766701,29730061,36640,0.1,history_players_naeherung
 13507557577,2026-11-27T16:47:03Z,verkauf,Baum,7325,Frankfurt,,Jonnhji,5474706,4967383,507323,10.2,history_players_naeherung
 13508603293,2026-11-27T19:00:56Z,verkauf,Mwene,2232,Mainz,,Kai,9313666,8598208,715458,8.3,history_players_naeherung
+13512249661,2026-11-28T05:55:27Z,kauf,Demirović,2854,Stuttgart,Paul Block,,18189999,17728241,461758,2.6,history_players_naeherung
